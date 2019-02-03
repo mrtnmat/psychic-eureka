@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>MUD[acores88]</deckname>
+    <comments>name : mud
+creator : acores88
+format : vintage
+</comments>
+    <zone name="main">
+        <card number="4" name="Arcbound Ravager"/>
+        <card number="1" name="Chief of the Foundry"/>
+        <card number="4" name="Foundry Inspector"/>
+        <card number="2" name="Hangarback Walker"/>
+        <card number="1" name="Lodestone Golem"/>
+        <card number="3" name="Phyrexian Metamorph"/>
+        <card number="4" name="Phyrexian Revoker"/>
+        <card number="4" name="Steel Overseer"/>
+        <card number="4" name="Walking Ballista"/>
+        <card number="1" name="Black Lotus"/>
+        <card number="1" name="Chalice of the Void"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Mox Emerald"/>
+        <card number="1" name="Mox Jet"/>
+        <card number="1" name="Mox Pearl"/>
+        <card number="1" name="Mox Ruby"/>
+        <card number="1" name="Mox Sapphire"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="4" name="Sphere of Resistance"/>
+        <card number="1" name="Thorn of Amethyst"/>
+        <card number="1" name="Trinisphere"/>
+        <card number="4" name="Ancient Tomb"/>
+        <card number="4" name="Mishra's Factory"/>
+        <card number="4" name="Mishra's Workshop"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Tolarian Academy"/>
+        <card number="4" name="Wasteland"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Crucible of Worlds"/>
+        <card number="1" name="Dismember"/>
+        <card number="4" name="Grafdigger's Cage"/>
+        <card number="3" name="Leyline of the Void"/>
+        <card number="3" name="Null Rod"/>
+        <card number="3" name="Wurmcoil Engine"/>
+    </zone>
+</cockatrice_deck>
