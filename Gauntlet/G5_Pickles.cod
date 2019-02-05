@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>G5_Pickles</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Brine Elemental"/>
+        <card number="4" name="Phyrexian Ironfoot"/>
+        <card number="2" name="Teferi, Mage of Zhalfir"/>
+        <card number="2" name="Venser, Shaper Savant"/>
+        <card number="4" name="Vesuvan Shapeshifter"/>
+        <card number="4" name="Ancestral Vision"/>
+        <card number="3" name="Wrath of God"/>
+        <card number="4" name="Cryptic Command"/>
+        <card number="4" name="Rune Snag"/>
+        <card number="2" name="Oblivion Ring"/>
+        <card number="4" name="Adarkar Wastes"/>
+        <card number="4" name="Calciform Pools"/>
+        <card number="3" name="Nimbus Maze"/>
+        <card number="10" name="Snow-Covered Island"/>
+        <card number="2" name="Snow-Covered Plains"/>
+        <card number="2" name="Urza's Factory"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="2" name="Aeon Chronicler"/>
+        <card number="3" name="Aven Riftwatcher"/>
+        <card number="3" name="Faerie Trickery"/>
+        <card number="2" name="Jace Beleren"/>
+        <card number="2" name="Magus of the Tabernacle"/>
+    </zone>
+</cockatrice_deck>

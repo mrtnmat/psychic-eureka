@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>G5_GhaziGlare</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Loxodon Hierarch"/>
+        <card number="3" name="Arashi, the Sky Asunder"/>
+        <card number="3" name="Kodama of the North Tree"/>
+        <card number="2" name="Yosei, the Morning Star"/>
+        <card number="4" name="Wood Elves"/>
+        <card number="4" name="Selesnya Guildmage"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="3" name="Llanowar Elves"/>
+        <card number="2" name="Seed Spark"/>
+        <card number="2" name="Congregation at Dawn"/>
+        <card number="3" name="Umezawa's Jitte"/>
+        <card number="3" name="Pithing Needle"/>
+        <card number="3" name="Glare of Subdual"/>
+        <card number="4" name="Brushland"/>
+        <card number="1" name="Okina, Temple to the Grandfathers"/>
+        <card number="5" name="Forest"/>
+        <card number="1" name="Plains"/>
+        <card number="4" name="Selesnya Sanctuary"/>
+        <card number="4" name="Temple Garden"/>
+        <card number="4" name="Vitu-Ghazi, the City-Tree"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kodama of the North Tree"/>
+        <card number="2" name="Yosei, the Morning Star"/>
+        <card number="3" name="Hokori, Dust Drinker"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="2" name="Naturalize"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="2" name="Carven Caryatid"/>
+        <card number="2" name="Greater Good"/>
+        <card number="1" name="Seedborn Muse"/>
+    </zone>
+</cockatrice_deck>

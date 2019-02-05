@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BR_ThoralfSeverin</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Nest Robber"/>
+        <card number="2" name="Tilonalli's Knight"/>
+        <card number="1" name="Blight Keeper"/>
+        <card number="1" name="Deadeye Tracker"/>
+        <card number="1" name="Dire Fleet Hoarder"/>
+        <card number="1" name="Ruin Raider"/>
+        <card number="1" name="Vicious Conquistador"/>
+        <card number="1" name="Brazen Buccaneers"/>
+        <card number="1" name="Captivating Crew"/>
+        <card number="1" name="Frenzied Raptor"/>
+        <card number="1" name="Headstrong Brute"/>
+        <card number="1" name="Raptor Hatchling"/>
+        <card number="1" name="Sun-Crowned Hunters"/>
+        <card number="1" name="Thrash of Raptors"/>
+        <card number="2" name="Contract Killing"/>
+        <card number="1" name="Hijack"/>
+        <card number="1" name="Cobbled Wings"/>
+        <card number="3" name="Swashbuckling"/>
+        <card number="9" name="Mountain"/>
+        <card number="8" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Brazen Buccaneers"/>
+        <card number="3" name="Rummaging Goblin"/>
+        <card number="2" name="Costly Plunder"/>
+        <card number="2" name="Duress"/>
+        <card number="1" name="Pillar of Origins"/>
+        <card number="1" name="Prying Blade"/>
+        <card number="1" name="Sheltering Light"/>
+        <card number="1" name="Prosperous Pirates"/>
+        <card number="1" name="Deathless Ancient"/>
+        <card number="1" name="Dual Shot"/>
+        <card number="1" name="Otepec Huntmaster"/>
+        <card number="1" name="Tilonalli's Skinshifter"/>
+        <card number="1" name="Ancient Brontodon"/>
+        <card number="1" name="Colossal Dreadmaw"/>
+        <card number="1" name="Deeproot Warrior"/>
+    </zone>
+</cockatrice_deck>

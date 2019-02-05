@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>G4_Goblins</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Siege-Gang Commander"/>
+        <card number="3" name="Goblin Goon"/>
+        <card number="3" name="Clickslither"/>
+        <card number="4" name="Goblin Sharpshooter"/>
+        <card number="4" name="Goblin Warchief"/>
+        <card number="4" name="Sparksmith"/>
+        <card number="4" name="Goblin Sledder"/>
+        <card number="3" name="Skirk Prospector"/>
+        <card number="4" name="Electrostatic Bolt"/>
+        <card number="4" name="Oxidize"/>
+        <card number="3" name="City of Brass"/>
+        <card number="4" name="Forest"/>
+        <card number="12" name="Mountain"/>
+        <card number="4" name="Wooded Foothills"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Starstorm"/>
+        <card number="4" name="Naturalize"/>
+        <card number="3" name="Viridian Shaman"/>
+        <card number="4" name="Skullclamp"/>
+    </zone>
+</cockatrice_deck>

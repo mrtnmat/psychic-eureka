@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>G4_ElfAndNail</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Wood Elves"/>
+        <card number="4" name="Viridian Shaman"/>
+        <card number="2" name="Wirewood Herald"/>
+        <card number="4" name="Vine Trellis"/>
+        <card number="4" name="Wirewood Symbiote"/>
+        <card number="4" name="Birds of Paradise"/>
+        <card number="1" name="Kamahl, Fist of Krosa"/>
+        <card number="2" name="Duplicant"/>
+        <card number="3" name="Triskelion"/>
+        <card number="1" name="Darksteel Colossus"/>
+        <card number="3" name="Tooth and Nail"/>
+        <card number="4" name="Skullclamp"/>
+        <card number="4" name="Vernal Bloom"/>
+        <card number="1" name="Mountain"/>
+        <card number="4" name="Wooded Foothills"/>
+        <card number="16" name="Forest"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Triskelion"/>
+        <card number="4" name="Pyroclasm"/>
+        <card number="4" name="Oxidize"/>
+        <card number="2" name="Naturalize"/>
+        <card number="2" name="Forgotten Ancient"/>
+        <card number="2" name="Sundering Titan"/>
+    </zone>
+</cockatrice_deck>

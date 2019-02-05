@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>G5_IzzetTron</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Bogardan Hellkite"/>
+        <card number="4" name="Sulfur Elemental"/>
+        <card number="4" name="Compulsive Research"/>
+        <card number="2" name="Demonfire"/>
+        <card number="2" name="Tidings"/>
+        <card number="3" name="Electrolyze"/>
+        <card number="4" name="Mana Leak"/>
+        <card number="4" name="Remand"/>
+        <card number="3" name="Repeal"/>
+        <card number="2" name="Spell Burst"/>
+        <card number="4" name="Izzet Signet"/>
+        <card number="2" name="Dimir Signet"/>
+        <card number="2" name="Island"/>
+        <card number="4" name="Steam Vents"/>
+        <card number="4" name="Shivan Reef"/>
+        <card number="1" name="Urza's Factory"/>
+        <card number="4" name="Urza's Mine"/>
+        <card number="4" name="Urza's Power Plant"/>
+        <card number="4" name="Urza's Tower"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Annex"/>
+        <card number="3" name="Bottle Gnomes"/>
+        <card number="1" name="Commandeer"/>
+        <card number="1" name="Mystical Teachings"/>
+        <card number="2" name="Serrated Arrows"/>
+        <card number="1" name="Teferi, Mage of Zhalfir"/>
+        <card number="1" name="Vesuva"/>
+        <card number="2" name="Vesuvan Shapeshifter"/>
+    </zone>
+</cockatrice_deck>

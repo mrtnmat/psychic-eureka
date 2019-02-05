@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gauntlet3_Slide</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Exalted Angel"/>
+        <card number="3" name="Eternal Dragon"/>
+        <card number="3" name="Wrath of God"/>
+        <card number="4" name="Burning Wish"/>
+        <card number="2" name="Slice and Dice"/>
+        <card number="3" name="Decree of Justice"/>
+        <card number="4" name="Renewed Faith"/>
+        <card number="4" name="Spark Spray"/>
+        <card number="3" name="Astral Slide"/>
+        <card number="4" name="Lightning Rift"/>
+        <card number="4" name="Forgotten Cave"/>
+        <card number="8" name="Mountain"/>
+        <card number="8" name="Plains"/>
+        <card number="4" name="Secluded Steppe"/>
+        <card number="3" name="Temple of the False God"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Exalted Angel"/>
+        <card number="1" name="Slice and Dice"/>
+        <card number="1" name="Eternal Dragon"/>
+        <card number="1" name="Decree of Justice"/>
+        <card number="2" name="Morningtide"/>
+        <card number="2" name="Cleansing Meditation"/>
+        <card number="1" name="Ancestral Tribute"/>
+        <card number="1" name="Overmaster"/>
+        <card number="1" name="Demolish"/>
+        <card number="2" name="Obliterate"/>
+        <card number="1" name="Decree of Annihilation"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>G4_SkullclampAffinity</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Arcbound Worker"/>
+        <card number="4" name="Disciple of the Vault"/>
+        <card number="4" name="Arcbound Ravager"/>
+        <card number="4" name="Frogmite"/>
+        <card number="4" name="Myr Enforcer"/>
+        <card number="4" name="Thoughtcast"/>
+        <card number="2" name="Electrostatic Bolt"/>
+        <card number="4" name="Shrapnel Blast"/>
+        <card number="4" name="Skullclamp"/>
+        <card number="4" name="Chromatic Sphere"/>
+        <card number="4" name="Welding Jar"/>
+        <card number="2" name="Blinkmoth Nexus"/>
+        <card number="3" name="Darksteel Citadel"/>
+        <card number="3" name="Glimmervoid"/>
+        <card number="4" name="Great Furnace"/>
+        <card number="3" name="Seat of the Synod"/>
+        <card number="3" name="Vault of Whispers"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Mana Leak"/>
+        <card number="4" name="Pyroclasm"/>
+        <card number="3" name="Seething Song"/>
+        <card number="3" name="Furnace Dragon"/>
+        <card number="3" name="Genesis Chamber"/>
+    </zone>
+</cockatrice_deck>
