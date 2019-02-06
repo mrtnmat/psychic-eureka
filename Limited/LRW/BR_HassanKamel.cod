@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BR_HassanKamel</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Boggart Harbinger"/>
+        <card number="1" name="Boggart Loggers"/>
+        <card number="1" name="Caterwauling Boggart"/>
+        <card number="1" name="Flamekin Harbinger"/>
+        <card number="2" name="Glarewielder"/>
+        <card number="1" name="Ghostly Changeling"/>
+        <card number="1" name="Incandescent Soulstoke"/>
+        <card number="2" name="Inner-Flame Acolyte"/>
+        <card number="1" name="Knucklebone Witch"/>
+        <card number="2" name="Mournwhelk"/>
+        <card number="1" name="Nova Chaser"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="2" name="Smokebraider"/>
+        <card number="1" name="Soulbright Flamekin"/>
+        <card number="1" name="Consuming Bonfire"/>
+        <card number="1" name="Profane Command"/>
+        <card number="1" name="Lash Out"/>
+        <card number="9" name="Mountain"/>
+        <card number="7" name="Swamp"/>
+        <card number="1" name="Vivid Marsh"/>
+        <card number="1" name="Blades of Velis Vel"/>
+        <card number="1" name="Tarfire"/>
+    </zone>
+</cockatrice_deck>

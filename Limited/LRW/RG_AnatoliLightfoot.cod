@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RG_AnatoliLightfoot</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Axegrinder Giant"/>
+        <card number="2" name="Blind-Spot Giant"/>
+        <card number="1" name="Elvish Branchbender"/>
+        <card number="3" name="Elvish Handservant"/>
+        <card number="1" name="Fire-Belly Changeling"/>
+        <card number="1" name="Giant Harbinger"/>
+        <card number="2" name="Lowland Oaf"/>
+        <card number="1" name="Lys Alana Huntmaster"/>
+        <card number="1" name="Woodland Changeling"/>
+        <card number="1" name="Incendiary Command"/>
+        <card number="1" name="Incremental Growth"/>
+        <card number="1" name="Lash Out"/>
+        <card number="1" name="Runed Stalactite"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Mosswort Bridge"/>
+        <card number="8" name="Forest"/>
+        <card number="7" name="Mountain"/>
+        <card number="2" name="Blades of Velis Vel"/>
+        <card number="1" name="Crush Underfoot"/>
+        <card number="3" name="Gilt-Leaf Ambush"/>
+    </zone>
+</cockatrice_deck>

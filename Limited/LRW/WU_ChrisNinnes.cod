@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WU_ChrisNinnes</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Deeptread Merrow"/>
+        <card number="1" name="Fallowsage"/>
+        <card number="1" name="Kinsbaile Skirmisher"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Paperfin Rascal"/>
+        <card number="3" name="Sentinels of Glen Elendra"/>
+        <card number="2" name="Silvergill Adept"/>
+        <card number="1" name="Silvergill Douser"/>
+        <card number="1" name="Spellstutter Sprite"/>
+        <card number="2" name="Springjack Knight"/>
+        <card number="2" name="Streambed Aquitects"/>
+        <card number="1" name="Sygg, River Guide"/>
+        <card number="1" name="Broken Ambitions"/>
+        <card number="1" name="Triclopean Sight"/>
+        <card number="8" name="Island"/>
+        <card number="6" name="Plains"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Vivid Creek"/>
+        <card number="1" name="Eyeblight's Ending"/>
+        <card number="2" name="Faerie Trickery"/>
+    </zone>
+</cockatrice_deck>
