@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BG_MattSperling</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Deadbridge Goliath"/>
+        <card number="1" name="Dead Reveler"/>
+        <card number="1" name="Thrill-Kill Assassin"/>
+        <card number="1" name="Zanikev Locust"/>
+        <card number="1" name="Axebane Guardian"/>
+        <card number="1" name="Centaur's Herald"/>
+        <card number="1" name="Gatecreeper Vine"/>
+        <card number="1" name="Korozda Monitor"/>
+        <card number="1" name="Towering Indrik"/>
+        <card number="1" name="Corpsejack Menace"/>
+        <card number="1" name="Dreg Mangler"/>
+        <card number="1" name="Loxodon Smiter"/>
+        <card number="1" name="Dryad Militant"/>
+        <card number="1" name="Coursers' Accord"/>
+        <card number="1" name="Treasured Find"/>
+        <card number="1" name="Eyes in the Skies"/>
+        <card number="1" name="Aerial Predation"/>
+        <card number="1" name="Chorus of Might"/>
+        <card number="2" name="Giant Growth"/>
+        <card number="1" name="Abrupt Decay"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="1" name="Grisly Salvage"/>
+        <card number="7" name="Forest"/>
+        <card number="2" name="Plains"/>
+        <card number="6" name="Swamp"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Selesnya Guildgate"/>
+    </zone>
+</cockatrice_deck>

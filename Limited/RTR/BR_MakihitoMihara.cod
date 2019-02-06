@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BR_MakihitoMihara</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Dead Reveler"/>
+        <card number="2" name="Grim Roustabout"/>
+        <card number="1" name="Slum Reaper"/>
+        <card number="1" name="Gore-House Chainwalker"/>
+        <card number="2" name="Lobber Crew"/>
+        <card number="3" name="Splatter Thug"/>
+        <card number="1" name="Carnival Hellsteed"/>
+        <card number="2" name="Spawn of Rix Maadi"/>
+        <card number="1" name="Frostburn Weird"/>
+        <card number="1" name="Goblin Rally"/>
+        <card number="1" name="Traitorous Instinct"/>
+        <card number="1" name="Launch Party"/>
+        <card number="1" name="Ultimate Price"/>
+        <card number="2" name="Annihilating Fire"/>
+        <card number="1" name="Dynacharge"/>
+        <card number="1" name="Auger Spree"/>
+        <card number="1" name="Deviant Glee"/>
+        <card number="1" name="Stab Wound"/>
+        <card number="9" name="Mountain"/>
+        <card number="7" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

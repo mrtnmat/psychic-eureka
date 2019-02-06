@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WU_LuisScott-Vargas</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Palisade Giant"/>
+        <card number="1" name="Crosstown Courier"/>
+        <card number="1" name="Skyline Predator"/>
+        <card number="1" name="Soulsworn Spirit"/>
+        <card number="4" name="Tower Drake"/>
+        <card number="3" name="Voidwielder"/>
+        <card number="1" name="Hussar Patrol"/>
+        <card number="2" name="Skymark Roc"/>
+        <card number="1" name="Dryad Militant"/>
+        <card number="1" name="Frostburn Weird"/>
+        <card number="1" name="Inaction Injunction"/>
+        <card number="1" name="Swift Justice"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Downsize"/>
+        <card number="1" name="Dramatic Rescue"/>
+        <card number="1" name="Azorius Keyrune"/>
+        <card number="1" name="Knightly Valor"/>
+        <card number="2" name="Azorius Guildgate"/>
+        <card number="8" name="Island"/>
+        <card number="7" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Transguild Promenade"/>
+        <card number="1" name="Rakdos Keyrune"/>
+        <card number="1" name="Street Sweeper"/>
+        <card number="1" name="Tablet of the Guilds"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="1" name="Trained Caracal"/>
+        <card number="1" name="Inspiration"/>
+        <card number="2" name="Drainpipe Vermin"/>
+        <card number="1" name="Ogre Jailbreaker"/>
+        <card number="1" name="Stab Wound"/>
+        <card number="1" name="Urban Burgeoning"/>
+        <card number="1" name="Armada Wurm"/>
+        <card number="1" name="Chemister's Trick"/>
+        <card number="1" name="Rakdos Ringleader"/>
+        <card number="1" name="Search Warrant"/>
+    </zone>
+</cockatrice_deck>

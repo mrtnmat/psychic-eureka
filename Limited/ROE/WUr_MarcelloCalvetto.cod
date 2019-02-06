@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WUr_MarcelloCalvetto</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Caravan Escort"/>
+        <card number="1" name="Kabira Vindicator"/>
+        <card number="3" name="Knight of Cliffhaven"/>
+        <card number="1" name="Makindi Griffin"/>
+        <card number="1" name="Wall of Omens"/>
+        <card number="1" name="Champion's Drake"/>
+        <card number="2" name="Skywatcher Adept"/>
+        <card number="1" name="Venerated Teacher"/>
+        <card number="1" name="Oust"/>
+        <card number="1" name="Survival Cache"/>
+        <card number="1" name="Flame Slash"/>
+        <card number="1" name="Emerge Unscathed"/>
+        <card number="1" name="Repel the Darkness"/>
+        <card number="1" name="Smite"/>
+        <card number="1" name="Guard Duty"/>
+        <card number="1" name="Mammoth Umbra"/>
+        <card number="1" name="Time of Heroes"/>
+        <card number="1" name="Gravitational Shift"/>
+        <card number="1" name="Narcolepsy"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="Mountain"/>
+        <card number="10" name="Plains"/>
+        <card number="1" name="Evolving Wilds"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Guard Duty"/>
+        <card number="1" name="Hand of Emrakul"/>
+        <card number="1" name="Demystify"/>
+        <card number="1" name="Nomads' Assembly"/>
+        <card number="1" name="Soul's Attendant"/>
+        <card number="1" name="Aura Finesse"/>
+        <card number="3" name="Merfolk Observer"/>
+        <card number="1" name="Renegade Doppelganger"/>
+        <card number="1" name="Unified Will"/>
+        <card number="1" name="Bala Ged Scorpion"/>
+        <card number="1" name="Dread Drone"/>
+        <card number="2" name="Nighthaze"/>
+        <card number="1" name="Fissure Vent"/>
+        <card number="1" name="Aura Gnarlid"/>
+        <card number="1" name="Leaf Arrow"/>
+        <card number="1" name="Naturalize"/>
+    </zone>
+</cockatrice_deck>

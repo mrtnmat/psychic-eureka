@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WG_HarryCorvese</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Keening Apparition"/>
+        <card number="1" name="Phantom General"/>
+        <card number="2" name="Selesnya Sentry"/>
+        <card number="1" name="Isperia's Skywatch"/>
+        <card number="2" name="Centaur's Herald"/>
+        <card number="1" name="Golgari Decoy"/>
+        <card number="1" name="Towering Indrik"/>
+        <card number="1" name="Centaur Healer"/>
+        <card number="2" name="Loxodon Smiter"/>
+        <card number="1" name="Mercurial Chemister"/>
+        <card number="1" name="Azor's Elocutors"/>
+        <card number="1" name="Seek the Horizon"/>
+        <card number="1" name="Coursers' Accord"/>
+        <card number="1" name="Swift Justice"/>
+        <card number="1" name="Trostani's Judgment"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Druid's Deliverance"/>
+        <card number="1" name="Savage Surge"/>
+        <card number="1" name="Common Bond"/>
+        <card number="1" name="Izzet Keyrune"/>
+        <card number="6" name="Forest"/>
+        <card number="1" name="Island"/>
+        <card number="6" name="Plains"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Azorius Guildgate"/>
+        <card number="1" name="Selesnya Guildgate"/>
+        <card number="1" name="Transguild Promenade"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Rakdos Guildgate"/>
+        <card number="1" name="Golgari Keyrune"/>
+        <card number="1" name="Rakdos Keyrune"/>
+        <card number="1" name="Ethereal Armor"/>
+        <card number="2" name="Sphere of Safety"/>
+        <card number="1" name="Aquus Steed"/>
+        <card number="1" name="Chronic Flooding"/>
+        <card number="1" name="Dispel"/>
+        <card number="2" name="Inaction Injunction"/>
+        <card number="1" name="Drainpipe Vermin"/>
+        <card number="1" name="Traitorous Instinct"/>
+        <card number="1" name="Oak Street Innkeeper"/>
+        <card number="1" name="Urban Burgeoning"/>
+        <card number="1" name="Skull Rend"/>
+    </zone>
+</cockatrice_deck>

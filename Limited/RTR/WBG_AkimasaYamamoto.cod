@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WBG_AkimasaYamamoto</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Phantom General"/>
+        <card number="1" name="Seller of Songbirds"/>
+        <card number="1" name="Pack Rat"/>
+        <card number="2" name="Centaur's Herald"/>
+        <card number="1" name="Gobbling Ooze"/>
+        <card number="2" name="Towering Indrik"/>
+        <card number="2" name="Centaur Healer"/>
+        <card number="1" name="Jarad, Golgari Lich Lord"/>
+        <card number="1" name="Horncaller's Chant"/>
+        <card number="1" name="Call of the Conclave"/>
+        <card number="1" name="Rites of Reaping"/>
+        <card number="1" name="Selesnya Charm"/>
+        <card number="1" name="Eyes in the Skies"/>
+        <card number="1" name="Ultimate Price"/>
+        <card number="1" name="Druid's Deliverance"/>
+        <card number="1" name="Giant Growth"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="1" name="Golgari Keyrune"/>
+        <card number="1" name="Martial Law"/>
+        <card number="1" name="Security Blockade"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Plains"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="3" name="Selesnya Guildgate"/>
+        <card number="1" name="Temple Garden"/>
+    </zone>
+</cockatrice_deck>

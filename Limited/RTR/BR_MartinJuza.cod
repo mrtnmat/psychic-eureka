@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BR_MartinJuza</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Dead Reveler"/>
+        <card number="1" name="Thrill-Kill Assassin"/>
+        <card number="1" name="Gore-House Chainwalker"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Splatter Thug"/>
+        <card number="1" name="Carnival Hellsteed"/>
+        <card number="1" name="Hellhole Flailer"/>
+        <card number="1" name="Rakdos Ragemutt"/>
+        <card number="1" name="Rakdos, Lord of Riots"/>
+        <card number="3" name="Rix Maadi Guildmage"/>
+        <card number="1" name="Spawn of Rix Maadi"/>
+        <card number="1" name="Rakdos Cackler"/>
+        <card number="1" name="Traitorous Instinct"/>
+        <card number="1" name="Annihilating Fire"/>
+        <card number="1" name="Explosive Impact"/>
+        <card number="1" name="Auger Spree"/>
+        <card number="2" name="Deviant Glee"/>
+        <card number="8" name="Mountain"/>
+        <card number="8" name="Swamp"/>
+        <card number="1" name="Rakdos Guildgate"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Search the City"/>
+        <card number="1" name="Cremate"/>
+        <card number="1" name="Destroy the Evidence"/>
+        <card number="1" name="Ogre Jailbreaker"/>
+        <card number="2" name="Batterhorn"/>
+        <card number="1" name="Dynacharge"/>
+        <card number="1" name="Pursuit of Flight"/>
+        <card number="2" name="Pyroconvergence"/>
+        <card number="1" name="Oak Street Innkeeper"/>
+        <card number="1" name="Centaur Healer"/>
+        <card number="1" name="Chemister's Trick"/>
+        <card number="1" name="Hussar Patrol"/>
+        <card number="1" name="Nivix Guildmage"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Nivmagus Elemental"/>
+    </zone>
+</cockatrice_deck>

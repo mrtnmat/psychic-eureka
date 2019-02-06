@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>6ED_DeckA</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="7" name="Forest"/>
+        <card number="3" name="Plains"/>
+        <card number="7" name="Swamp"/>
+        <card number="1" name="Ardent Militia"/>
+        <card number="1" name="Blood Pet"/>
+        <card number="1" name="Drudge Skeletons"/>
+        <card number="1" name="Giant Spider"/>
+        <card number="1" name="Gravebane Zombie"/>
+        <card number="1" name="Hidden Horror"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Mischievous Poltergeist"/>
+        <card number="1" name="Panther Warriors"/>
+        <card number="1" name="Samite Healer"/>
+        <card number="1" name="Scaled Wurm"/>
+        <card number="1" name="Trained Armodon"/>
+        <card number="1" name="Obsianus Golem"/>
+        <card number="1" name="Rod of Ruin"/>
+        <card number="1" name="Call of the Wild"/>
+        <card number="1" name="Enfeeblement"/>
+        <card number="1" name="Giant Growth"/>
+        <card number="1" name="Healing Salve"/>
+        <card number="1" name="Terror"/>
+        <card number="1" name="Warrior's Honor"/>
+        <card number="1" name="Creeping Mold"/>
+        <card number="1" name="Raise Dead"/>
+        <card number="1" name="Rampant Growth"/>
+    </zone>
+</cockatrice_deck>

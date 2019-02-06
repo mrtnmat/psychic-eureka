@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WU_ShuheiNakamura</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Armory Guard"/>
+        <card number="1" name="Azorius Arrester"/>
+        <card number="1" name="Fencing Ace"/>
+        <card number="1" name="Keening Apparition"/>
+        <card number="1" name="Selesnya Sentry"/>
+        <card number="1" name="Sunspire Griffin"/>
+        <card number="1" name="Crosstown Courier"/>
+        <card number="1" name="Soulsworn Spirit"/>
+        <card number="1" name="Stealer of Secrets"/>
+        <card number="1" name="Tower Drake"/>
+        <card number="1" name="Voidwielder"/>
+        <card number="1" name="Lyev Skyknight"/>
+        <card number="2" name="New Prahv Guildmage"/>
+        <card number="1" name="Vassal Soul"/>
+        <card number="1" name="Inaction Injunction"/>
+        <card number="1" name="Trostani's Judgment"/>
+        <card number="1" name="Blustersquall"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Downsize"/>
+        <card number="1" name="Arrest"/>
+        <card number="1" name="Knightly Valor"/>
+        <card number="7" name="Island"/>
+        <card number="7" name="Plains"/>
+        <card number="2" name="Azorius Guildgate"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Selesnya Sentry"/>
+        <card number="2" name="Crosstown Courier"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Mizzium Skin"/>
+        <card number="1" name="Dark Revenant"/>
+        <card number="1" name="Thrill-Kill Assassin"/>
+        <card number="1" name="Cobblebrute"/>
+        <card number="1" name="Pursuit of Flight"/>
+        <card number="1" name="Urban Burgeoning"/>
+        <card number="2" name="Chemister's Trick"/>
+        <card number="1" name="Spawn of Rix Maadi"/>
+        <card number="1" name="Golgari Longlegs"/>
+        <card number="1" name="Growing Ranks"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WU_MaksymGryn</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Azorius Guildmage"/>
+        <card number="1" name="Azorius Arrester"/>
+        <card number="1" name="Keening Apparition"/>
+        <card number="1" name="Phantom General"/>
+        <card number="1" name="Precinct Captain"/>
+        <card number="2" name="Selesnya Sentry"/>
+        <card number="1" name="Seller of Songbirds"/>
+        <card number="1" name="Sunspire Griffin"/>
+        <card number="1" name="Isperia's Skywatch"/>
+        <card number="1" name="Sphinx of the Chimes"/>
+        <card number="2" name="Voidwielder"/>
+        <card number="1" name="Hussar Patrol"/>
+        <card number="1" name="New Prahv Guildmage"/>
+        <card number="1" name="Skymark Roc"/>
+        <card number="1" name="Avenging Arrow"/>
+        <card number="1" name="Trostani's Judgment"/>
+        <card number="1" name="Sphinx's Revelation"/>
+        <card number="2" name="Ethereal Armor"/>
+        <card number="1" name="Knightly Valor"/>
+        <card number="1" name="Security Blockade"/>
+        <card number="1" name="Paralyzing Grasp"/>
+        <card number="6" name="Island"/>
+        <card number="10" name="Plains"/>
+    </zone>
+</cockatrice_deck>

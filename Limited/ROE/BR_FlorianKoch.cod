@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BR_FlorianKoch</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Bala Ged Scorpion"/>
+        <card number="2" name="Bloodrite Invoker"/>
+        <card number="1" name="Cadaver Imp"/>
+        <card number="2" name="Escaped Null"/>
+        <card number="1" name="Nirkana Cutthroat"/>
+        <card number="1" name="Pawn of Ulamog"/>
+        <card number="2" name="Skeletal Wurm"/>
+        <card number="1" name="Emrakul's Hatcher"/>
+        <card number="2" name="Valakut Fireboar"/>
+        <card number="2" name="Surreal Memoir"/>
+        <card number="2" name="Induce Despair"/>
+        <card number="1" name="Last Kiss"/>
+        <card number="3" name="Vendetta"/>
+        <card number="8" name="Mountain"/>
+        <card number="10" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Fleeting Distraction"/>
+        <card number="1" name="Frostwind Invoker"/>
+        <card number="1" name="Baneful Omen"/>
+        <card number="1" name="Curse of Wizardry"/>
+        <card number="1" name="Inquisition of Kozilek"/>
+        <card number="1" name="Repay in Kind"/>
+        <card number="1" name="Suffer the Past"/>
+        <card number="1" name="Virulent Swipe"/>
+        <card number="1" name="Zof Shade"/>
+        <card number="1" name="Brood Birthing"/>
+        <card number="1" name="Explosive Revelation"/>
+        <card number="1" name="Fissure Vent"/>
+        <card number="1" name="Goblin Arsonist"/>
+        <card number="1" name="Lagac Lizard"/>
+        <card number="1" name="Lavafume Invoker"/>
+        <card number="1" name="Soulsurge Elemental"/>
+        <card number="3" name="Vent Sentinel"/>
+        <card number="1" name="Wrap in Flames"/>
+    </zone>
+</cockatrice_deck>

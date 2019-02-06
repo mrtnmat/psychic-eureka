@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RG_BramSnepvangers</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Battle-Rattle Shaman"/>
+        <card number="1" name="Brimstone Mage"/>
+        <card number="2" name="Kiln Fiend"/>
+        <card number="1" name="Magmaw"/>
+        <card number="2" name="Daggerback Basilisk"/>
+        <card number="1" name="Nest Invader"/>
+        <card number="1" name="Stomper Cub"/>
+        <card number="1" name="Vengevine"/>
+        <card number="1" name="Wildheart Invoker"/>
+        <card number="1" name="Forked Bolt"/>
+        <card number="1" name="Traitorous Instinct"/>
+        <card number="1" name="Wrap in Flames"/>
+        <card number="1" name="Ancient Stirrings"/>
+        <card number="2" name="Growth Spasm"/>
+        <card number="1" name="Irresistible Prey"/>
+        <card number="3" name="Might of the Masses"/>
+        <card number="1" name="Prey's Vengeance"/>
+        <card number="9" name="Forest"/>
+        <card number="8" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Ogre's Cleaver"/>
+        <card number="1" name="Soulbound Guardians"/>
+        <card number="1" name="Drake Umbra"/>
+        <card number="1" name="Curse of Wizardry"/>
+        <card number="1" name="Escaped Null"/>
+        <card number="1" name="Suffer the Past"/>
+        <card number="1" name="Akoum Boulderfoot"/>
+        <card number="2" name="Fissure Vent"/>
+        <card number="1" name="Goblin Tunneler"/>
+        <card number="1" name="Lagac Lizard"/>
+        <card number="1" name="Lavafume Invoker"/>
+        <card number="1" name="Surreal Memoir"/>
+        <card number="1" name="Nema Siltlurker"/>
+        <card number="1" name="Overgrown Battlement"/>
+        <card number="1" name="Spider Umbra"/>
+    </zone>
+</cockatrice_deck>
