@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WB_BoStentebjerg-Hansen</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Ambitious Aetherborn"/>
+        <card number="2" name="Embraal Bruiser"/>
+        <card number="1" name="Restoration Gearsmith"/>
+        <card number="1" name="Bastion Mastodon"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Multiform Wonder"/>
+        <card number="1" name="Scrapheap Scrounger"/>
+        <card number="1" name="Gearshift Ace"/>
+        <card number="1" name="Glint-Sleeve Artisan"/>
+        <card number="1" name="Propeller Pioneer"/>
+        <card number="1" name="Dhund Operative"/>
+        <card number="1" name="Maulfist Squad"/>
+        <card number="1" name="Prakhata Club Security"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="Die Young"/>
+        <card number="1" name="Inspired Charge"/>
+        <card number="1" name="Essence Extraction"/>
+        <card number="1" name="Tidy Conclusion"/>
+        <card number="1" name="Renegade Freighter"/>
+        <card number="1" name="Captured by the Consulate"/>
+        <card number="1" name="Underhanded Designs"/>
+        <card number="9" name="Swamp"/>
+        <card number="8" name="Plains"/>
+    </zone>
+</cockatrice_deck>
