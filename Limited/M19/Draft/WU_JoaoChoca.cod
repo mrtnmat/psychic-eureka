@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WU_JoaoChoca</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Gallant Cavalry"/>
+        <card number="2" name="Lena, Selfless Champion"/>
+        <card number="1" name="Field Creeper"/>
+        <card number="1" name="Gearsmith Guardian"/>
+        <card number="1" name="Aerial Engineer"/>
+        <card number="1" name="Cavalry Drillmaster"/>
+        <card number="1" name="Oreskos Swiftclaw"/>
+        <card number="1" name="Rustwing Falcon"/>
+        <card number="1" name="Shield Mare"/>
+        <card number="1" name="Trusty Packbeast"/>
+        <card number="1" name="Aven Wind Mage"/>
+        <card number="1" name="Mystic Archaeologist"/>
+        <card number="1" name="Divination"/>
+        <card number="1" name="Switcheroo"/>
+        <card number="1" name="Inspired Charge"/>
+        <card number="1" name="Mighty Leap"/>
+        <card number="2" name="Marauder's Axe"/>
+        <card number="2" name="Luminous Bonds"/>
+        <card number="1" name="Knightly Valor"/>
+        <card number="10" name="Plains"/>
+        <card number="6" name="Island"/>
+        <card number="1" name="Meandering River"/>
+    </zone>
+</cockatrice_deck>

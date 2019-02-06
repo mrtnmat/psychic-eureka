@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BUGMidrange_shirkahn</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Wasteland"/>
+        <card number="2" name="Verdant Catacombs"/>
+        <card number="2" name="Dark Confidant"/>
+        <card number="4" name="Deathrite Shaman"/>
+        <card number="2" name="Leovold, Emissary of Trest"/>
+        <card number="2" name="Snapcaster Mage"/>
+        <card number="3" name="Tarmogoyf"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Gitaxian Probe"/>
+        <card number="1" name="Merchant Scroll"/>
+        <card number="1" name="Ponder"/>
+        <card number="2" name="Preordain"/>
+        <card number="1" name="Thoughtseize"/>
+        <card number="1" name="Time Walk"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="3" name="Abrupt Decay"/>
+        <card number="1" name="Ancestral Recall"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="4" name="Force of Will"/>
+        <card number="1" name="Gush"/>
+        <card number="4" name="Mental Misstep"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Mox Emerald"/>
+        <card number="1" name="Mox Jet"/>
+        <card number="1" name="Mox Sapphire"/>
+        <card number="1" name="Pithing Needle"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="2" name="Misty Rainforest"/>
+        <card number="2" name="Polluted Delta"/>
+        <card number="2" name="Scalding Tarn"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="3" name="Tropical Island"/>
+        <card number="3" name="Underground Sea"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Steel Sabotage"/>
+        <card number="1" name="Null Rod"/>
+        <card number="4" name="Leyline of the Void"/>
+        <card number="2" name="Infernal Reckoning"/>
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="1" name="Flusterstorm"/>
+        <card number="1" name="Fatal Push"/>
+        <card number="1" name="Energy Flux"/>
+        <card number="1" name="Tarmogoyf"/>
+        <card number="2" name="Nature's Claim"/>
+    </zone>
+</cockatrice_deck>

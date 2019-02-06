@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UGr_ShaharShenhar</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Shapers of Nature"/>
+        <card number="1" name="Shaper Apprentice"/>
+        <card number="1" name="Siren Stormtamer"/>
+        <card number="1" name="Tempest Caller"/>
+        <card number="1" name="Wind Strider"/>
+        <card number="1" name="Colossal Dreadmaw"/>
+        <card number="1" name="Deathgorge Scavenger"/>
+        <card number="1" name="Emperor's Vanguard"/>
+        <card number="1" name="Merfolk Branchwalker"/>
+        <card number="1" name="Snapping Sailback"/>
+        <card number="1" name="Tishana's Wayfinder"/>
+        <card number="1" name="Wildgrowth Walker"/>
+        <card number="1" name="Raging Swordtooth"/>
+        <card number="2" name="Dive Down"/>
+        <card number="2" name="Run Aground"/>
+        <card number="1" name="Depths of Desire"/>
+        <card number="1" name="Unfriendly Fire"/>
+        <card number="1" name="Crash the Ramparts"/>
+        <card number="1" name="River Heralds' Boon"/>
+        <card number="1" name="New Horizons"/>
+        <card number="8" name="Forest"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Unknown Shores"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Cobbled Wings"/>
+        <card number="1" name="Hierophant's Chalice"/>
+        <card number="1" name="Prying Blade"/>
+        <card number="1" name="Sorcerous Spyglass"/>
+        <card number="1" name="Encampment Keeper"/>
+        <card number="1" name="Kinjalli's Caller"/>
+        <card number="1" name="Looming Altisaur"/>
+        <card number="1" name="Pious Interdiction"/>
+        <card number="1" name="Priest of the Wakening Sun"/>
+        <card number="1" name="Pterodon Knight"/>
+        <card number="1" name="Queen's Commission"/>
+        <card number="1" name="Raptor Companion"/>
+        <card number="1" name="Slash of Talons"/>
+        <card number="1" name="Territorial Hammerskull"/>
+        <card number="1" name="Deeproot Waters"/>
+        <card number="1" name="Favorable Winds"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Pirate's Prize"/>
+        <card number="1" name="Siren's Ruse"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Anointed Deacon"/>
+        <card number="1" name="Costly Plunder"/>
+        <card number="1" name="Dire Fleet Interloper"/>
+        <card number="1" name="Fathom Fleet Captain"/>
+        <card number="1" name="Heartless Pillage"/>
+        <card number="1" name="Mark of the Vampire"/>
+        <card number="1" name="Ruthless Knave"/>
+        <card number="1" name="Spreading Rot"/>
+        <card number="1" name="Demolish"/>
+        <card number="1" name="Dual Shot"/>
+        <card number="1" name="Fiery Cannonade"/>
+        <card number="1" name="Firecannon Blast"/>
+        <card number="1" name="Frenzied Raptor"/>
+        <card number="1" name="Headstrong Brute"/>
+        <card number="1" name="Otepec Huntmaster"/>
+        <card number="1" name="Rigging Runner"/>
+        <card number="1" name="Storm Fleet Pyromancer"/>
+        <card number="1" name="Sure Strike"/>
+        <card number="1" name="Swashbuckling"/>
+        <card number="1" name="Thrash of Raptors"/>
+        <card number="1" name="Tilonalli's Knight"/>
+        <card number="1" name="Crushing Canopy"/>
+        <card number="1" name="Ixalli's Diviner"/>
+        <card number="1" name="Slice in Twain"/>
+        <card number="2" name="Queen's Agent"/>
+        <card number="2" name="Queen's Bay Soldier"/>
+        <card number="2" name="Seekers' Squire"/>
+        <card number="2" name="Brazen Buccaneers"/>
+        <card number="2" name="Rummaging Goblin"/>
+        <card number="2" name="Spike-Tailed Ceratops"/>
+    </zone>
+</cockatrice_deck>

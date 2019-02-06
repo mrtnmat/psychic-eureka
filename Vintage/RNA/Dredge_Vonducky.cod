@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Dredge[vonducky]</deckname>
-    <comments>name : dredge
-creator : vonducky
-format : vintage
-</comments>
+    <deckname>Dredge_Vonducky</deckname>
+    <comments></comments>
     <zone name="main">
         <card number="4" name="Bazaar of Baghdad"/>
         <card number="4" name="Bridge from Below"/>

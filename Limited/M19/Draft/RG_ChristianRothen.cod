@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RG_ChristianRothen</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Draconic Disciple"/>
+        <card number="2" name="Elvish Rejuvenator"/>
+        <card number="1" name="Suspicious Bookcase"/>
+        <card number="1" name="Siegebreaker Giant"/>
+        <card number="1" name="Sparktongue Dragon"/>
+        <card number="1" name="Bristling Boar"/>
+        <card number="1" name="Daggerback Basilisk"/>
+        <card number="1" name="Druid of the Cowl"/>
+        <card number="1" name="Ghastbark Twins"/>
+        <card number="1" name="Giant Spider"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Thornhide Wolves"/>
+        <card number="1" name="Vigilant Baloth"/>
+        <card number="2" name="Declare Dominance"/>
+        <card number="2" name="Rabid Bite"/>
+        <card number="1" name="Banefire"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Gift of Paradise"/>
+        <card number="1" name="Talons of Wildwood"/>
+        <card number="10" name="Forest"/>
+        <card number="7" name="Mountain"/>
+    </zone>
+</cockatrice_deck>
