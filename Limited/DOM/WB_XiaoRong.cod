@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WB_XiaoRong</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aven Sentry"/>
+        <card number="1" name="Kwende, Pride of Femeref"/>
+        <card number="1" name="Serra Angel"/>
+        <card number="1" name="Serra Disciple"/>
+        <card number="1" name="Demonlord Belzenlok"/>
+        <card number="1" name="Thallid Soothsayer"/>
+        <card number="1" name="Aesthir Glider"/>
+        <card number="2" name="D'Avenant Trapper"/>
+        <card number="2" name="Knight of Grace"/>
+        <card number="2" name="Mesa Unicorn"/>
+        <card number="2" name="Deathbloom Thallid"/>
+        <card number="1" name="Call the Cavalry"/>
+        <card number="1" name="Divest"/>
+        <card number="1" name="Adamant Will"/>
+        <card number="1" name="Blessing of Belzenlok"/>
+        <card number="1" name="Dark Bargain"/>
+        <card number="2" name="Cast Down"/>
+        <card number="1" name="Weatherlight"/>
+        <card number="1" name="Seal Away"/>
+        <card number="7" name="Swamp"/>
+        <card number="9" name="Plains"/>
+    </zone>
+</cockatrice_deck>

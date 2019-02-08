@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WGur_YukiMatsumoto</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Hallar, the Firefletcher"/>
+        <card number="1" name="Jodah, Archmage Eternal"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Tiana, Ship's Caretaker"/>
+        <card number="1" name="Baird, Steward of Argive"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Llanowar Scout"/>
+        <card number="1" name="Primordial Wurm"/>
+        <card number="1" name="Untamed Kavu"/>
+        <card number="1" name="Juggernaut"/>
+        <card number="2" name="Mammoth Spider"/>
+        <card number="2" name="Skittering Surveyor"/>
+        <card number="1" name="Broken Bond"/>
+        <card number="1" name="Adamant Will"/>
+        <card number="1" name="Blessed Light"/>
+        <card number="1" name="Gideon's Reproach"/>
+        <card number="3" name="Ancient Animus"/>
+        <card number="1" name="Bloodtallow Candle"/>
+        <card number="1" name="Urza's Tome"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="5" name="Plains"/>
+        <card number="9" name="Forest"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Divination"/>
+        <card number="1" name="Homarid Explorer"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Tolarian Scholar"/>
+        <card number="1" name="Unwind"/>
+        <card number="1" name="Deathbloom Thallid"/>
+        <card number="1" name="Champion of the Flame"/>
+        <card number="1" name="Fervent Strike"/>
+        <card number="1" name="Frenzied Rage"/>
+        <card number="1" name="Goblin Warchief"/>
+        <card number="1" name="Keldon Overseer"/>
+        <card number="1" name="Warcry Phoenix"/>
+        <card number="1" name="Warlord's Fury"/>
+        <card number="1" name="Corrosive Ooze"/>
+        <card number="1" name="Sporecrown Thallid"/>
+        <card number="1" name="Navigator's Compass"/>
+        <card number="1" name="Sorcerer's Wand"/>
+    </zone>
+</cockatrice_deck>

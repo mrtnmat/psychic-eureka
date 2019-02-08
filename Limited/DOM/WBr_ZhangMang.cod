@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WBr_ZhangMang</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Garna, the Bloodflame"/>
+        <card number="1" name="Tiana, Ship's Caretaker"/>
+        <card number="1" name="Dauntless Bodyguard"/>
+        <card number="1" name="Kwende, Pride of Femeref"/>
+        <card number="1" name="Knight of Malice"/>
+        <card number="1" name="Skittering Surveyor"/>
+        <card number="1" name="Traxos, Scourge of Kroog"/>
+        <card number="2" name="Voltaic Servant"/>
+        <card number="3" name="Benalish Honor Guard"/>
+        <card number="1" name="Soul Salvage"/>
+        <card number="2" name="Call the Cavalry"/>
+        <card number="3" name="Eviscerate"/>
+        <card number="1" name="Dark Bargain"/>
+        <card number="1" name="Vicious Offering"/>
+        <card number="1" name="Shivan Fire"/>
+        <card number="1" name="Wizard's Lightning"/>
+        <card number="1" name="On Serra's Wings"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="3" name="Mountain"/>
+        <card number="6" name="Swamp"/>
+        <card number="7" name="Plains"/>
+    </zone>
+</cockatrice_deck>

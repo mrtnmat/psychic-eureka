@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WBr_WeiGuowei</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Benalish Honor Guard"/>
+        <card number="1" name="Knight of New Benalia"/>
+        <card number="1" name="Mesa Unicorn"/>
+        <card number="1" name="Serra Angel"/>
+        <card number="1" name="Caligo Skin-Witch"/>
+        <card number="1" name="Deathbloom Thallid"/>
+        <card number="1" name="Kazarov, Sengir Pureblood"/>
+        <card number="1" name="Knight of Malice"/>
+        <card number="1" name="Thallid Omnivore"/>
+        <card number="1" name="Urgoros, the Empty One"/>
+        <card number="2" name="Yargle, Glutton of Urborg"/>
+        <card number="1" name="Soul Salvage"/>
+        <card number="2" name="Eviscerate"/>
+        <card number="1" name="Adamant Will"/>
+        <card number="1" name="Blessed Light"/>
+        <card number="1" name="Gideon's Reproach"/>
+        <card number="1" name="Invoke the Divine"/>
+        <card number="1" name="Cast Down"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Forebear's Blade"/>
+        <card number="1" name="On Serra's Wings"/>
+        <card number="2" name="Mountain"/>
+        <card number="7" name="Plains"/>
+        <card number="8" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

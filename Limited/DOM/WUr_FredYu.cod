@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WUr_FredYu</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Karn, Scion of Urza"/>
+        <card number="1" name="Aven Sentry"/>
+        <card number="1" name="Benalish Honor Guard"/>
+        <card number="1" name="D'Avenant Trapper"/>
+        <card number="1" name="Daring Archaeologist"/>
+        <card number="1" name="Dauntless Bodyguard"/>
+        <card number="1" name="Evra, Halcyon Witness"/>
+        <card number="1" name="Mesa Unicorn"/>
+        <card number="1" name="Sentinel of the Pearl Trident"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Aesthir Glider"/>
+        <card number="1" name="Skittering Surveyor"/>
+        <card number="3" name="Cloudreader Sphinx"/>
+        <card number="1" name="Goblin Barrage"/>
+        <card number="2" name="Fiery Intervention"/>
+        <card number="2" name="Syncopate"/>
+        <card number="1" name="Dub"/>
+        <card number="1" name="On Serra's Wings"/>
+        <card number="1" name="Deep Freeze"/>
+        <card number="1" name="Memorial to Glory"/>
+        <card number="2" name="Mountain"/>
+        <card number="7" name="Island"/>
+        <card number="7" name="Plains"/>
+    </zone>
+</cockatrice_deck>
