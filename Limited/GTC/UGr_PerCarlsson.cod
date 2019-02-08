@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UGr_PerCarlsson</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Keymaster Rogue"/>
+        <card number="1" name="Metropolis Sprite"/>
+        <card number="2" name="Disciple of the Old Ways"/>
+        <card number="1" name="Experiment One"/>
+        <card number="1" name="Greenside Watcher"/>
+        <card number="1" name="Gyre Sage"/>
+        <card number="1" name="Scab-Clan Charger"/>
+        <card number="1" name="Slaughterhorn"/>
+        <card number="1" name="Dinrova Horror"/>
+        <card number="1" name="Drakewing Krasis"/>
+        <card number="1" name="Shambleshark"/>
+        <card number="1" name="Hands of Binding"/>
+        <card number="1" name="Stolen Identity"/>
+        <card number="1" name="Clan Defiance"/>
+        <card number="1" name="Totally Lost"/>
+        <card number="1" name="Dimir Charm"/>
+        <card number="1" name="Simic Charm"/>
+        <card number="1" name="Dimir Keyrune"/>
+        <card number="1" name="Prophetic Prism"/>
+        <card number="1" name="Verdant Haven"/>
+        <card number="8" name="Forest"/>
+        <card number="6" name="Island"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Simic Guildgate"/>
+        <card number="1" name="Watery Grave"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WR_AndreasNordahl</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Millennial Gargoyle"/>
+        <card number="1" name="Assault Griffin"/>
+        <card number="1" name="Court Street Denizen"/>
+        <card number="2" name="Daring Skyjek"/>
+        <card number="1" name="Guardian of the Gateless"/>
+        <card number="1" name="Firemane Avenger"/>
+        <card number="1" name="Fortress Cyclops"/>
+        <card number="1" name="Skyknight Legionnaire"/>
+        <card number="1" name="Firefist Striker"/>
+        <card number="1" name="Scorchwalker"/>
+        <card number="1" name="Skinbrand Goblin"/>
+        <card number="1" name="Towering Thunderfist"/>
+        <card number="1" name="Viashino Shanktail"/>
+        <card number="1" name="Angelic Edict"/>
+        <card number="1" name="Act of Treason"/>
+        <card number="2" name="Aerial Maneuver"/>
+        <card number="1" name="Shielded Passage"/>
+        <card number="1" name="Pit Fight"/>
+        <card number="1" name="Riot Gear"/>
+        <card number="1" name="Debtor's Pulpit"/>
+        <card number="1" name="Assemble the Legion"/>
+        <card number="8" name="Mountain"/>
+        <card number="9" name="Plains"/>
+    </zone>
+</cockatrice_deck>
