@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WBG_WuHao</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aryel, Knight of Windgrace"/>
+        <card number="1" name="Danitha Capashen, Paragon"/>
+        <card number="1" name="Excavation Elephant"/>
+        <card number="1" name="Pegasus Courser"/>
+        <card number="1" name="Demonlord Belzenlok"/>
+        <card number="1" name="Thallid Soothsayer"/>
+        <card number="1" name="Elfhame Druid"/>
+        <card number="1" name="Mammoth Spider"/>
+        <card number="1" name="Untamed Kavu"/>
+        <card number="1" name="Yavimaya Sapherd"/>
+        <card number="1" name="Juggernaut"/>
+        <card number="1" name="Skittering Surveyor"/>
+        <card number="2" name="Llanowar Elves"/>
+        <card number="1" name="Call the Cavalry"/>
+        <card number="1" name="Soul Salvage"/>
+        <card number="2" name="Eviscerate"/>
+        <card number="2" name="Grow from the Ashes"/>
+        <card number="1" name="Blessed Light"/>
+        <card number="1" name="Gideon's Reproach"/>
+        <card number="1" name="Vicious Offering"/>
+        <card number="1" name="Seal Away"/>
+        <card number="4" name="Plains"/>
+        <card number="5" name="Swamp"/>
+        <card number="7" name="Forest"/>
+    </zone>
+</cockatrice_deck>

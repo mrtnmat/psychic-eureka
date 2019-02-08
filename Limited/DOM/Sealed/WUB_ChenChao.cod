@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WUB_ChenChao</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Teferi, Hero of Dominaria"/>
+        <card number="1" name="Raff Capashen, Ship's Mage"/>
+        <card number="1" name="Rona, Disciple of Gix"/>
+        <card number="1" name="Baird, Steward of Argive"/>
+        <card number="1" name="Academy Drake"/>
+        <card number="1" name="Caligo Skin-Witch"/>
+        <card number="1" name="Drudge Sentinel"/>
+        <card number="1" name="Feral Abomination"/>
+        <card number="1" name="Torgaar, Famine Incarnate"/>
+        <card number="1" name="Skittering Surveyor"/>
+        <card number="2" name="Deathbloom Thallid"/>
+        <card number="1" name="Divest"/>
+        <card number="1" name="Blessed Light"/>
+        <card number="1" name="Invoke the Divine"/>
+        <card number="1" name="Syncopate"/>
+        <card number="1" name="Cast Down"/>
+        <card number="2" name="Gideon's Reproach"/>
+        <card number="1" name="Bloodtallow Candle"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Urza's Tome"/>
+        <card number="1" name="Time of Ice"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="5" name="Island"/>
+        <card number="5" name="Plains"/>
+        <card number="6" name="Swamp"/>
+    </zone>
+</cockatrice_deck>
