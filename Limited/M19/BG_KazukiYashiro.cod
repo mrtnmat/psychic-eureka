@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BG_KazukiYashiro</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bone Dragon"/>
+        <card number="1" name="Child of Night"/>
+        <card number="1" name="Epicure of Blood"/>
+        <card number="1" name="Gravedigger"/>
+        <card number="1" name="Hired Blade"/>
+        <card number="1" name="Vampire Neonate"/>
+        <card number="1" name="Bristling Boar"/>
+        <card number="1" name="Centaur Courser"/>
+        <card number="1" name="Colossal Dreadmaw"/>
+        <card number="1" name="Daggerback Basilisk"/>
+        <card number="2" name="Druid of the Cowl"/>
+        <card number="1" name="Dryad Greenseeker"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Thornhide Wolves"/>
+        <card number="1" name="Poison-Tip Archer"/>
+        <card number="2" name="Abnormal Endurance"/>
+        <card number="1" name="Murder"/>
+        <card number="2" name="Strangling Spores"/>
+        <card number="2" name="Titanic Growth"/>
+        <card number="1" name="Talons of Wildwood"/>
+        <card number="8" name="Swamp"/>
+        <card number="8" name="Forest"/>
+    </zone>
+</cockatrice_deck>

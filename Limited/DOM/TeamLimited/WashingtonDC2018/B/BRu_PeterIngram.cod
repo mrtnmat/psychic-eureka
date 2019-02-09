@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BRu_PeterIngram</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Cloudreader Sphinx"/>
+        <card number="2" name="Caligo Skin-Witch"/>
+        <card number="1" name="Deathbloom Thallid"/>
+        <card number="1" name="Feral Abomination"/>
+        <card number="1" name="Josu Vess, Lich Knight"/>
+        <card number="1" name="Kazarov, Sengir Pureblood"/>
+        <card number="2" name="Stronghold Confessor"/>
+        <card number="1" name="Thallid Omnivore"/>
+        <card number="1" name="Bloodstone Goblin"/>
+        <card number="1" name="Ghitu Journeymage"/>
+        <card number="1" name="Keldon Overseer"/>
+        <card number="1" name="Keldon Raider"/>
+        <card number="1" name="Squee, the Immortal"/>
+        <card number="1" name="Skittering Surveyor"/>
+        <card number="1" name="Rona, Disciple of Gix"/>
+        <card number="1" name="Garna, the Bloodflame"/>
+        <card number="1" name="Divest"/>
+        <card number="1" name="Soul Salvage"/>
+        <card number="1" name="Fight with Fire"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="2" name="Island"/>
+        <card number="8" name="Mountain"/>
+        <card number="8" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

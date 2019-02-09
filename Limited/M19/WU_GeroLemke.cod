@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WU_GeroLemke</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Gearsmith Guardian"/>
+        <card number="2" name="Aviation Pioneer"/>
+        <card number="2" name="Omenspeaker"/>
+        <card number="2" name="Scholar of Stars"/>
+        <card number="1" name="Aethershield Artificer"/>
+        <card number="1" name="Angel of the Dawn"/>
+        <card number="1" name="Gallant Cavalry"/>
+        <card number="1" name="Aven Wind Mage"/>
+        <card number="1" name="Departed Deckhand"/>
+        <card number="1" name="Frilled Sea Serpent"/>
+        <card number="1" name="Skilled Animator"/>
+        <card number="2" name="Divination"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Essence Scatter"/>
+        <card number="1" name="Marauder's Axe"/>
+        <card number="1" name="Knight's Pledge"/>
+        <card number="1" name="Dwindle"/>
+        <card number="1" name="Metamorphic Alteration"/>
+        <card number="1" name="Patient Rebuilding"/>
+        <card number="9" name="Island"/>
+        <card number="6" name="Plains"/>
+        <card number="1" name="Meandering River"/>
+    </zone>
+</cockatrice_deck>

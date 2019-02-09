@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UG_AlbertoMattioli</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Bristling Boar"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Aven Wind Mage"/>
+        <card number="1" name="Frilled Sea Serpent"/>
+        <card number="1" name="Horizon Scholar"/>
+        <card number="1" name="Omenspeaker"/>
+        <card number="1" name="Salvager of Secrets"/>
+        <card number="1" name="Wall of Mist"/>
+        <card number="1" name="Windreader Sphinx"/>
+        <card number="1" name="Daggerback Basilisk"/>
+        <card number="1" name="Elvish Rejuvenator"/>
+        <card number="1" name="Ghirapur Guide"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Divination"/>
+        <card number="1" name="Declare Dominance"/>
+        <card number="1" name="Rabid Bite"/>
+        <card number="2" name="Essence Scatter"/>
+        <card number="1" name="Totally Lost"/>
+        <card number="2" name="Dwindle"/>
+        <card number="1" name="Gift of Paradise"/>
+        <card number="9" name="Island"/>
+        <card number="8" name="Forest"/>
+    </zone>
+</cockatrice_deck>

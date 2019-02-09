@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UR_EricFroehlich</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Jhoira, Weatherlight Captain"/>
+        <card number="1" name="Academy Drake"/>
+        <card number="1" name="Cold-Water Snapper"/>
+        <card number="1" name="Merfolk Trickster"/>
+        <card number="1" name="Naru Meha, Master Wizard"/>
+        <card number="1" name="Sentinel of the Pearl Trident"/>
+        <card number="2" name="Tolarian Scholar"/>
+        <card number="1" name="Keldon Raider"/>
+        <card number="1" name="Keldon Warcaller"/>
+        <card number="1" name="Skittering Surveyor"/>
+        <card number="1" name="Voltaic Servant"/>
+        <card number="1" name="Divination"/>
+        <card number="1" name="Fiery Intervention"/>
+        <card number="1" name="Goblin Barrage"/>
+        <card number="3" name="Opt"/>
+        <card number="1" name="Wizard's Retort"/>
+        <card number="1" name="Shivan Fire"/>
+        <card number="1" name="Bloodtallow Candle"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Deep Freeze"/>
+        <card number="9" name="Island"/>
+        <card number="7" name="Mountain"/>
+        <card number="1" name="Memorial to Genius"/>
+    </zone>
+</cockatrice_deck>

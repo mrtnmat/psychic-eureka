@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WR_AdamFox</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Tiana, Ship's Caretaker"/>
+        <card number="2" name="Aven Sentry"/>
+        <card number="2" name="Benalish Honor Guard"/>
+        <card number="1" name="D'Avenant Trapper"/>
+        <card number="1" name="Dauntless Bodyguard"/>
+        <card number="1" name="Knight of Grace"/>
+        <card number="1" name="Mesa Unicorn"/>
+        <card number="1" name="Sergeant-at-Arms"/>
+        <card number="1" name="Serra Angel"/>
+        <card number="1" name="Siege-Gang Commander"/>
+        <card number="1" name="Valduk, Keeper of the Flame"/>
+        <card number="1" name="Verix Bladewing"/>
+        <card number="1" name="Call the Cavalry"/>
+        <card number="1" name="Goblin Barrage"/>
+        <card number="1" name="Invoke the Divine"/>
+        <card number="3" name="Jousting Lance"/>
+        <card number="1" name="Dub"/>
+        <card number="1" name="History of Benalia"/>
+        <card number="1" name="Triumph of Gerrard"/>
+        <card number="8" name="Mountain"/>
+        <card number="9" name="Plains"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UBw_ar_</deckname>
+    <comments>name : ubw
+creator : ar_
+format : limited
+</comments>
+    <zone name="main">
+        <card number="1" name="Lingering Phantom"/>
+        <card number="1" name="Josu Vess, Lich Knight"/>
+        <card number="1" name="Cold-Water Snapper"/>
+        <card number="2" name="Academy Journeymage"/>
+        <card number="6" name="Swamp"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Memorial to Genius"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="1" name="Seal Away"/>
+        <card number="1" name="Icy Manipulator"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="3" name="Gideon's Reproach"/>
+        <card number="1" name="Fungal Infection"/>
+        <card number="3" name="Blink of an Eye"/>
+        <card number="1" name="Divination"/>
+        <card number="2" name="Windgrace Acolyte"/>
+        <card number="1" name="Rona, Disciple of Gix"/>
+        <card number="1" name="Skittering Surveyor"/>
+        <card number="1" name="Urgoros, the Empty One"/>
+        <card number="1" name="Vodalian Arcanist"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Cabal Evangel"/>
+        <card number="1" name="Broken Bond"/>
+        <card number="1" name="Board the Weatherlight"/>
+        <card number="2" name="Bloodstone Goblin"/>
+        <card number="1" name="Mountain"/>
+        <card number="2" name="Navigator's Compass"/>
+        <card number="1" name="Pierce the Sky"/>
+        <card number="1" name="Powerstone Shard"/>
+        <card number="1" name="Relic Runner"/>
+        <card number="1" name="Rescue"/>
+        <card number="1" name="Run Amok"/>
+        <card number="1" name="Sage of Lat-Nam"/>
+        <card number="1" name="Saproling Migration"/>
+        <card number="1" name="Seismic Shift"/>
+        <card number="1" name="Skirk Prospector"/>
+        <card number="1" name="Soul Salvage"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Thallid Omnivore"/>
+        <card number="1" name="Thallid Soothsayer"/>
+        <card number="1" name="Tolarian Scholar"/>
+        <card number="1" name="Triumph of Gerrard"/>
+        <card number="1" name="Warlord's Fury"/>
+        <card number="1" name="Wild Onslaught"/>
+        <card number="1" name="Yavimaya Sapherd"/>
+        <card number="1" name="Mishra's Self-Replicator"/>
+        <card number="1" name="Memorial to Unity"/>
+        <card number="1" name="Memorial to Glory"/>
+        <card number="2" name="Llanowar Envoy"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="2" name="Knight of New Benalia"/>
+        <card number="1" name="Keldon Warcaller"/>
+        <card number="2" name="Jousting Lance"/>
+        <card number="1" name="Healing Grace"/>
+        <card number="2" name="Guardians of Koilos"/>
+        <card number="1" name="Grand Warlord Radha"/>
+        <card number="1" name="Ghitu Chronicler"/>
+        <card number="2" name="Gaea's Protector"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="Fire Elemental"/>
+        <card number="2" name="_____"/>
+        <card number="1" name="Evra, Halcyon Witness"/>
+        <card number="1" name="Demonic Vigor"/>
+        <card number="1" name="Deep Freeze"/>
+        <card number="1" name="Blessing of Belzenlok"/>
+        <card number="2" name="Baloth Gorger"/>
+        <card number="1" name="Arbor Armament"/>
+        <card number="1" name="Amaranthine Wall"/>
+        <card number="1" name="Adamant Will"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Daring Archaeologist"/>
+        <card number="2" name="Corrosive Ooze"/>
+        <card number="1" name="Chainer's Torment"/>
+    </zone>
+</cockatrice_deck>
