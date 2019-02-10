@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WB_romanmy</deckname>
+    <comments>name : bw
+creator : romanmy
+format : limited
+</comments>
+    <zone name="main">
+        <card number="9" name="Swamp"/>
+        <card number="8" name="Plains"/>
+        <card number="1" name="Slash of Talons"/>
+        <card number="1" name="Skulduggery"/>
+        <card number="1" name="Rallying Roar"/>
+        <card number="1" name="Dark Nourishment"/>
+        <card number="1" name="Queen's Commission"/>
+        <card number="2" name="Skittering Heartstopper"/>
+        <card number="1" name="Shining Aerosaur"/>
+        <card number="1" name="Ruin Raider"/>
+        <card number="1" name="Raptor Companion"/>
+        <card number="1" name="Paladin of the Bloodstained"/>
+        <card number="1" name="Kitesail Freebooter"/>
+        <card number="1" name="Glorifier of Dusk"/>
+        <card number="1" name="Emissary of Sunrise"/>
+        <card number="1" name="Dire Fleet Hoarder"/>
+        <card number="1" name="Deathless Ancient"/>
+        <card number="2" name="Deadeye Tormentor"/>
+        <card number="1" name="Bishop's Soldier"/>
+        <card number="2" name="Contract Killing"/>
+        <card number="2" name="Call to the Feast"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sure Strike"/>
+        <card number="1" name="Sunrise Seeker"/>
+        <card number="1" name="Spreading Rot"/>
+        <card number="1" name="Run Aground"/>
+        <card number="1" name="Looming Altisaur"/>
+        <card number="1" name="Kopala, Warden of Waves"/>
+        <card number="1" name="Jade Guardian"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Imperial Lancer"/>
+        <card number="1" name="Hierophant's Chalice"/>
+        <card number="1" name="Herald of Secret Streams"/>
+        <card number="1" name="Gilded Sentinel"/>
+        <card number="1" name="Fire Shrine Keeper"/>
+        <card number="1" name="Emergent Growth"/>
+        <card number="1" name="Desperate Castaways"/>
+        <card number="2" name="Demystify"/>
+        <card number="1" name="Deeproot Waters"/>
+        <card number="1" name="Bellowing Aegisaur"/>
+        <card number="1" name="Ancient Brontodon"/>
+        <card number="2" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

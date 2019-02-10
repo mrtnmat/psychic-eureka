@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RG_recruit0166</deckname>
+    <comments>name : rg
+creator : recruit0166
+format : limited
+</comments>
+    <zone name="main">
+        <card number="1" name="Makeshift Munitions"/>
+        <card number="2" name="Swashbuckling"/>
+        <card number="8" name="Forest"/>
+        <card number="8" name="Mountain"/>
+        <card number="1" name="Cobbled Wings"/>
+        <card number="2" name="Unfriendly Fire"/>
+        <card number="1" name="Sure Strike"/>
+        <card number="1" name="Pounce"/>
+        <card number="1" name="Blinding Fog"/>
+        <card number="1" name="Hijack"/>
+        <card number="1" name="Verdant Sun's Avatar"/>
+        <card number="1" name="Tilonalli's Knight"/>
+        <card number="2" name="Blossom Dryad"/>
+        <card number="2" name="Drover of the Mighty"/>
+        <card number="1" name="Fathom Fleet Firebrand"/>
+        <card number="1" name="Grazing Whiptail"/>
+        <card number="1" name="Ixalli's Diviner"/>
+        <card number="1" name="Lightning-Rig Crew"/>
+        <card number="1" name="Nest Robber"/>
+        <card number="1" name="Regisaur Alpha"/>
+        <card number="2" name="Thrash of Raptors"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Forest"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Ancient Brontodon"/>
+        <card number="1" name="Belligerent Brontodon"/>
+        <card number="1" name="Brazen Buccaneers"/>
+        <card number="1" name="Deadeye Tormentor"/>
+        <card number="1" name="Desperate Castaways"/>
+        <card number="1" name="Fathom Fleet Cutthroat"/>
+        <card number="1" name="Fire Shrine Keeper"/>
+        <card number="1" name="Heartless Pillage"/>
+        <card number="1" name="Hierophant's Chalice"/>
+        <card number="1" name="Jade Guardian"/>
+        <card number="1" name="Pious Interdiction"/>
+        <card number="1" name="Pterodon Knight"/>
+        <card number="1" name="Rile"/>
+        <card number="1" name="Shipwreck Looter"/>
+        <card number="1" name="Shore Keeper"/>
+        <card number="1" name="Storm Fleet Pyromancer"/>
+        <card number="1" name="Vanquish the Weak"/>
+        <card number="1" name="Blinding Fog"/>
+    </zone>
+</cockatrice_deck>

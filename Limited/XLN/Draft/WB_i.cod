@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WB_i</deckname>
+    <comments>name : bw
+creator : i
+format : limited
+</comments>
+    <zone name="main">
+        <card number="1" name="Contract Killing"/>
+        <card number="1" name="Call to the Feast"/>
+        <card number="1" name="Vicious Conquistador"/>
+        <card number="1" name="Skymarch Bloodletter"/>
+        <card number="1" name="Skyblade of the Legion"/>
+        <card number="1" name="Ruthless Knave"/>
+        <card number="1" name="Kinjalli's Sunwing"/>
+        <card number="1" name="Fathom Fleet Cutthroat"/>
+        <card number="2" name="Dire Fleet Interloper"/>
+        <card number="1" name="Dire Fleet Hoarder"/>
+        <card number="1" name="Desperate Castaways"/>
+        <card number="1" name="Bloodcrazed Paladin"/>
+        <card number="1" name="Bellowing Aegisaur"/>
+        <card number="1" name="Anointed Deacon"/>
+        <card number="9" name="Swamp"/>
+        <card number="8" name="Plains"/>
+        <card number="1" name="Legion's Landing"/>
+        <card number="1" name="Vampire's Zeal"/>
+        <card number="1" name="Slash of Talons"/>
+        <card number="1" name="Skulduggery"/>
+        <card number="1" name="Rallying Roar"/>
+        <card number="1" name="Queen's Commission"/>
+        <card number="1" name="Dark Nourishment"/>
+        <card number="1" name="Grim Captain's Call"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Rummaging Goblin"/>
+        <card number="2" name="Queen's Agent"/>
+        <card number="1" name="Pterodon Knight"/>
+        <card number="1" name="Old-Growth Dryads"/>
+        <card number="1" name="Legion's Judgment"/>
+        <card number="1" name="Legion Conquistador"/>
+        <card number="2" name="Island"/>
+        <card number="1" name="Imperial Lancer"/>
+        <card number="1" name="Hierophant's Chalice"/>
+        <card number="1" name="Elaborate Firecannon"/>
+        <card number="1" name="Demystify"/>
+        <card number="1" name="Deadeye Plunderers"/>
+        <card number="1" name="Costly Plunder"/>
+        <card number="1" name="Cancel"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Unknown Shores"/>
+        <card number="1" name="Tocatli Honor Guard"/>
+        <card number="1" name="Sunrise Seeker"/>
+        <card number="1" name="Sorcerous Spyglass"/>
+    </zone>
+</cockatrice_deck>

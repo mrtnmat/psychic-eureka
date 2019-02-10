@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WU_avb</deckname>
+    <comments>name : uw
+creator : avb
+format : limited
+</comments>
+    <zone name="main">
+        <card number="9" name="Plains"/>
+        <card number="8" name="Island"/>
+        <card number="1" name="Dub"/>
+        <card number="1" name="Deep Freeze"/>
+        <card number="1" name="Bloodtallow Candle"/>
+        <card number="1" name="Syncopate"/>
+        <card number="1" name="Invoke the Divine"/>
+        <card number="1" name="Gideon's Reproach"/>
+        <card number="3" name="Blink of an Eye"/>
+        <card number="1" name="Blessed Light"/>
+        <card number="3" name="Vodalian Arcanist"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Serra Angel"/>
+        <card number="1" name="Sergeant-at-Arms"/>
+        <card number="1" name="Sanctum Spirit"/>
+        <card number="2" name="Cold-Water Snapper"/>
+        <card number="1" name="Cloudreader Sphinx"/>
+        <card number="3" name="Aven Sentry"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Tolarian Scholar"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Slimefoot, the Stowaway"/>
+        <card number="1" name="Skirk Prospector"/>
+        <card number="1" name="Rona, Disciple of Gix"/>
+        <card number="2" name="Powerstone Shard"/>
+        <card number="1" name="Multani, Yavimaya's Avatar"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Homarid Explorer"/>
+        <card number="1" name="Healing Grace"/>
+        <card number="1" name="Guardians of Koilos"/>
+        <card number="1" name="Fungal Infection"/>
+        <card number="1" name="Fire Elemental"/>
+        <card number="1" name="Final Parting"/>
+        <card number="1" name="Eviscerate"/>
+        <card number="1" name="Drudge Sentinel"/>
+        <card number="1" name="Demonic Vigor"/>
+        <card number="1" name="Deathbloom Thallid"/>
+        <card number="1" name="Artificer's Assistant"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Cold-Water Snapper"/>
+    </zone>
+</cockatrice_deck>

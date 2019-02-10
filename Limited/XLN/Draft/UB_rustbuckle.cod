@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UB_rustbuckle</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Blight Keeper"/>
+        <card number="1" name="Dire Fleet Interloper"/>
+        <card number="1" name="Kitesail Freebooter"/>
+        <card number="1" name="River Sneak"/>
+        <card number="1" name="Sailor of Means"/>
+        <card number="2" name="Shipwreck Looter"/>
+        <card number="1" name="Siren Stormtamer"/>
+        <card number="1" name="Storm Fleet Aerialist"/>
+        <card number="1" name="Storm Fleet Spy"/>
+        <card number="1" name="Watertrap Weaver"/>
+        <card number="1" name="Wind Strider"/>
+        <card number="1" name="Chart a Course"/>
+        <card number="2" name="Contract Killing"/>
+        <card number="1" name="Walk the Plank"/>
+        <card number="2" name="Dive Down"/>
+        <card number="1" name="Lookout's Dispersal"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Prying Blade"/>
+        <card number="1" name="Mark of the Vampire"/>
+        <card number="1" name="One With the Wind"/>
+        <card number="8" name="Island"/>
+        <card number="8" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Sailor of Means"/>
+        <card number="1" name="Prying Blade"/>
+        <card number="1" name="Costly Plunder"/>
+        <card number="1" name="Desperate Castaways"/>
+        <card number="1" name="Dusk Legion Dreadnought"/>
+        <card number="1" name="Fathom Fleet Cutthroat"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Glorifier of Dusk"/>
+        <card number="1" name="Heartless Pillage"/>
+        <card number="1" name="Merfolk Branchwalker"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Prosperous Pirates"/>
+        <card number="1" name="Queen's Agent"/>
+        <card number="1" name="Ritual of Rejuvenation"/>
+        <card number="1" name="Shore Keeper"/>
+        <card number="2" name="Storm Sculptor"/>
+        <card number="1" name="Sunrise Seeker"/>
+        <card number="1" name="Wily Goblin"/>
+    </zone>
+</cockatrice_deck>

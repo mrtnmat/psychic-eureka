@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WR_jono_mizer</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Bonded Horncrest"/>
+        <card number="1" name="Brazen Buccaneers"/>
+        <card number="2" name="Frenzied Raptor"/>
+        <card number="1" name="Inspiring Cleric"/>
+        <card number="1" name="Rampaging Ferocidon"/>
+        <card number="1" name="Raptor Companion"/>
+        <card number="1" name="Shining Aerosaur"/>
+        <card number="3" name="Territorial Hammerskull"/>
+        <card number="2" name="Thrash of Raptors"/>
+        <card number="1" name="Tilonalli's Knight"/>
+        <card number="1" name="Hijack"/>
+        <card number="1" name="Legion's Judgment"/>
+        <card number="1" name="Repeating Barrage"/>
+        <card number="1" name="Lightning Strike"/>
+        <card number="1" name="Slash of Talons"/>
+        <card number="2" name="Sure Strike"/>
+        <card number="1" name="Ixalan's Binding"/>
+        <card number="9" name="Mountain"/>
+        <card number="8" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Plains"/>
+        <card number="1" name="Hijack"/>
+        <card number="1" name="Ancient Brontodon"/>
+        <card number="1" name="Anointed Deacon"/>
+        <card number="1" name="Arguel's Blood Fast"/>
+        <card number="1" name="Ashes of the Abhorrent"/>
+        <card number="1" name="Bellowing Aegisaur"/>
+        <card number="1" name="Bishop of the Bloodstained"/>
+        <card number="2" name="Blossom Dryad"/>
+        <card number="2" name="Cobbled Wings"/>
+        <card number="1" name="Colossal Dreadmaw"/>
+        <card number="1" name="Contract Killing"/>
+        <card number="1" name="Crushing Canopy"/>
+        <card number="1" name="Demolish"/>
+        <card number="2" name="Depths of Desire"/>
+        <card number="1" name="Desperate Castaways"/>
+        <card number="1" name="Dire Fleet Hoarder"/>
+        <card number="1" name="Dive Down"/>
+        <card number="1" name="Drover of the Mighty"/>
+        <card number="2" name="Fathom Fleet Cutthroat"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="Gilded Sentinel"/>
+        <card number="1" name="Grim Captain's Call"/>
+        <card number="1" name="Hierophant's Chalice"/>
+        <card number="1" name="Imperial Lancer"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Jungle Delver"/>
+        <card number="1" name="Kinjalli's Caller"/>
+        <card number="1" name="Lookout's Dispersal"/>
+        <card number="1" name="Marauding Looter"/>
+        <card number="1" name="One With the Wind"/>
+        <card number="1" name="Opt"/>
+        <card number="2" name="Pounce"/>
+        <card number="1" name="Prosperous Pirates"/>
+        <card number="2" name="Prying Blade"/>
+        <card number="1" name="Rallying Roar"/>
+        <card number="1" name="Ranging Raptors"/>
+        <card number="1" name="Ravenous Daggertooth"/>
+        <card number="1" name="Ritual of Rejuvenation"/>
+        <card number="1" name="Rummaging Goblin"/>
+        <card number="2" name="Run Aground"/>
+        <card number="1" name="Shapers of Nature"/>
+        <card number="1" name="Siren Lookout"/>
+        <card number="1" name="Siren's Ruse"/>
+        <card number="1" name="Skittering Heartstopper"/>
+        <card number="1" name="Snapping Sailback"/>
+        <card number="1" name="Spike-Tailed Ceratops"/>
+        <card number="1" name="Storm Sculptor"/>
+        <card number="1" name="Sunrise Seeker"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Sword-Point Diplomacy"/>
+        <card number="1" name="Tishana's Wayfinder"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Vona, Butcher of Magan"/>
+        <card number="1" name="Watertrap Weaver"/>
+        <card number="1" name="Wildgrowth Walker"/>
+        <card number="2" name="Wind Strider"/>
+    </zone>
+</cockatrice_deck>

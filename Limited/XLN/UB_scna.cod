@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UB_scna</deckname>
+    <comments>name : ub
+creator : scna
+format : limited
+</comments>
+    <zone name="main">
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="7" name="Swamp"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="2" name="Pious Interdiction"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Fell Flagship"/>
+        <card number="1" name="Skulduggery"/>
+        <card number="1" name="Siren's Ruse"/>
+        <card number="1" name="Perilous Voyage"/>
+        <card number="1" name="March of the Drowned"/>
+        <card number="1" name="Contract Killing"/>
+        <card number="1" name="Storm Fleet Spy"/>
+        <card number="1" name="Skittering Heartstopper"/>
+        <card number="1" name="Siren Lookout"/>
+        <card number="1" name="Sailor of Means"/>
+        <card number="1" name="Marauding Looter"/>
+        <card number="1" name="Kitesail Freebooter"/>
+        <card number="2" name="Dreamcaller Siren"/>
+        <card number="2" name="Dire Fleet Hoarder"/>
+        <card number="1" name="Desperate Castaways"/>
+        <card number="1" name="Deadeye Tormentor"/>
+        <card number="1" name="Charging Monstrosaur"/>
+        <card number="1" name="Air Elemental"/>
+        <card number="1" name="Unknown Shores"/>
+    </zone>
+    <zone name="side">
+        <card number="12" name="Swamp"/>
+        <card number="19" name="Island"/>
+        <card number="1" name="Tishana's Wayfinder"/>
+        <card number="1" name="Tilonalli's Knight"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="1" name="Storm Sculptor"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Slash of Talons"/>
+        <card number="2" name="Skymarch Bloodletter"/>
+        <card number="1" name="Skyblade of the Legion"/>
+        <card number="1" name="Rummaging Goblin"/>
+        <card number="1" name="River Sneak"/>
+        <card number="1" name="River Heralds' Boon"/>
+        <card number="1" name="Ritual of Rejuvenation"/>
+        <card number="1" name="Queen's Commission"/>
+        <card number="2" name="Prying Blade"/>
+        <card number="1" name="Prosperous Pirates"/>
+        <card number="1" name="Primal Amulet"/>
+        <card number="2" name="Pounce"/>
+        <card number="12" name="Plains"/>
+        <card number="1" name="One With the Wind"/>
+        <card number="1" name="Nest Robber"/>
+        <card number="19" name="Mountain"/>
+        <card number="1" name="Makeshift Munitions"/>
+        <card number="1" name="Looming Altisaur"/>
+        <card number="1" name="Ixalli's Keeper"/>
+        <card number="1" name="Inspiring Cleric"/>
+        <card number="1" name="Hijack"/>
+        <card number="2" name="Headstrong Brute"/>
+        <card number="1" name="Grazing Whiptail"/>
+        <card number="2" name="Frenzied Raptor"/>
+        <card number="10" name="Forest"/>
+        <card number="1" name="Firecannon Blast"/>
+        <card number="1" name="Fire Shrine Keeper"/>
+        <card number="2" name="Favorable Winds"/>
+        <card number="1" name="Fathom Fleet Cutthroat"/>
+        <card number="2" name="Elaborate Firecannon"/>
+        <card number="1" name="Duskborne Skymarcher"/>
+        <card number="1" name="Dire Fleet Interloper"/>
+        <card number="1" name="Dinosaur Stampede"/>
+        <card number="3" name="Demystify"/>
+        <card number="2" name="Crash the Ramparts"/>
+        <card number="1" name="Commune with Dinosaurs"/>
+        <card number="1" name="Cobbled Wings"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Call to the Feast"/>
+        <card number="3" name="Blossom Dryad"/>
+        <card number="1" name="Blinding Fog"/>
+        <card number="2" name="Atzocan Archer"/>
+        <card number="1" name="Ancient Brontodon"/>
+    </zone>
+</cockatrice_deck>

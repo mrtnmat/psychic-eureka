@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WB_burningsands</deckname>
+    <comments>name : bw
+creator : burningsands
+format : limited
+</comments>
+    <zone name="main">
+        <card number="1" name="Deadeye Tormentor"/>
+        <card number="1" name="Blight Keeper"/>
+        <card number="2" name="Bishop's Soldier"/>
+        <card number="2" name="Bishop of the Bloodstained"/>
+        <card number="1" name="Anointed Deacon"/>
+        <card number="9" name="Swamp"/>
+        <card number="7" name="Plains"/>
+        <card number="1" name="Pious Interdiction"/>
+        <card number="1" name="Legion's Landing"/>
+        <card number="2" name="Vampire's Zeal"/>
+        <card number="1" name="Skulduggery"/>
+        <card number="1" name="Walk the Plank"/>
+        <card number="1" name="Call to the Feast"/>
+        <card number="1" name="Wanted Scoundrels"/>
+        <card number="2" name="Territorial Hammerskull"/>
+        <card number="2" name="Skymarch Bloodletter"/>
+        <card number="3" name="Fathom Fleet Cutthroat"/>
+        <card number="2" name="Dire Fleet Hoarder"/>
+    </zone>
+</cockatrice_deck>

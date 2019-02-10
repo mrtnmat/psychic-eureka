@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RG_wati</deckname>
+    <comments>name : rg
+creator : wati
+format : limited
+</comments>
+    <zone name="main">
+        <card number="1" name="Tilonalli's Knight"/>
+        <card number="1" name="Sun-Crowned Hunters"/>
+        <card number="1" name="Storm Fleet Arsonist"/>
+        <card number="1" name="Spike-Tailed Ceratops"/>
+        <card number="1" name="Snapping Sailback"/>
+        <card number="2" name="Rummaging Goblin"/>
+        <card number="1" name="Raptor Hatchling"/>
+        <card number="1" name="Otepec Huntmaster"/>
+        <card number="1" name="Jade Guardian"/>
+        <card number="2" name="Brazen Buccaneers"/>
+        <card number="2" name="Colossal Dreadmaw"/>
+        <card number="1" name="Fire Shrine Keeper"/>
+        <card number="1" name="Frenzied Raptor"/>
+        <card number="2" name="Grazing Whiptail"/>
+        <card number="1" name="Ixalli's Keeper"/>
+        <card number="7" name="Forest"/>
+        <card number="1" name="Hierophant's Chalice"/>
+        <card number="2" name="Unfriendly Fire"/>
+        <card number="1" name="Tilonalli's Skinshifter"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="9" name="Mountain"/>
+    </zone>
+</cockatrice_deck>

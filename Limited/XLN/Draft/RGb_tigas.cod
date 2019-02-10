@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RGb_tigas</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bonded Horncrest"/>
+        <card number="1" name="Colossal Dreadmaw"/>
+        <card number="1" name="Deeproot Warrior"/>
+        <card number="1" name="Drover of the Mighty"/>
+        <card number="1" name="Fathom Fleet Firebrand"/>
+        <card number="1" name="Frenzied Raptor"/>
+        <card number="3" name="Jade Guardian"/>
+        <card number="1" name="Raging Swordtooth"/>
+        <card number="1" name="Ranging Raptors"/>
+        <card number="1" name="Spike-Tailed Ceratops"/>
+        <card number="1" name="Sun-Crowned Hunters"/>
+        <card number="1" name="Tilonalli's Knight"/>
+        <card number="1" name="Tishana's Wayfinder"/>
+        <card number="1" name="Vineshaper Mystic"/>
+        <card number="1" name="Crash the Ramparts"/>
+        <card number="1" name="Lightning Strike"/>
+        <card number="2" name="Pounce"/>
+        <card number="1" name="Unfriendly Fire"/>
+        <card number="1" name="Mark of the Vampire"/>
+        <card number="1" name="New Horizons"/>
+        <card number="1" name="Swashbuckling"/>
+        <card number="8" name="Forest"/>
+        <card number="7" name="Mountain"/>
+        <card number="1" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Swamp"/>
+        <card number="1" name="New Horizons"/>
+        <card number="1" name="Ashes of the Abhorrent"/>
+        <card number="1" name="Crushing Canopy"/>
+        <card number="1" name="Dark Nourishment"/>
+        <card number="1" name="Demolish"/>
+        <card number="1" name="Dinosaur Stampede"/>
+        <card number="1" name="Dive Down"/>
+        <card number="1" name="Dual Shot"/>
+        <card number="1" name="Headstrong Brute"/>
+        <card number="2" name="Hijack"/>
+        <card number="2" name="Looming Altisaur"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Queen's Agent"/>
+        <card number="1" name="Run Aground"/>
+        <card number="1" name="Slice in Twain"/>
+        <card number="1" name="Storm Sculptor"/>
+        <card number="1" name="Wind Strider"/>
+    </zone>
+</cockatrice_deck>

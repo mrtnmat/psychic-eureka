@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UG_palemongoose</deckname>
+    <comments>name : ug
+creator : palemongoose
+format : limited
+</comments>
+    <zone name="main">
+        <card number="8" name="Forest"/>
+        <card number="2" name="Run Aground"/>
+        <card number="1" name="River Heralds' Boon"/>
+        <card number="2" name="Lookout's Dispersal"/>
+        <card number="2" name="Watertrap Weaver"/>
+        <card number="1" name="Vineshaper Mystic"/>
+        <card number="1" name="Storm Fleet Spy"/>
+        <card number="1" name="Storm Fleet Aerialist"/>
+        <card number="2" name="Siren Stormtamer"/>
+        <card number="1" name="Siren Lookout"/>
+        <card number="1" name="Shipwreck Looter"/>
+        <card number="2" name="Shapers of Nature"/>
+        <card number="1" name="River Sneak"/>
+        <card number="1" name="Kumena's Speaker"/>
+        <card number="1" name="Jungle Delver"/>
+        <card number="2" name="Jade Guardian"/>
+        <card number="1" name="Ixalli's Keeper"/>
+        <card number="1" name="Herald of Secret Streams"/>
+        <card number="1" name="Deeproot Warrior"/>
+        <card number="8" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Forest"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Storm Fleet Arsonist"/>
+        <card number="1" name="Skulduggery"/>
+        <card number="2" name="Siren's Ruse"/>
+        <card number="1" name="Shore Keeper"/>
+        <card number="1" name="Shapers' Sanctuary"/>
+        <card number="2" name="Sentinel Totem"/>
+        <card number="1" name="New Horizons"/>
+        <card number="1" name="Looming Altisaur"/>
+        <card number="1" name="Gilded Sentinel"/>
+        <card number="1" name="Firecannon Blast"/>
+        <card number="1" name="Fire Shrine Keeper"/>
+        <card number="1" name="Emergent Growth"/>
+        <card number="1" name="Dive Down"/>
+        <card number="1" name="Brazen Buccaneers"/>
+        <card number="1" name="Blight Keeper"/>
+        <card number="1" name="Island"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WGr_andy_2914</deckname>
+    <comments>name : wg
+creator : andy_2914
+format : limited
+</comments>
+    <zone name="main">
+        <card number="1" name="Deeproot Warrior"/>
+        <card number="1" name="Emissary of Sunrise"/>
+        <card number="2" name="Grazing Whiptail"/>
+        <card number="1" name="Ixalli's Diviner"/>
+        <card number="1" name="Kinjalli's Caller"/>
+        <card number="1" name="Raptor Companion"/>
+        <card number="1" name="Regisaur Alpha"/>
+        <card number="1" name="Shining Aerosaur"/>
+        <card number="1" name="Snapping Sailback"/>
+        <card number="1" name="Steadfast Armasaur"/>
+        <card number="2" name="Territorial Hammerskull"/>
+        <card number="1" name="Crash the Ramparts"/>
+        <card number="8" name="Plains"/>
+        <card number="1" name="Mountain"/>
+        <card number="7" name="Forest"/>
+        <card number="2" name="Pious Interdiction"/>
+        <card number="1" name="Vampire's Zeal"/>
+        <card number="2" name="Slash of Talons"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Adanto Vanguard"/>
+        <card number="1" name="Atzocan Archer"/>
+        <card number="1" name="Blossom Dryad"/>
+        <card number="1" name="Deathgorge Scavenger"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Ancient Brontodon"/>
+        <card number="1" name="Blinding Fog"/>
+        <card number="1" name="Crushing Canopy"/>
+        <card number="1" name="Deadeye Quartermaster"/>
+        <card number="1" name="Deeproot Waters"/>
+        <card number="1" name="Dual Shot"/>
+        <card number="2" name="Encampment Keeper"/>
+        <card number="1" name="Gilded Sentinel"/>
+        <card number="1" name="Goring Ceratops"/>
+        <card number="1" name="Legion's Judgment"/>
+        <card number="1" name="Slice in Twain"/>
+        <card number="3" name="Spike-Tailed Ceratops"/>
+        <card number="1" name="Thrash of Raptors"/>
+        <card number="1" name="Verdant Rebirth"/>
+        <card number="1" name="Watertrap Weaver"/>
+    </zone>
+</cockatrice_deck>

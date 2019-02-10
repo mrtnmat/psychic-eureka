@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UB_SeanMiller</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Daring Saboteur"/>
+        <card number="1" name="Prosperous Pirates"/>
+        <card number="1" name="Siren Lookout"/>
+        <card number="1" name="Storm Fleet Aerialist"/>
+        <card number="1" name="Storm Fleet Spy"/>
+        <card number="1" name="Storm Sculptor"/>
+        <card number="1" name="Tempest Caller"/>
+        <card number="1" name="Watertrap Weaver"/>
+        <card number="1" name="Desperate Castaways"/>
+        <card number="1" name="Dire Fleet Hoarder"/>
+        <card number="1" name="Fathom Fleet Captain"/>
+        <card number="1" name="Ruthless Knave"/>
+        <card number="1" name="Skittering Heartstopper"/>
+        <card number="1" name="Wanted Scoundrels"/>
+        <card number="1" name="Contract Killing"/>
+        <card number="2" name="Siren's Ruse"/>
+        <card number="1" name="Depths of Desire"/>
+        <card number="1" name="Run Aground"/>
+        <card number="1" name="Dark Nourishment"/>
+        <card number="1" name="Skulduggery"/>
+        <card number="1" name="Vanquish the Weak"/>
+        <card number="2" name="Pirate's Cutlass"/>
+        <card number="8" name="Island"/>
+        <card number="8" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Run Aground"/>
+        <card number="1" name="Skittering Heartstopper"/>
+        <card number="1" name="Primal Amulet"/>
+        <card number="1" name="Shadowed Caravel"/>
+        <card number="1" name="Adanto Vanguard"/>
+        <card number="1" name="Glorifier of Dusk"/>
+        <card number="1" name="Ixalan's Binding"/>
+        <card number="1" name="Legion Conquistador"/>
+        <card number="1" name="Legion's Judgment"/>
+        <card number="1" name="Paladin of the Bloodstained"/>
+        <card number="1" name="Rallying Roar"/>
+        <card number="1" name="Raptor Companion"/>
+        <card number="1" name="Sanguine Sacrament"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Deeproot Waters"/>
+        <card number="1" name="Navigator's Ruin"/>
+        <card number="1" name="Pirate's Prize"/>
+        <card number="1" name="Shore Keeper"/>
+        <card number="1" name="Bonded Horncrest"/>
+        <card number="1" name="Dinosaur Stampede"/>
+        <card number="1" name="Fire Shrine Keeper"/>
+        <card number="1" name="Headstrong Brute"/>
+        <card number="1" name="Lightning-Rig Crew"/>
+        <card number="1" name="Raptor Hatchling"/>
+        <card number="1" name="Storm Fleet Arsonist"/>
+        <card number="1" name="Ancient Brontodon"/>
+        <card number="1" name="Blinding Fog"/>
+        <card number="1" name="Jungle Delver"/>
+        <card number="1" name="Merfolk Branchwalker"/>
+        <card number="1" name="Ravenous Daggertooth"/>
+        <card number="1" name="Slice in Twain"/>
+        <card number="1" name="Spike-Tailed Ceratops"/>
+        <card number="1" name="Thundering Spineback"/>
+        <card number="1" name="Waker of the Wilds"/>
+        <card number="1" name="Huatli, Warrior Poet"/>
+        <card number="2" name="Unknown Shores"/>
+        <card number="2" name="Gilded Sentinel"/>
+        <card number="2" name="Skyblade of the Legion"/>
+        <card number="2" name="Anointed Deacon"/>
+        <card number="2" name="Mark of the Vampire"/>
+        <card number="2" name="Frenzied Raptor"/>
+        <card number="2" name="Thrash of Raptors"/>
+        <card number="2" name="Crushing Canopy"/>
+        <card number="3" name="Slash of Talons"/>
+        <card number="3" name="Dual Shot"/>
+        <card number="3" name="Deeproot Champion"/>
+    </zone>
+</cockatrice_deck>

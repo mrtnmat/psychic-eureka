@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RG_neo-dino</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Charging Monstrosaur"/>
+        <card number="1" name="Colossal Dreadmaw"/>
+        <card number="1" name="Drover of the Mighty"/>
+        <card number="1" name="Fire Shrine Keeper"/>
+        <card number="1" name="Grazing Whiptail"/>
+        <card number="2" name="Imperial Aerosaur"/>
+        <card number="2" name="Ixalli's Keeper"/>
+        <card number="1" name="Otepec Huntmaster"/>
+        <card number="1" name="Raging Swordtooth"/>
+        <card number="1" name="Ravenous Daggertooth"/>
+        <card number="1" name="Spike-Tailed Ceratops"/>
+        <card number="1" name="Territorial Hammerskull"/>
+        <card number="1" name="Thrash of Raptors"/>
+        <card number="2" name="Tilonalli's Knight"/>
+        <card number="1" name="Crash the Ramparts"/>
+        <card number="1" name="Cobbled Wings"/>
+        <card number="1" name="New Horizons"/>
+        <card number="3" name="Swashbuckling"/>
+        <card number="7" name="Forest"/>
+        <card number="8" name="Mountain"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Sunpetal Grove"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Plains"/>
+        <card number="1" name="Demolish"/>
+        <card number="1" name="Demystify"/>
+        <card number="1" name="Depths of Desire"/>
+        <card number="1" name="Desperate Castaways"/>
+        <card number="1" name="Headwater Sentries"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Jade Guardian"/>
+        <card number="1" name="Legion Conquistador"/>
+        <card number="1" name="Looming Altisaur"/>
+        <card number="1" name="Old-Growth Dryads"/>
+        <card number="1" name="Pirate's Prize"/>
+        <card number="1" name="Prying Blade"/>
+        <card number="1" name="Queen's Bay Soldier"/>
+        <card number="1" name="Rile"/>
+        <card number="1" name="Ritual of Rejuvenation"/>
+        <card number="1" name="Sky Terror"/>
+        <card number="1" name="Slice in Twain"/>
+        <card number="1" name="Sun-Crowned Hunters"/>
+        <card number="1" name="Vampire's Zeal"/>
+        <card number="1" name="Watertrap Weaver"/>
+    </zone>
+</cockatrice_deck>

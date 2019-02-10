@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UG_lighdar</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Jace, Cunning Castaway"/>
+        <card number="1" name="Deeproot Warrior"/>
+        <card number="1" name="Drover of the Mighty"/>
+        <card number="1" name="Grazing Whiptail"/>
+        <card number="2" name="Jade Guardian"/>
+        <card number="2" name="Kumena's Speaker"/>
+        <card number="1" name="Ranging Raptors"/>
+        <card number="1" name="Ripjaw Raptor"/>
+        <card number="2" name="Shaper Apprentice"/>
+        <card number="2" name="Siren Lookout"/>
+        <card number="1" name="Storm Fleet Aerialist"/>
+        <card number="1" name="Storm Sculptor"/>
+        <card number="2" name="Wind Strider"/>
+        <card number="1" name="Cancel"/>
+        <card number="2" name="Depths of Desire"/>
+        <card number="1" name="Dive Down"/>
+        <card number="1" name="One With the Wind"/>
+        <card number="8" name="Forest"/>
+        <card number="9" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Island"/>
+        <card number="1" name="Costly Plunder"/>
+        <card number="1" name="Deadeye Tormentor"/>
+        <card number="1" name="Deeproot Waters"/>
+        <card number="1" name="Frenzied Raptor"/>
+        <card number="2" name="Headwater Sentries"/>
+        <card number="2" name="Jungle Delver"/>
+        <card number="1" name="Kinjalli's Caller"/>
+        <card number="1" name="Legion Conquistador"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Overflowing Insight"/>
+        <card number="1" name="Prosperous Pirates"/>
+        <card number="1" name="Rallying Roar"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Tilonalli's Knight"/>
+        <card number="1" name="Vampire's Zeal"/>
+        <card number="1" name="Wanted Scoundrels"/>
+        <card number="1" name="Wildgrowth Walker"/>
+    </zone>
+</cockatrice_deck>
