@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Boros_ThiagoSaporito</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Honored Crop-Captain"/>
+        <card number="1" name="Seraph of the Suns"/>
+        <card number="2" name="Sparring Mummy"/>
+        <card number="1" name="Vizier of Deferment"/>
+        <card number="1" name="Vizier of Remedies"/>
+        <card number="1" name="Battlefield Scavenger"/>
+        <card number="1" name="Hyena Pack"/>
+        <card number="2" name="Nef-Crop Entangler"/>
+        <card number="1" name="Soul-Scar Mage"/>
+        <card number="2" name="Thresher Lizard"/>
+        <card number="1" name="Trueheart Twins"/>
+        <card number="1" name="Limits of Solidarity"/>
+        <card number="1" name="Djeru's Resolve"/>
+        <card number="1" name="Brute Strength"/>
+        <card number="1" name="Electrify"/>
+        <card number="1" name="Fling"/>
+        <card number="2" name="Magma Spray"/>
+        <card number="2" name="Cartouche of Solidarity"/>
+        <card number="2" name="Cartouche of Zeal"/>
+        <card number="8" name="Mountain"/>
+        <card number="7" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Brute Strength"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Forsake the Worldly"/>
+        <card number="1" name="Impeccable Timing"/>
+        <card number="1" name="In Oketra's Name"/>
+        <card number="1" name="Aven Initiate"/>
+        <card number="1" name="New Perspectives"/>
+        <card number="1" name="Slither Blade"/>
+        <card number="1" name="Dune Beetle"/>
+        <card number="1" name="Consuming Fervor"/>
+        <card number="1" name="Desert Cerodon"/>
+        <card number="1" name="Haze of Pollen"/>
+        <card number="2" name="Onward // Victory"/>
+        <card number="1" name="Gate to the Afterlife"/>
+        <card number="1" name="Luxa River Shrine"/>
+    </zone>
+</cockatrice_deck>

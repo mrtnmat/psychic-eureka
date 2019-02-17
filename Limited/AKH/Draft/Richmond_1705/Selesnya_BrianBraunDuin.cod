@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Selesnya_BrianBraunDuin</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Angel of Sanctions"/>
+        <card number="1" name="Anointer Priest"/>
+        <card number="1" name="Oketra's Attendant"/>
+        <card number="2" name="Rhet-Crop Spearmaster"/>
+        <card number="1" name="Sparring Mummy"/>
+        <card number="1" name="Vizier of Deferment"/>
+        <card number="2" name="Bitterblade Warrior"/>
+        <card number="2" name="Colossapede"/>
+        <card number="2" name="Giant Spider"/>
+        <card number="2" name="Initiate's Companion"/>
+        <card number="3" name="Spidery Grasp"/>
+        <card number="2" name="Honed Khopesh"/>
+        <card number="1" name="Oketra's Monument"/>
+        <card number="2" name="Cartouche of Solidarity"/>
+        <card number="1" name="Trial of Strength"/>
+        <card number="8" name="Forest"/>
+        <card number="8" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Anointer Priest"/>
+        <card number="1" name="Enigma Drake"/>
+        <card number="1" name="Forsake the Worldly"/>
+        <card number="2" name="Impeccable Timing"/>
+        <card number="1" name="Sacred Cat"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Cartouche of Knowledge"/>
+        <card number="1" name="Censor"/>
+        <card number="1" name="River Serpent"/>
+        <card number="1" name="Scribe of the Mindful"/>
+        <card number="1" name="Seeker of Insight"/>
+        <card number="1" name="Zenith Seeker"/>
+        <card number="1" name="Heart-Piercer Manticore"/>
+        <card number="2" name="Dissenter's Deliverance"/>
+        <card number="1" name="Hapatra's Mark"/>
+        <card number="1" name="Haze of Pollen"/>
+    </zone>
+</cockatrice_deck>

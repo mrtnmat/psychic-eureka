@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gruul_MartinDang</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Battlefield Scavenger"/>
+        <card number="1" name="Bloodlust Inciter"/>
+        <card number="1" name="Emberhorn Minotaur"/>
+        <card number="1" name="Heart-Piercer Manticore"/>
+        <card number="1" name="Nef-Crop Entangler"/>
+        <card number="1" name="Trueheart Twins"/>
+        <card number="1" name="Defiant Greatmaw"/>
+        <card number="3" name="Hooded Brawler"/>
+        <card number="1" name="Initiate's Companion"/>
+        <card number="1" name="Ornery Kudu"/>
+        <card number="1" name="Watchers of the Dead"/>
+        <card number="2" name="Brute Strength"/>
+        <card number="1" name="Deem Worthy"/>
+        <card number="1" name="Magma Spray"/>
+        <card number="2" name="Spidery Grasp"/>
+        <card number="2" name="Cartouche of Zeal"/>
+        <card number="1" name="Cartouche of Strength"/>
+        <card number="1" name="Trial of Strength"/>
+        <card number="7" name="Forest"/>
+        <card number="9" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Cascading Cataracts"/>
+        <card number="1" name="Grasping Dunes"/>
+        <card number="1" name="Sunscorched Desert"/>
+        <card number="1" name="Cartouche of Solidarity"/>
+        <card number="1" name="Renewed Faith"/>
+        <card number="1" name="Sacred Cat"/>
+        <card number="1" name="Trial of Solidarity"/>
+        <card number="1" name="Compelling Argument"/>
+        <card number="1" name="Winds of Rebuke"/>
+        <card number="2" name="Blazing Volley"/>
+        <card number="1" name="By Force"/>
+        <card number="1" name="Pursue Glory"/>
+        <card number="1" name="Giant Spider"/>
+        <card number="1" name="Hapatra's Mark"/>
+        <card number="2" name="Honed Khopesh"/>
+    </zone>
+</cockatrice_deck>
