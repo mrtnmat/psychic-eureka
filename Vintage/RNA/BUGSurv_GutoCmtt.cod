@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BUGSurv_GutoCmtt</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ancestral Recall"/>
+        <card number="4" name="Basking Rootwalla"/>
+        <card number="2" name="Bayou"/>
+        <card number="4" name="Bazaar of Baghdad"/>
+        <card number="1" name="Black Lotus"/>
+        <card number="4" name="Deathrite Shaman"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Elvish Spirit Guide"/>
+        <card number="1" name="Flusterstorm"/>
+        <card number="4" name="Force of Will"/>
+        <card number="1" name="Forest"/>
+        <card number="4" name="Hollow One"/>
+        <card number="2" name="Leovold, Emissary of Trest"/>
+        <card number="4" name="Mental Misstep"/>
+        <card number="4" name="Misty Rainforest"/>
+        <card number="1" name="Mox Emerald"/>
+        <card number="1" name="Mox Jet"/>
+        <card number="1" name="Mox Sapphire"/>
+        <card number="1" name="Phantasmal Image"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Squee, Goblin Nabob"/>
+        <card number="4" name="Survival of the Fittest"/>
+        <card number="1" name="Time Walk"/>
+        <card number="3" name="Tropical Island"/>
+        <card number="1" name="Trygon Predator"/>
+        <card number="4" name="Vengevine"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Wonder"/>
+        <card number="1" name="Wooded Foothills"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="4" name="Containment Priest"/>
+        <card number="2" name="Energy Flux"/>
+        <card number="1" name="Leovold, Emissary of Trest"/>
+        <card number="1" name="Mindbreak Trap"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Null Rod"/>
+        <card number="3" name="Ravenous Trap"/>
+        <card number="1" name="Stony Silence"/>
+    </zone>
+</cockatrice_deck>
