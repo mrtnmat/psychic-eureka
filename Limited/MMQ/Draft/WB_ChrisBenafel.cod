@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WB_ChrisBenafel</deckname>
+    <comments>name : white / black
+creator : chris_benafel
+format : limited
+</comments>
+    <zone name="main">
+        <card number="8" name="Plains"/>
+        <card number="9" name="Swamp"/>
+        <card number="1" name="Alabaster Wall"/>
+        <card number="1" name="Arrest"/>
+        <card number="1" name="Cho-Arrim Bruiser"/>
+        <card number="2" name="Nightwind Glider"/>
+        <card number="1" name="Pious Warrior"/>
+        <card number="1" name="Ramosian Rally"/>
+        <card number="1" name="Task Force"/>
+        <card number="1" name="Thermal Glider"/>
+        <card number="1" name="Bog Witch"/>
+        <card number="1" name="Cateran Enforcer"/>
+        <card number="1" name="Cateran Persuader"/>
+        <card number="1" name="Cateran Summons"/>
+        <card number="1" name="Deepwood Ghoul"/>
+        <card number="1" name="Deepwood Legate"/>
+        <card number="1" name="Delraich"/>
+        <card number="1" name="Intimidation"/>
+        <card number="2" name="Sever Soul"/>
+        <card number="1" name="Skulking Fugitive"/>
+        <card number="1" name="Unnatural Hunger"/>
+        <card number="2" name="unknown card"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Assembly Hall"/>
+        <card number="1" name="Eye of Ramos"/>
+        <card number="1" name="Heart of Ramos"/>
+        <card number="1" name="Cho-Arrim Legate"/>
+        <card number="1" name="Ramosian Sergeant"/>
+        <card number="1" name="Larceny"/>
+        <card number="1" name="Soul Channeling"/>
+        <card number="1" name="Chambered Nautilus"/>
+        <card number="1" name="Shoving Match"/>
+        <card number="1" name="Squeeze"/>
+        <card number="1" name="Timid Drake"/>
+        <card number="1" name="Trade Routes"/>
+        <card number="1" name="Blood Hound"/>
+        <card number="1" name="Ceremonial Guard"/>
+        <card number="1" name="Mercadia's Downfall"/>
+        <card number="1" name="Uphill Battle"/>
+        <card number="1" name="Warpath"/>
+        <card number="1" name="Word of Blasting"/>
+        <card number="1" name="Howling Wolf"/>
+    </zone>
+</cockatrice_deck>

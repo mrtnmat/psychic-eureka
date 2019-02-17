@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RG_MikeLong</deckname>
+    <comments>name : red / green
+creator : mike_long
+format : limited
+</comments>
+    <zone name="main">
+        <card number="8" name="Forest"/>
+        <card number="9" name="Mountain"/>
+        <card number="1" name="Battle Squadron"/>
+        <card number="2" name="Blaster Mage"/>
+        <card number="3" name="Gerrard's Irregulars"/>
+        <card number="1" name="Hired Giant"/>
+        <card number="1" name="Kyren Glider"/>
+        <card number="1" name="Lightning Hounds"/>
+        <card number="1" name="Lunge"/>
+        <card number="1" name="Shock Troops"/>
+        <card number="1" name="Thunderclap"/>
+        <card number="1" name="Tremor"/>
+        <card number="1" name="Desert Twister"/>
+        <card number="2" name="Horned Troll"/>
+        <card number="3" name="Invigorate"/>
+        <card number="1" name="Rushwood Dryad"/>
+        <card number="1" name="Rushwood Herbalist"/>
+        <card number="1" name="Spontaneous Generation"/>
+        <card number="1" name="Tranquility"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Rushwood Grove"/>
+        <card number="1" name="Ceremonial Guard"/>
+        <card number="1" name="Sizzle"/>
+        <card number="1" name="Stone Rain"/>
+        <card number="1" name="Ancestral Mask"/>
+        <card number="1" name="Deadly Insect"/>
+        <card number="2" name="Ferocity"/>
+        <card number="2" name="Howling Wolf"/>
+        <card number="1" name="Ley Line"/>
+        <card number="1" name="Snake Pit"/>
+        <card number="1" name="Crossbow Infantry"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Nightwind Glider"/>
+        <card number="1" name="High Seas"/>
+        <card number="1" name="Port Inspector"/>
+        <card number="1" name="Saprazzan Raider"/>
+        <card number="1" name="Timid Drake"/>
+        <card number="1" name="Putrefaction"/>
+        <card number="1" name="Quagmire Lamprey"/>
+        <card number="1" name="Specter's Wail"/>
+    </zone>
+</cockatrice_deck>

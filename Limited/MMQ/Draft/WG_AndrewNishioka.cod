@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WG_AndrewNishioka</deckname>
+    <comments>name : green / white
+creator : andrew_nishioka
+format : limited
+</comments>
+    <zone name="main">
+        <card number="7" name="Forest"/>
+        <card number="9" name="Plains"/>
+        <card number="1" name="Ballista Squad"/>
+        <card number="1" name="Charm Peddler"/>
+        <card number="1" name="Charmed Griffin"/>
+        <card number="1" name="Cho-Arrim Bruiser"/>
+        <card number="2" name="Cho-Manno's Blessing"/>
+        <card number="1" name="Crackdown"/>
+        <card number="1" name="Fresh Volunteers"/>
+        <card number="1" name="Muzzle"/>
+        <card number="1" name="Orim's Cure"/>
+        <card number="1" name="Ramosian Rally"/>
+        <card number="1" name="Thermal Glider"/>
+        <card number="1" name="Trap Runner"/>
+        <card number="2" name="Ancestral Mask"/>
+        <card number="1" name="Boa Constrictor"/>
+        <card number="1" name="Deepwood Drummer"/>
+        <card number="1" name="Deepwood Wolverine"/>
+        <card number="1" name="Invigorate"/>
+        <card number="1" name="Land Grant"/>
+        <card number="1" name="Rushwood Herbalist"/>
+        <card number="1" name="Snorting Gahr"/>
+        <card number="1" name="Tiger Claws"/>
+        <card number="1" name="Vine Trellis"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Deepwood Wolverine"/>
+        <card number="2" name="Land Grant"/>
+        <card number="2" name="Hickory Woodlot"/>
+        <card number="1" name="Remote Farm"/>
+        <card number="1" name="Saprazzan Skerry"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Ignoble Soldier"/>
+        <card number="1" name="Briar Patch"/>
+        <card number="1" name="Deadly Insect"/>
+        <card number="1" name="Sacred Prey"/>
+        <card number="1" name="Stamina"/>
+        <card number="1" name="Port Inspector"/>
+        <card number="1" name="Saprazzan Raider"/>
+        <card number="1" name="Cave Sense"/>
+        <card number="1" name="Flaming Sword"/>
+        <card number="1" name="Magistrate's Veto"/>
+        <card number="1" name="Shock Troops"/>
+        <card number="1" name="Word of Blasting"/>
+    </zone>
+</cockatrice_deck>

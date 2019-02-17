@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WB_BrianSelden</deckname>
+    <comments>name : white / black
+creator : brian_selden
+format : limited
+</comments>
+    <zone name="main">
+        <card number="10" name="Plains"/>
+        <card number="7" name="Swamp"/>
+        <card number="1" name="Peat Bog"/>
+        <card number="1" name="Charm Peddler"/>
+        <card number="1" name="Cho-Arrim Legate"/>
+        <card number="1" name="Cho-Manno's Blessing"/>
+        <card number="1" name="Devout Witness"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Jhovall Rider"/>
+        <card number="1" name="Muzzle"/>
+        <card number="1" name="Ramosian Captain"/>
+        <card number="1" name="Ramosian Commander"/>
+        <card number="1" name="Ramosian Lieutenant"/>
+        <card number="1" name="Ramosian Rally"/>
+        <card number="1" name="Revered Elder"/>
+        <card number="1" name="Story Circle"/>
+        <card number="1" name="Trap Runner"/>
+        <card number="1" name="Bog Smugglers"/>
+        <card number="1" name="Deathgazer"/>
+        <card number="2" name="Highway Robber"/>
+        <card number="1" name="Intimidation"/>
+        <card number="2" name="Sever Soul"/>
+        <card number="1" name="Undertaker"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Magistrate's Scepter"/>
+        <card number="1" name="Armistice"/>
+        <card number="1" name="Ivory Mask"/>
+        <card number="1" name="Righteous Aura"/>
+        <card number="1" name="Soothing Balm"/>
+        <card number="2" name="Bog Witch"/>
+        <card number="1" name="Cateran Persuader"/>
+        <card number="1" name="Insubordination"/>
+        <card number="1" name="Cloud Sprite"/>
+        <card number="1" name="Misstep"/>
+        <card number="1" name="Tidal Bore"/>
+        <card number="1" name="Ceremonial Guard"/>
+        <card number="1" name="Crash"/>
+        <card number="1" name="Hammer Mage"/>
+        <card number="1" name="Kyren Sniper"/>
+        <card number="1" name="Deepwood Wolverine"/>
+        <card number="2" name="Ferocity"/>
+        <card number="1" name="Tiger Claws"/>
+        <card number="1" name="Tranquility"/>
+    </zone>
+</cockatrice_deck>
