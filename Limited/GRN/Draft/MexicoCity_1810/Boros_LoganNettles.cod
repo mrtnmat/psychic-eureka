@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Boros_LoganNettles</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Intrusive Packbeast"/>
+        <card number="2" name="Tenth District Guard"/>
+        <card number="1" name="Healer's Hawk"/>
+        <card number="1" name="Haazda Marshal"/>
+        <card number="2" name="Inspiring Unicorn"/>
+        <card number="1" name="Fire Urchin"/>
+        <card number="1" name="Wojek Bodyguard"/>
+        <card number="1" name="Rubblebelt Boar"/>
+        <card number="1" name="Goblin Locksmith"/>
+        <card number="1" name="Ornery Goblin"/>
+        <card number="1" name="Legion Guildmage"/>
+        <card number="1" name="Fresh-Faced Recruit"/>
+        <card number="1" name="Gird for Battle"/>
+        <card number="1" name="Sworn Companions"/>
+        <card number="1" name="Direct Current"/>
+        <card number="1" name="Lava Coil"/>
+        <card number="1" name="Take Heart"/>
+        <card number="2" name="Sure Strike"/>
+        <card number="1" name="Luminous Bonds"/>
+        <card number="1" name="Street Riot"/>
+        <card number="8" name="Mountain"/>
+        <card number="8" name="Plains"/>
+        <card number="1" name="Boros Guildgate"/>
+    </zone>
+</cockatrice_deck>

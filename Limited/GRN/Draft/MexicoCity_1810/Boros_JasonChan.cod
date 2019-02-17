@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Boros_JasonChan</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Intrusive Packbeast"/>
+        <card number="2" name="Healer's Hawk"/>
+        <card number="1" name="Blade Instructor"/>
+        <card number="1" name="Venerated Loxodon"/>
+        <card number="1" name="Light of the Legion"/>
+        <card number="1" name="Hunted Witness"/>
+        <card number="1" name="Truefire Captain"/>
+        <card number="2" name="Barging Sergeant"/>
+        <card number="1" name="Ornery Goblin"/>
+        <card number="1" name="Vernadi Shieldmate"/>
+        <card number="1" name="Hammer Dropper"/>
+        <card number="2" name="Sworn Companions"/>
+        <card number="1" name="Direct Current"/>
+        <card number="1" name="Collar the Culprit"/>
+        <card number="1" name="Righteous Blow"/>
+        <card number="1" name="Inescapable Blaze"/>
+        <card number="1" name="Boros Locket"/>
+        <card number="1" name="Maniacal Rage"/>
+        <card number="8" name="Mountain"/>
+        <card number="9" name="Plains"/>
+    </zone>
+</cockatrice_deck>

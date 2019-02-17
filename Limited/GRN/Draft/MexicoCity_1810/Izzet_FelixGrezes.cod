@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Izzet_FelixGrezes</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Piston-Fist Cyclops"/>
+        <card number="1" name="Wee Dragonauts"/>
+        <card number="2" name="Goblin Electromancer"/>
+        <card number="1" name="Passwall Adept"/>
+        <card number="1" name="Muse Drake"/>
+        <card number="2" name="Electrostatic Field"/>
+        <card number="1" name="Erratic Cyclops"/>
+        <card number="3" name="Direct Current"/>
+        <card number="1" name="Lava Coil"/>
+        <card number="2" name="Gravitic Punch"/>
+        <card number="1" name="Sonic Assault"/>
+        <card number="2" name="Hypothesizzle"/>
+        <card number="1" name="Ionize"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Radical Idea"/>
+        <card number="1" name="Sinister Sabotage"/>
+        <card number="1" name="Inescapable Blaze"/>
+        <card number="1" name="Experimental Frenzy"/>
+        <card number="7" name="Island"/>
+        <card number="8" name="Mountain"/>
+        <card number="2" name="Izzet Guildgate"/>
+    </zone>
+</cockatrice_deck>

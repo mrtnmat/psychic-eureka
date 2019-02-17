@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Selesnya_SteveRubin</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Flight of Equenauts"/>
+        <card number="1" name="Ledev Guardian"/>
+        <card number="2" name="Loxodon Restorer"/>
+        <card number="1" name="Kraul Harpooner"/>
+        <card number="1" name="Devkarin Dissident"/>
+        <card number="1" name="Portcullis Vine"/>
+        <card number="1" name="Ironshell Beetle"/>
+        <card number="1" name="Generous Stray"/>
+        <card number="2" name="Siege Wurm"/>
+        <card number="1" name="Conclave Cavalier"/>
+        <card number="1" name="Ledev Champion"/>
+        <card number="1" name="Centaur Peacemaker"/>
+        <card number="1" name="Vernadi Shieldmate"/>
+        <card number="1" name="Conclave Guildmage"/>
+        <card number="1" name="Severed Strands"/>
+        <card number="1" name="Sprouting Renewal"/>
+        <card number="1" name="Prey Upon"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Camaraderie"/>
+        <card number="1" name="assure // assemble"/>
+        <card number="1" name="status // statue"/>
+        <card number="7" name="Plains"/>
+        <card number="5" name="Swamp"/>
+        <card number="2" name="Golgari Guildgate"/>
+        <card number="2" name="Selesnya Guildgate"/>
+        <card number="1" name="Overgrown Tomb"/>
+    </zone>
+</cockatrice_deck>
