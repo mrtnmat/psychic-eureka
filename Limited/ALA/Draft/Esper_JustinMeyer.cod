@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Esper_JustinMeyer</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Battlegrace Angel"/>
+        <card number="1" name="Esper Battlemage"/>
+        <card number="1" name="Etherium Sculptor"/>
+        <card number="1" name="Fatestitcher"/>
+        <card number="1" name="Filigree Sages"/>
+        <card number="3" name="Master of Etherium"/>
+        <card number="1" name="Puppet Conjurer"/>
+        <card number="1" name="Salvage Titan"/>
+        <card number="1" name="Rafiq of the Many"/>
+        <card number="1" name="Tidehollow Sculler"/>
+        <card number="1" name="Tidehollow Strix"/>
+        <card number="1" name="Tower Gargoyle"/>
+        <card number="2" name="Windwright Mage"/>
+        <card number="1" name="Agony Warp"/>
+        <card number="2" name="Obelisk of Bant"/>
+        <card number="1" name="Obelisk of Esper"/>
+        <card number="3" name="Courier's Capsule"/>
+        <card number="1" name="Forest"/>
+        <card number="6" name="Island"/>
+        <card number="4" name="Plains"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Jund Panorama"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Angelsong"/>
+        <card number="1" name="Gustrider Exuberant"/>
+        <card number="1" name="Marble Chalice"/>
+        <card number="1" name="Dawnray Archer"/>
+        <card number="1" name="Jhessian Lookout"/>
+        <card number="1" name="Kathari Screecher"/>
+        <card number="1" name="Tortoise Formation"/>
+        <card number="2" name="Vectis Silencers"/>
+        <card number="1" name="Blister Beetle"/>
+        <card number="1" name="Glaze Fiend"/>
+        <card number="1" name="Onyx Goblet"/>
+        <card number="2" name="Resounding Scream"/>
+        <card number="2" name="Esper Charm"/>
+        <card number="1" name="Kiss of the Amesha"/>
+    </zone>
+</cockatrice_deck>

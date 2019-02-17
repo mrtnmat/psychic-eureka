@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Bant_BrandonScheel</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Akrasan Squire"/>
+        <card number="1" name="Bant Battlemage"/>
+        <card number="2" name="Knight of the Skyward Eye"/>
+        <card number="1" name="Sunseed Nurturer"/>
+        <card number="1" name="Welkin Guide"/>
+        <card number="1" name="Cloudheath Drake"/>
+        <card number="2" name="Outrider of Jhess"/>
+        <card number="1" name="Court Archers"/>
+        <card number="1" name="Drumhunter"/>
+        <card number="1" name="Jhessian Infiltrator"/>
+        <card number="3" name="Waveskimmer Aven"/>
+        <card number="1" name="Excommunicate"/>
+        <card number="1" name="Resounding Wave"/>
+        <card number="1" name="Resounding Roar"/>
+        <card number="2" name="Bant Charm"/>
+        <card number="2" name="Sigil Blessing"/>
+        <card number="1" name="Obelisk of Esper"/>
+        <card number="5" name="Forest"/>
+        <card number="4" name="Island"/>
+        <card number="5" name="Plains"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Seaside Citadel"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Cloudheath Drake"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Coma Veil"/>
+        <card number="2" name="Protomatter Powder"/>
+        <card number="1" name="Steelclad Serpent"/>
+        <card number="1" name="Vectis Silencers"/>
+        <card number="2" name="Deathgreeter"/>
+        <card number="1" name="Bloodthorn Taunter"/>
+        <card number="1" name="Viashino Skeleton"/>
+        <card number="1" name="Gift of the Gargantuan"/>
+        <card number="1" name="Soul's Might"/>
+        <card number="1" name="Carrion Thrash"/>
+        <card number="1" name="Fire-Field Ogre"/>
+        <card number="1" name="Hindering Light"/>
+    </zone>
+</cockatrice_deck>

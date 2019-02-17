@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Naya_ChrisPait</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Guardians of Akrasa"/>
+        <card number="1" name="Sanctum Gargoyle"/>
+        <card number="1" name="Welkin Guide"/>
+        <card number="1" name="Vithian Stinger"/>
+        <card number="3" name="Rip-Clan Crasher"/>
+        <card number="1" name="Steward of Valeron"/>
+        <card number="2" name="Algae Gharial"/>
+        <card number="2" name="Cavern Thoctar"/>
+        <card number="1" name="Cylian Elf"/>
+        <card number="1" name="Druid of the Anima"/>
+        <card number="1" name="Mosstodon"/>
+        <card number="1" name="Rhox Charger"/>
+        <card number="1" name="Wild Nacatl"/>
+        <card number="2" name="Naya Charm"/>
+        <card number="1" name="Magma Spray"/>
+        <card number="1" name="Sigil Blessing"/>
+        <card number="1" name="Obelisk of Naya"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="5" name="Forest"/>
+        <card number="5" name="Mountain"/>
+        <card number="5" name="Plains"/>
+        <card number="1" name="Bant Panorama"/>
+        <card number="1" name="Naya Panorama"/>
+    </zone>
+</cockatrice_deck>

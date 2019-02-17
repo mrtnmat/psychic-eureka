@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Jund_NielsNoorlander</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Corpse Connoisseur"/>
+        <card number="1" name="Dregscape Zombie"/>
+        <card number="1" name="Skeletal Kathari"/>
+        <card number="1" name="Undead Leotau"/>
+        <card number="1" name="Viscera Dragger"/>
+        <card number="1" name="Ridge Rannet"/>
+        <card number="1" name="Algae Gharial"/>
+        <card number="1" name="Jungle Weaver"/>
+        <card number="1" name="Mosstodon"/>
+        <card number="1" name="Carrion Thrash"/>
+        <card number="2" name="Bone Splinters"/>
+        <card number="2" name="Magma Spray"/>
+        <card number="2" name="Resounding Thunder"/>
+        <card number="1" name="Skeletonize"/>
+        <card number="2" name="Branching Bolt"/>
+        <card number="1" name="Jund Charm"/>
+        <card number="1" name="Executioner's Capsule"/>
+        <card number="1" name="Necrogenesis"/>
+        <card number="1" name="Jund Panorama"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="4" name="Forest"/>
+        <card number="5" name="Mountain"/>
+        <card number="6" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

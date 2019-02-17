@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Bant_SimonGoertzen</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Guardians of Akrasa"/>
+        <card number="1" name="Metallurgeon"/>
+        <card number="3" name="Sanctum Gargoyle"/>
+        <card number="1" name="Esper Battlemage"/>
+        <card number="2" name="Etherium Sculptor"/>
+        <card number="1" name="Kathari Screecher"/>
+        <card number="2" name="Steelclad Serpent"/>
+        <card number="1" name="Tidehollow Sculler"/>
+        <card number="1" name="Tidehollow Strix"/>
+        <card number="1" name="Tower Gargoyle"/>
+        <card number="2" name="Windwright Mage"/>
+        <card number="2" name="Resounding Silence"/>
+        <card number="2" name="Agony Warp"/>
+        <card number="1" name="Scourglass"/>
+        <card number="1" name="Executioner's Capsule"/>
+        <card number="1" name="Obelisk of Esper"/>
+        <card number="2" name="Esper Panorama"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="3" name="Swamp"/>
+        <card number="5" name="Plains"/>
+        <card number="6" name="Island"/>
+    </zone>
+</cockatrice_deck>

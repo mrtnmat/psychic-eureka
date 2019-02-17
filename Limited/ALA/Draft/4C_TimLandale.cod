@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>4C_TimLandale</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Blister Beetle"/>
+        <card number="1" name="Dregscape Zombie"/>
+        <card number="1" name="Skeletal Kathari"/>
+        <card number="1" name="Bloodpyre Elemental"/>
+        <card number="1" name="Goblin Mountaineer"/>
+        <card number="3" name="Hissing Iguanar"/>
+        <card number="1" name="Rockslide Elemental"/>
+        <card number="1" name="Thunder-Thrash Elder"/>
+        <card number="2" name="Vithian Stinger"/>
+        <card number="1" name="Topan Ascetic"/>
+        <card number="2" name="Blood Cultist"/>
+        <card number="1" name="Broodmate Dragon"/>
+        <card number="1" name="Carrion Thrash"/>
+        <card number="1" name="Goblin Deathraiders"/>
+        <card number="1" name="Sedraxis Specter"/>
+        <card number="1" name="Dragon Fodder"/>
+        <card number="1" name="Obelisk of Jund"/>
+        <card number="2" name="Executioner's Capsule"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Island"/>
+        <card number="7" name="Mountain"/>
+        <card number="4" name="Swamp"/>
+        <card number="1" name="Bant Panorama"/>
+        <card number="1" name="Esper Panorama"/>
+        <card number="1" name="Grixis Panorama"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Relic of Progenitus"/>
+        <card number="1" name="Dispeller's Capsule"/>
+        <card number="1" name="Guardians of Akrasa"/>
+        <card number="2" name="Ranger of Eos"/>
+        <card number="1" name="Deathgreeter"/>
+        <card number="1" name="Demon's Herald"/>
+        <card number="1" name="Immortal Coil"/>
+        <card number="1" name="Onyx Goblet"/>
+        <card number="1" name="Resounding Scream"/>
+        <card number="1" name="Druid of the Anima"/>
+        <card number="1" name="Godtoucher"/>
+        <card number="1" name="Soul's Might"/>
+        <card number="1" name="Rip-Clan Crasher"/>
+    </zone>
+</cockatrice_deck>

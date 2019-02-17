@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Jund_JanDeCoster</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Corpse Connoisseur"/>
+        <card number="1" name="Dregscape Zombie"/>
+        <card number="2" name="Undead Leotau"/>
+        <card number="1" name="Viscera Dragger"/>
+        <card number="2" name="Bloodpyre Elemental"/>
+        <card number="3" name="Hissing Iguanar"/>
+        <card number="1" name="Incurable Ogre"/>
+        <card number="2" name="Rockslide Elemental"/>
+        <card number="1" name="Sprouting Thrinax"/>
+        <card number="1" name="Bone Splinters"/>
+        <card number="2" name="Dragon Fodder"/>
+        <card number="1" name="Volcanic Submersion"/>
+        <card number="1" name="Blightning"/>
+        <card number="1" name="Soul's Fire"/>
+        <card number="1" name="Branching Bolt"/>
+        <card number="1" name="Executioner's Capsule"/>
+        <card number="1" name="Lightning Talons"/>
+        <card number="1" name="Jund Panorama"/>
+        <card number="1" name="Naya Panorama"/>
+        <card number="1" name="Forest"/>
+        <card number="7" name="Mountain"/>
+        <card number="7" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

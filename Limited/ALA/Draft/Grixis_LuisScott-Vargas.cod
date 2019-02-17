@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Grixis_LuisScott-Vargas</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sharding Sphinx"/>
+        <card number="2" name="Sanctum Gargoyle"/>
+        <card number="1" name="Cloudheath Drake"/>
+        <card number="1" name="Esper Battlemage"/>
+        <card number="1" name="Etherium Sculptor"/>
+        <card number="1" name="Master of Etherium"/>
+        <card number="2" name="Kederekt Creeper"/>
+        <card number="1" name="Caldera Hellion"/>
+        <card number="1" name="Vithian Stinger"/>
+        <card number="1" name="Sphinx Sovereign"/>
+        <card number="2" name="Tidehollow Sculler"/>
+        <card number="1" name="Tower Gargoyle"/>
+        <card number="1" name="Infest"/>
+        <card number="1" name="Agony Warp"/>
+        <card number="2" name="Obelisk of Esper"/>
+        <card number="1" name="Obelisk of Grixis"/>
+        <card number="2" name="Courier's Capsule"/>
+        <card number="1" name="Executioner's Capsule"/>
+        <card number="5" name="Island"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Plains"/>
+        <card number="3" name="Swamp"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="2" name="Esper Panorama"/>
+        <card number="1" name="Savage Lands"/>
+    </zone>
+</cockatrice_deck>
