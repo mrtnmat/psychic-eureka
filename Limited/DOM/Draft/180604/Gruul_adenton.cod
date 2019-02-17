@@ -11,7 +11,6 @@ format : limited
         <card number="1" name="Gift of Growth"/>
         <card number="1" name="Wild Onslaught"/>
         <card number="1" name="Song of Freyalise"/>
-        <card number="1" name="_____"/>
         <card number="1" name="Ancient Animus"/>
         <card number="1" name="Broken Bond"/>
         <card number="1" name="Yavimaya Sapherd"/>
@@ -27,6 +26,7 @@ format : limited
         <card number="2" name="Elfhame Druid"/>
         <card number="2" name="Bloodstone Goblin"/>
         <card number="2" name="Baloth Gorger"/>
+        <card number="1" name="Fervent Strike"/>
     </zone>
     <zone name="side">
         <card number="1" name="Curator's Ward"/>
