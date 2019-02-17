@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WU_morticiansunion</deckname>
+    <comments>name : uw
+creator : morticiansunion
+format : limited
+</comments>
+    <zone name="main">
+        <card number="7" name="Plains"/>
+        <card number="10" name="Island"/>
+        <card number="1" name="The Mirari Conjecture"/>
+        <card number="1" name="Arcane Flight"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Syncopate"/>
+        <card number="1" name="Opt"/>
+        <card number="2" name="Gideon's Reproach"/>
+        <card number="4" name="Blink of an Eye"/>
+        <card number="1" name="Weight of Memory"/>
+        <card number="2" name="Call the Cavalry"/>
+        <card number="1" name="Vodalian Arcanist"/>
+        <card number="1" name="Academy Drake"/>
+        <card number="2" name="Cold-Water Snapper"/>
+        <card number="1" name="Kwende, Pride of Femeref"/>
+        <card number="1" name="Pegasus Courser"/>
+        <card number="1" name="Sergeant-at-Arms"/>
+        <card number="1" name="Tolarian Scholar"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Primordial Wurm"/>
+        <card number="1" name="Powerstone Shard"/>
+        <card number="1" name="Pardic Wanderer"/>
+        <card number="1" name="Memorial to War"/>
+        <card number="1" name="Knight of New Benalia"/>
+        <card number="1" name="Homarid Explorer"/>
+        <card number="1" name="Healing Grace"/>
+        <card number="1" name="Haphazard Bombardment"/>
+        <card number="1" name="Ghitu Journeymage"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Final Parting"/>
+        <card number="1" name="Excavation Elephant"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Warlord's Fury"/>
+        <card number="1" name="Voltaic Servant"/>
+        <card number="1" name="Unwind"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Slinn Voda, the Rising Deep"/>
+        <card number="1" name="Rescue"/>
+        <card number="1" name="Relic Runner"/>
+        <card number="1" name="Radiating Lightning"/>
+    </zone>
+</cockatrice_deck>

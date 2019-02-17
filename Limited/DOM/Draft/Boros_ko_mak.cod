@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WR_ko_mak</deckname>
+    <comments>name : wr
+creator : ko_mak
+format : limited
+</comments>
+    <zone name="main">
+        <card number="1" name="Pegasus Courser"/>
+        <card number="1" name="Kwende, Pride of Femeref"/>
+        <card number="1" name="Knight of New Benalia"/>
+        <card number="1" name="Keldon Raider"/>
+        <card number="1" name="Fire Elemental"/>
+        <card number="1" name="Dauntless Bodyguard"/>
+        <card number="1" name="D'Avenant Trapper"/>
+        <card number="2" name="Bloodstone Goblin"/>
+        <card number="2" name="Benalish Honor Guard"/>
+        <card number="1" name="Aesthir Glider"/>
+        <card number="8" name="Plains"/>
+        <card number="8" name="Mountain"/>
+        <card number="2" name="Triumph of Gerrard"/>
+        <card number="1" name="Dub"/>
+        <card number="1" name="Short Sword"/>
+        <card number="1" name="Healing Grace"/>
+        <card number="1" name="Gideon's Reproach"/>
+        <card number="1" name="Valduk, Keeper of the Flame"/>
+        <card number="1" name="Serra Angel"/>
+        <card number="1" name="Sanctum Spirit"/>
+        <card number="2" name="Rampaging Cyclops"/>
+        <card number="1" name="Fervent Strike"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Deep Freeze"/>
+        <card number="1" name="Cloudreader Sphinx"/>
+        <card number="1" name="Charge"/>
+        <card number="1" name="Call the Cavalry"/>
+        <card number="1" name="Befuddle"/>
+        <card number="1" name="Skittering Surveyor"/>
+        <card number="1" name="Skirk Prospector"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Naban, Dean of Iteration"/>
+        <card number="1" name="Powerstone Shard"/>
+        <card number="1" name="Shield of the Realm"/>
+        <card number="1" name="Invoke the Divine"/>
+        <card number="1" name="Ghitu Lavarunner"/>
+        <card number="1" name="Fungal Plots"/>
+        <card number="1" name="Excavation Elephant"/>
+        <card number="3" name="Artificer's Assistant"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Rampaging Cyclops"/>
+        <card number="1" name="Fervent Strike"/>
+    </zone>
+</cockatrice_deck>

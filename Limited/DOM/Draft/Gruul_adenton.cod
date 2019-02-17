@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gruul_adenton</deckname>
+    <comments>name : gr
+creator : adenton
+format : limited
+</comments>
+    <zone name="main">
+        <card number="8" name="Mountain"/>
+        <card number="9" name="Forest"/>
+        <card number="1" name="Gift of Growth"/>
+        <card number="1" name="Wild Onslaught"/>
+        <card number="1" name="Song of Freyalise"/>
+        <card number="1" name="_____"/>
+        <card number="1" name="Ancient Animus"/>
+        <card number="1" name="Broken Bond"/>
+        <card number="1" name="Yavimaya Sapherd"/>
+        <card number="1" name="Warcry Phoenix"/>
+        <card number="1" name="Valduk, Keeper of the Flame"/>
+        <card number="1" name="Rampaging Cyclops"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Keldon Raider"/>
+        <card number="1" name="Keldon Overseer"/>
+        <card number="2" name="Hallar, the Firefletcher"/>
+        <card number="1" name="Grand Warlord Radha"/>
+        <card number="1" name="Ghitu Chronicler"/>
+        <card number="2" name="Elfhame Druid"/>
+        <card number="2" name="Bloodstone Goblin"/>
+        <card number="2" name="Baloth Gorger"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Curator's Ward"/>
+        <card number="1" name="Aven Sentry"/>
+        <card number="1" name="Adamant Will"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Rampaging Cyclops"/>
+        <card number="1" name="Voltaic Servant"/>
+        <card number="1" name="Time of Ice"/>
+        <card number="1" name="Shield of the Realm"/>
+        <card number="1" name="Shanna, Sisay's Legacy"/>
+        <card number="1" name="Seismic Shift"/>
+        <card number="1" name="Relic Runner"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Pierce the Sky"/>
+        <card number="1" name="Pegasus Courser"/>
+        <card number="1" name="Orcish Vandal"/>
+        <card number="1" name="Kamahl's Druidic Vow"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Guardians of Koilos"/>
+        <card number="2" name="Gaea's Protector"/>
+        <card number="1" name="Eviscerate"/>
+        <card number="1" name="Dread Shade"/>
+    </zone>
+</cockatrice_deck>

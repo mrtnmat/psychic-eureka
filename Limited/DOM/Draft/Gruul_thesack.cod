@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RG_thesack</deckname>
+    <comments>name : gr
+creator : thesack
+format : limited
+</comments>
+    <zone name="main">
+        <card number="8" name="Forest"/>
+        <card number="1" name="The Eldest Reborn"/>
+        <card number="1" name="Song of Freyalise"/>
+        <card number="1" name="Fungal Plots"/>
+        <card number="2" name="Gift of Growth"/>
+        <card number="1" name="Sylvan Awakening"/>
+        <card number="1" name="Saproling Migration"/>
+        <card number="2" name="Fiery Intervention"/>
+        <card number="1" name="Broken Bond"/>
+        <card number="1" name="Yavimaya Sapherd"/>
+        <card number="1" name="Sporecrown Thallid"/>
+        <card number="1" name="Skittering Surveyor"/>
+        <card number="1" name="Keldon Raider"/>
+        <card number="1" name="Juggernaut"/>
+        <card number="2" name="Grunn, the Lonely King"/>
+        <card number="2" name="Ghitu Chronicler"/>
+        <card number="1" name="Garna, the Bloodflame"/>
+        <card number="2" name="Corrosive Ooze"/>
+        <card number="1" name="Aesthir Glider"/>
+        <card number="2" name="Swamp"/>
+        <card number="6" name="Mountain"/>
+        <card number="1" name="Memorial to Unity"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Zhalfirin Void"/>
+        <card number="1" name="Dark Bargain"/>
+        <card number="1" name="Frenzied Rage"/>
+        <card number="1" name="Gaea's Protector"/>
+        <card number="1" name="Ghitu Lavarunner"/>
+        <card number="1" name="Keldon Warcaller"/>
+        <card number="1" name="Precognition Field"/>
+        <card number="1" name="Radiating Lightning"/>
+        <card number="1" name="Soul Salvage"/>
+        <card number="1" name="Thallid Omnivore"/>
+        <card number="1" name="The First Eruption"/>
+        <card number="1" name="Tolarian Scholar"/>
+        <card number="1" name="Urza's Tome"/>
+        <card number="1" name="Voltaic Servant"/>
+        <card number="1" name="Wild Onslaught"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Charge"/>
+        <card number="1" name="Arbor Armament"/>
+        <card number="1" name="Academy Drake"/>
+        <card number="3" name="Swamp"/>
+        <card number="1" name="Mountain"/>
+    </zone>
+</cockatrice_deck>
