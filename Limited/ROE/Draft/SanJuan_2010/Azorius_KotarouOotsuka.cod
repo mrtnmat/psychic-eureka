@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Azorius_KotarouOotsuka</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Dawnglare Invoker"/>
+        <card number="1" name="Ikiral Outrider"/>
+        <card number="1" name="Kor Line-Slinger"/>
+        <card number="1" name="Kor Spiritdancer"/>
+        <card number="2" name="Totem-Guide Hartebeest"/>
+        <card number="1" name="Hada Spy Patrol"/>
+        <card number="1" name="Halimar Wavewatch"/>
+        <card number="1" name="Sea Gate Oracle"/>
+        <card number="1" name="Drana, Kalastria Bloodchief"/>
+        <card number="1" name="Survival Cache"/>
+        <card number="1" name="See Beyond"/>
+        <card number="2" name="Deprive"/>
+        <card number="1" name="Induce Despair"/>
+        <card number="1" name="Last Kiss"/>
+        <card number="1" name="Keening Stone"/>
+        <card number="1" name="Prophetic Prism"/>
+        <card number="1" name="Mammoth Umbra"/>
+        <card number="1" name="Luminous Wake"/>
+        <card number="1" name="Eel Umbra"/>
+        <card number="7" name="Island"/>
+        <card number="7" name="Plains"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Evolving Wilds"/>
+    </zone>
+</cockatrice_deck>

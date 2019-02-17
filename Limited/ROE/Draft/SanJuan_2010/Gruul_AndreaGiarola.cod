@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gruul_AndreaGiarola</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ulamog's Crusher"/>
+        <card number="1" name="Battle Rampart"/>
+        <card number="2" name="Battle-Rattle Shaman"/>
+        <card number="1" name="Emrakul's Hatcher"/>
+        <card number="1" name="Rage Nimbus"/>
+        <card number="1" name="Soulsurge Elemental"/>
+        <card number="2" name="Vent Sentinel"/>
+        <card number="1" name="Jaddi Lifestrider"/>
+        <card number="1" name="Kozilek's Predator"/>
+        <card number="2" name="Nest Invader"/>
+        <card number="1" name="Overgrown Battlement"/>
+        <card number="1" name="Pelakka Wurm"/>
+        <card number="1" name="Wildheart Invoker"/>
+        <card number="1" name="Wrap in Flames"/>
+        <card number="1" name="Growth Spasm"/>
+        <card number="1" name="Heat Ray"/>
+        <card number="1" name="Spawning Breath"/>
+        <card number="1" name="Might of the Masses"/>
+        <card number="1" name="Warmonger's Chariot"/>
+        <card number="10" name="Forest"/>
+        <card number="8" name="Mountain"/>
+    </zone>
+</cockatrice_deck>
