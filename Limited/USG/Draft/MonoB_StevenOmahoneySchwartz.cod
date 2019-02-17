@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>MonoB_StevenOmahoneySchwartz</deckname>
+    <comments>name : black
+creator : steven_omahoney-schwartz
+format : limited
+</comments>
+    <zone name="main">
+        <card number="18" name="Swamp"/>
+        <card number="1" name="Unworthy Dead"/>
+        <card number="2" name="Unnerve"/>
+        <card number="2" name="Phyrexian Ghoul"/>
+        <card number="1" name="Pestilence"/>
+        <card number="2" name="Hollow Dogs"/>
+        <card number="1" name="Duress"/>
+        <card number="1" name="Despondency"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="3" name="Corrupt"/>
+        <card number="2" name="Carrion Beetles"/>
+        <card number="1" name="Cackling Fiend"/>
+        <card number="1" name="Bog Raiders"/>
+        <card number="1" name="Blood Vassal"/>
+        <card number="3" name="Befoul"/>
+    </zone>
+</cockatrice_deck>
