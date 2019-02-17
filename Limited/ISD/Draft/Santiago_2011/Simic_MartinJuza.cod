@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Simic_MartinJuza</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Selhoff Occultist"/>
+        <card number="1" name="Skaab Goliath"/>
+        <card number="1" name="Sturmgeist"/>
+        <card number="1" name="Falkenrath Noble"/>
+        <card number="1" name="Kindercatch"/>
+        <card number="2" name="Hamlet Captain"/>
+        <card number="1" name="Hollowhenge Scavenger"/>
+        <card number="1" name="Festerhide Boar"/>
+        <card number="1" name="Darkthicket Wolf"/>
+        <card number="2" name="Ulvenwald Mystics"/>
+        <card number="1" name="Ambush Viper"/>
+        <card number="1" name="Grasp of Phantoms"/>
+        <card number="1" name="Sever the Bloodline"/>
+        <card number="1" name="Prey Upon"/>
+        <card number="1" name="Mulch"/>
+        <card number="1" name="Caravan Vigil"/>
+        <card number="1" name="Forbidden Alchemy"/>
+        <card number="1" name="Ranger's Guile"/>
+        <card number="1" name="Traveler's Amulet"/>
+        <card number="1" name="Claustrophobia"/>
+        <card number="2" name="Sensory Deprivation"/>
+        <card number="8" name="Forest"/>
+        <card number="6" name="Island"/>
+        <card number="2" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

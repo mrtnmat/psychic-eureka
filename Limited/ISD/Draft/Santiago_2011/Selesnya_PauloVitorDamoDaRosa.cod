@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Selesnya_PauloVitorDamoDaRosa</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Village Bell-Ringer"/>
+        <card number="1" name="Elite Inquisitor"/>
+        <card number="1" name="Thraben Sentry"/>
+        <card number="1" name="Slayer of the Wicked"/>
+        <card number="2" name="Abbey Griffin"/>
+        <card number="1" name="Spectral Rider"/>
+        <card number="1" name="Avacynian Priest"/>
+        <card number="3" name="Villagers of Estwald"/>
+        <card number="1" name="Orchard Spirit"/>
+        <card number="1" name="Woodland Sleuth"/>
+        <card number="1" name="Darkthicket Wolf"/>
+        <card number="2" name="Travel Preparations"/>
+        <card number="1" name="Spidery Grasp"/>
+        <card number="2" name="Silver-Inlaid Dagger"/>
+        <card number="2" name="Bonds of Faith"/>
+        <card number="8" name="Plains"/>
+        <card number="9" name="Forest"/>
+    </zone>
+</cockatrice_deck>

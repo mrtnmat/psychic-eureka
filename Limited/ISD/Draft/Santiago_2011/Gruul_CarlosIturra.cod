@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gruul_CarlosIturra</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Riot Devils"/>
+        <card number="1" name="Hanweir Watchkeep"/>
+        <card number="1" name="Instigator Gang"/>
+        <card number="1" name="Skirsdag Cultist"/>
+        <card number="1" name="Kessig Wolf"/>
+        <card number="2" name="Tormented Pariah"/>
+        <card number="1" name="Ashmouth Hound"/>
+        <card number="1" name="Somberwald Spider"/>
+        <card number="1" name="Festerhide Boar"/>
+        <card number="1" name="Ulvenwald Mystics"/>
+        <card number="1" name="Grizzled Outcasts"/>
+        <card number="1" name="Kessig Cagebreakers"/>
+        <card number="1" name="Traitorous Blood"/>
+        <card number="1" name="Moment of Heroism"/>
+        <card number="1" name="Rebuke"/>
+        <card number="1" name="Brimstone Volley"/>
+        <card number="1" name="Harvest Pyre"/>
+        <card number="1" name="Spidery Grasp"/>
+        <card number="1" name="Naturalize"/>
+        <card number="1" name="Moonmist"/>
+        <card number="1" name="Cobbled Wings"/>
+        <card number="1" name="Blazing Torch"/>
+        <card number="6" name="Forest"/>
+        <card number="2" name="Plains"/>
+        <card number="9" name="Mountain"/>
+    </zone>
+</cockatrice_deck>
