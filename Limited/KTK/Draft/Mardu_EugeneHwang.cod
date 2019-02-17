@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mardu_EugeneHwang</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Krumar Bond-Kin"/>
+        <card number="1" name="Ruthless Ripper"/>
+        <card number="1" name="Swarm of Bloodflies"/>
+        <card number="1" name="Canyon Lurkers"/>
+        <card number="1" name="Jeering Instigator"/>
+        <card number="1" name="Leaping Master"/>
+        <card number="1" name="Mardu Warshrieker"/>
+        <card number="2" name="Summit Prowler"/>
+        <card number="1" name="War-Name Aspirant"/>
+        <card number="1" name="Chief of the Scale"/>
+        <card number="2" name="Mardu Roughrider"/>
+        <card number="1" name="Ponyback Brigade"/>
+        <card number="1" name="Arc Lightning"/>
+        <card number="1" name="Arrow Storm"/>
+        <card number="1" name="Throttle"/>
+        <card number="2" name="Bring Low"/>
+        <card number="1" name="Mardu Charm"/>
+        <card number="1" name="Ghostfire Blade"/>
+        <card number="2" name="Debilitating Injury"/>
+        <card number="5" name="Mountain"/>
+        <card number="5" name="Plains"/>
+        <card number="4" name="Swamp"/>
+        <card number="2" name="Bloodfell Caves"/>
+        <card number="1" name="Nomad Outpost"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Blossoming Sands"/>
+        <card number="1" name="Rugged Highlands"/>
+        <card number="1" name="Tomb of the Spirit Dragon"/>
+        <card number="1" name="Briber's Purse"/>
+        <card number="1" name="Jeskai Banner"/>
+        <card number="1" name="Mardu Banner"/>
+        <card number="1" name="Dutiful Return"/>
+        <card number="1" name="Empty the Pits"/>
+        <card number="1" name="Kheru Dreadmaw"/>
+        <card number="1" name="Molting Snakeskin"/>
+        <card number="1" name="Rotting Mastodon"/>
+        <card number="1" name="Act of Treason"/>
+        <card number="1" name="Swift Kick"/>
+        <card number="1" name="Valley Dasher"/>
+        <card number="1" name="Armament Corps"/>
+        <card number="1" name="Secret Plans"/>
+    </zone>
+</cockatrice_deck>

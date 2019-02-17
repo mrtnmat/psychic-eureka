@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Jeskai_OhJoohyun</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abzan Falconer"/>
+        <card number="1" name="Jeskai Student"/>
+        <card number="1" name="Salt Road Patrol"/>
+        <card number="1" name="Timely Hordemate"/>
+        <card number="1" name="Watcher of the Roost"/>
+        <card number="1" name="Monastery Flock"/>
+        <card number="1" name="Scaldkin"/>
+        <card number="1" name="Wetland Sambar"/>
+        <card number="1" name="Bloodfire Mentor"/>
+        <card number="1" name="Dragon-Style Twins"/>
+        <card number="2" name="War-Name Aspirant"/>
+        <card number="1" name="Efreet Weaponmaster"/>
+        <card number="1" name="Sage of the Inward Eye"/>
+        <card number="1" name="Warden of the Eye"/>
+        <card number="1" name="Tormenting Voice"/>
+        <card number="1" name="Take Up Arms"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Force Away"/>
+        <card number="1" name="Waterwhirl"/>
+        <card number="1" name="Jeskai Charm"/>
+        <card number="1" name="Ride Down"/>
+        <card number="1" name="Jeskai Banner"/>
+        <card number="4" name="Island"/>
+        <card number="5" name="Mountain"/>
+        <card number="6" name="Plains"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Monastery Flock"/>
+        <card number="1" name="Blossoming Sands"/>
+        <card number="1" name="Mardu Banner"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Weave Fate"/>
+        <card number="1" name="Raiders' Spoils"/>
+        <card number="1" name="Barrage of Boulders"/>
+        <card number="1" name="Goblinslide"/>
+        <card number="1" name="Monastery Swiftspear"/>
+        <card number="1" name="Summit Prowler"/>
+        <card number="1" name="Swift Kick"/>
+        <card number="1" name="Alpine Grizzly"/>
+        <card number="1" name="Feed the Clan"/>
+        <card number="1" name="Tusked Colossodon"/>
+        <card number="1" name="Tuskguard Captain"/>
+        <card number="1" name="Woolly Loxodon"/>
+        <card number="1" name="Snowhorn Rider"/>
+    </zone>
+</cockatrice_deck>

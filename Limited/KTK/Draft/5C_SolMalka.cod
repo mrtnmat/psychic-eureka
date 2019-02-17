@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5C_SolMalka</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Sultai Scavenger"/>
+        <card number="2" name="Mardu Skullhunter"/>
+        <card number="1" name="Kheru Bloodsucker"/>
+        <card number="1" name="Disowned Ancestor"/>
+        <card number="1" name="Temur Charger"/>
+        <card number="1" name="Smoke Teller"/>
+        <card number="1" name="Longshot Squad"/>
+        <card number="1" name="Kin-Tree Warden"/>
+        <card number="1" name="Rakshasa Deathdealer"/>
+        <card number="1" name="Sagu Mauler"/>
+        <card number="1" name="Siege Rhino"/>
+        <card number="2" name="Rakshasa's Secret"/>
+        <card number="2" name="Bitter Revelation"/>
+        <card number="2" name="Scout the Borders"/>
+        <card number="1" name="Throttle"/>
+        <card number="1" name="Murderous Cut"/>
+        <card number="1" name="Debilitating Injury"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Plains"/>
+        <card number="8" name="Swamp"/>
+        <card number="1" name="Frontier Bivouac"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="2" name="Thornwood Falls"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Altar of the Brood"/>
+        <card number="1" name="Cranial Archive"/>
+        <card number="1" name="Dragon Throne of Tarkir"/>
+        <card number="1" name="Sultai Banner"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="2" name="Dutiful Return"/>
+        <card number="1" name="Unyielding Krumar"/>
+        <card number="1" name="Bloodfire Mentor"/>
+        <card number="1" name="Horde Ambusher"/>
+        <card number="1" name="Archers' Parapet"/>
+        <card number="1" name="Awaken the Bear"/>
+        <card number="1" name="Naturalize"/>
+    </zone>
+</cockatrice_deck>

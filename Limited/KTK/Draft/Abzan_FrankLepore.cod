@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Abzan_FrankLepore</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ainok Bond-Kin"/>
+        <card number="1" name="High Sentinels of Arashin"/>
+        <card number="2" name="Mardu Hateblade"/>
+        <card number="2" name="Timely Hordemate"/>
+        <card number="1" name="Bloodsoaked Champion"/>
+        <card number="1" name="Disowned Ancestor"/>
+        <card number="1" name="Ruthless Ripper"/>
+        <card number="1" name="Unyielding Krumar"/>
+        <card number="1" name="Heir of the Wilds"/>
+        <card number="1" name="Tuskguard Captain"/>
+        <card number="2" name="Abzan Guide"/>
+        <card number="1" name="Chief of the Edge"/>
+        <card number="1" name="Bitter Revelation"/>
+        <card number="1" name="Rite of the Serpent"/>
+        <card number="1" name="Defiant Strike"/>
+        <card number="1" name="Kill Shot"/>
+        <card number="1" name="Take Up Arms"/>
+        <card number="1" name="Awaken the Bear"/>
+        <card number="1" name="Become Immense"/>
+        <card number="1" name="Abzan Ascendancy"/>
+        <card number="3" name="Forest"/>
+        <card number="5" name="Plains"/>
+        <card number="6" name="Swamp"/>
+        <card number="2" name="Blossoming Sands"/>
+        <card number="1" name="Jungle Hollow"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Abzan Banner"/>
+        <card number="1" name="Siegecraft"/>
+        <card number="1" name="Smite the Monstrous"/>
+        <card number="1" name="Crippling Chill"/>
+        <card number="1" name="Monastery Flock"/>
+        <card number="1" name="Despise"/>
+        <card number="1" name="Dutiful Return"/>
+        <card number="1" name="Kheru Dreadmaw"/>
+        <card number="1" name="Molting Snakeskin"/>
+        <card number="1" name="Shambling Attendants"/>
+        <card number="1" name="Bring Low"/>
+        <card number="1" name="Shatter"/>
+        <card number="1" name="Seek the Horizon"/>
+        <card number="1" name="Snowhorn Rider"/>
+        <card number="1" name="Sultai Soothsayer"/>
+    </zone>
+</cockatrice_deck>

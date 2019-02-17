@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WG_ArturVillela</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Alabaster Kirin"/>
+        <card number="1" name="Mardu Hordechief"/>
+        <card number="1" name="Venerable Lammasu"/>
+        <card number="1" name="War Behemoth"/>
+        <card number="1" name="Watcher of the Roost"/>
+        <card number="2" name="Alpine Grizzly"/>
+        <card number="1" name="Highland Game"/>
+        <card number="1" name="Hooting Mandrills"/>
+        <card number="2" name="Kin-Tree Warden"/>
+        <card number="1" name="Longshot Squad"/>
+        <card number="2" name="Sagu Archer"/>
+        <card number="1" name="Tuskguard Captain"/>
+        <card number="1" name="Savage Punch"/>
+        <card number="1" name="Feat of Resistance"/>
+        <card number="2" name="Kill Shot"/>
+        <card number="1" name="Awaken the Bear"/>
+        <card number="2" name="Dragonscale Boon"/>
+        <card number="10" name="Forest"/>
+        <card number="8" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Thornwood Falls"/>
+        <card number="1" name="Lens of Clarity"/>
+        <card number="1" name="Temur Banner"/>
+        <card number="1" name="Monastery Flock"/>
+        <card number="1" name="Mystic of the Hidden Way"/>
+        <card number="2" name="Stubborn Denial"/>
+        <card number="1" name="Bellowing Saddlebrute"/>
+        <card number="1" name="Molting Snakeskin"/>
+        <card number="1" name="Rotting Mastodon"/>
+        <card number="1" name="Dragon Grip"/>
+        <card number="1" name="Trumpet Blast"/>
+        <card number="1" name="Valley Dasher"/>
+        <card number="1" name="Dragonscale Boon"/>
+        <card number="2" name="Feed the Clan"/>
+        <card number="1" name="Naturalize"/>
+        <card number="1" name="Tusked Colossodon"/>
+    </zone>
+</cockatrice_deck>

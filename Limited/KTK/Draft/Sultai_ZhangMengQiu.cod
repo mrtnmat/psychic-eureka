@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Sultai_ZhangMengQiu</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bellowing Saddlebrute"/>
+        <card number="1" name="Disowned Ancestor"/>
+        <card number="1" name="Mardu Skullhunter"/>
+        <card number="1" name="Shambling Attendants"/>
+        <card number="1" name="Heir of the Wilds"/>
+        <card number="1" name="Hooting Mandrills"/>
+        <card number="1" name="Tusked Colossodon"/>
+        <card number="1" name="Woolly Loxodon"/>
+        <card number="1" name="Kheru Lich Lord"/>
+        <card number="1" name="Rakshasa Deathdealer"/>
+        <card number="1" name="Rakshasa Vizier"/>
+        <card number="1" name="Abomination of Gudul"/>
+        <card number="2" name="Bitter Revelation"/>
+        <card number="2" name="Dead Drop"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="2" name="Scout the Borders"/>
+        <card number="1" name="Murderous Cut"/>
+        <card number="1" name="Throttle"/>
+        <card number="2" name="Debilitating Injury"/>
+        <card number="7" name="Forest"/>
+        <card number="1" name="Island"/>
+        <card number="6" name="Swamp"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Thornwood Falls"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bitter Revelation"/>
+        <card number="2" name="Abzan Banner"/>
+        <card number="1" name="Erase"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Dig Through Time"/>
+        <card number="1" name="Quiet Contemplation"/>
+        <card number="1" name="Taigam's Scheming"/>
+        <card number="1" name="Dutiful Return"/>
+        <card number="1" name="Kheru Dreadmaw"/>
+        <card number="1" name="Rotting Mastodon"/>
+        <card number="1" name="Valley Dasher"/>
+        <card number="1" name="Dragonscale Boon"/>
+        <card number="1" name="Feed the Clan"/>
+        <card number="1" name="Smoke Teller"/>
+        <card number="1" name="Windstorm"/>
+    </zone>
+</cockatrice_deck>
