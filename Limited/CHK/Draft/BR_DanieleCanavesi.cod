@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BR_DanieleCanavesi</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Eight-and-a-Half-Tails"/>
+        <card number="1" name="Kami of Ancient Law"/>
+        <card number="1" name="Kitsune Diviner"/>
+        <card number="1" name="Kitsune Healer"/>
+        <card number="3" name="Kitsune Riftwalker"/>
+        <card number="1" name="Mothrider Samurai"/>
+        <card number="1" name="Samurai Enforcers"/>
+        <card number="1" name="Takeno, Samurai General"/>
+        <card number="1" name="Cruel Deceiver"/>
+        <card number="2" name="Cursed Ronin"/>
+        <card number="1" name="Marrow-Gnawer"/>
+        <card number="1" name="Nezumi Cutthroat"/>
+        <card number="1" name="Nezumi Graverobber"/>
+        <card number="3" name="Villainous Ogre"/>
+        <card number="1" name="Swallowing Plague"/>
+        <card number="1" name="Indomitable Will"/>
+        <card number="9" name="Mountain"/>
+        <card number="8" name="Swamp"/>
+        <card number="1" name="Soulless Revival"/>
+        <card number="1" name="Waking Nightmare"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WU_SebastianAljiaj</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Devoted Retainer"/>
+        <card number="1" name="Harsh Deceiver"/>
+        <card number="1" name="Hundred-Talon Kami"/>
+        <card number="1" name="Innocence Kami"/>
+        <card number="1" name="Kabuto Moth"/>
+        <card number="1" name="Kami of Ancient Law"/>
+        <card number="1" name="Kami of Old Stone"/>
+        <card number="1" name="Kami of the Palace Fields"/>
+        <card number="1" name="Kitsune Diviner"/>
+        <card number="1" name="Nagao, Bound by Honor"/>
+        <card number="1" name="Callous Deceiver"/>
+        <card number="2" name="Floating-Dream Zubera"/>
+        <card number="1" name="Kami of Twisted Reflection"/>
+        <card number="2" name="Soratami Mirror-Guard"/>
+        <card number="2" name="Soratami Rainshaper"/>
+        <card number="1" name="Quiet Purity"/>
+        <card number="1" name="Reciprocate"/>
+        <card number="1" name="No-Dachi"/>
+        <card number="2" name="Indomitable Will"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="Minamo, School at Water's Edge"/>
+        <card number="9" name="Plains"/>
+    </zone>
+</cockatrice_deck>
