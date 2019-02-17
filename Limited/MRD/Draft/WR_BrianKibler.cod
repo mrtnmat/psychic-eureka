@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WR_BrianKibler</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Leonin Den-Guard"/>
+        <card number="1" name="Slith Ascendant"/>
+        <card number="1" name="Atog"/>
+        <card number="1" name="Megatog"/>
+        <card number="1" name="Rustmouth Ogre"/>
+        <card number="1" name="Goblin Replica"/>
+        <card number="1" name="Gold Myr"/>
+        <card number="1" name="Iron Myr"/>
+        <card number="3" name="Soldier Replica"/>
+        <card number="1" name="Titanium Golem"/>
+        <card number="1" name="Blinding Beam"/>
+        <card number="1" name="Electrostatic Bolt"/>
+        <card number="1" name="Grab the Reins"/>
+        <card number="1" name="Shrapnel Blast"/>
+        <card number="1" name="Granite Shard"/>
+        <card number="1" name="Leonin Scimitar"/>
+        <card number="1" name="Slagwurm Armor"/>
+        <card number="6" name="Mountain"/>
+        <card number="9" name="Plains"/>
+        <card number="1" name="Ancient Den"/>
+        <card number="2" name="Skyhunter Patrol"/>
+        <card number="1" name="Skyhunter Cub"/>
+        <card number="1" name="Vulshok Gauntlets"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Vorrac Battlehorns"/>
+        <card number="1" name="Steel Wall"/>
+        <card number="2" name="Nim Replica"/>
+        <card number="1" name="Copperhoof Vorrac"/>
+        <card number="1" name="Mourner's Shield"/>
+        <card number="1" name="Override"/>
+        <card number="1" name="Wrench Mind"/>
+        <card number="1" name="Leonin Elder"/>
+        <card number="1" name="Annul"/>
+        <card number="1" name="Tempest of Light"/>
+        <card number="1" name="Neurok Familiar"/>
+        <card number="1" name="Chimney Imp"/>
+        <card number="1" name="Brown Ouphe"/>
+        <card number="1" name="Lifespark Spellbomb"/>
+        <card number="1" name="Myr Mindservant"/>
+        <card number="1" name="Power Conduit"/>
+        <card number="1" name="Tower of Fortunes"/>
+    </zone>
+</cockatrice_deck>

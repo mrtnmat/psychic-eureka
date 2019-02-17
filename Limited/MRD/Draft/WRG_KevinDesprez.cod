@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WRG_KevinDesprez</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ogre Leadfoot"/>
+        <card number="2" name="Tel-Jilad Archers"/>
+        <card number="1" name="Viridian Joiner"/>
+        <card number="1" name="Viridian Shaman"/>
+        <card number="2" name="Alpha Myr"/>
+        <card number="1" name="Clockwork Vorrac"/>
+        <card number="2" name="Hematite Golem"/>
+        <card number="1" name="Titanium Golem"/>
+        <card number="2" name="Raise the Alarm"/>
+        <card number="1" name="Electrostatic Bolt"/>
+        <card number="1" name="Shatter"/>
+        <card number="1" name="Bonesplitter"/>
+        <card number="2" name="Pyrite Spellbomb"/>
+        <card number="1" name="Mindstorm Crown"/>
+        <card number="1" name="Arrest"/>
+        <card number="5" name="Forest"/>
+        <card number="5" name="Plains"/>
+        <card number="7" name="Mountain"/>
+        <card number="2" name="Blinding Beam"/>
+        <card number="1" name="Mourner's Shield"/>
+    </zone>
+</cockatrice_deck>

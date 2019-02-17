@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UBw_MichaelKrumb</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Neurok Spy"/>
+        <card number="2" name="Somber Hoverguard"/>
+        <card number="1" name="Wanderguard Sentry"/>
+        <card number="1" name="Dross Prowler"/>
+        <card number="1" name="Flayed Nim"/>
+        <card number="1" name="Moriok Scavenger"/>
+        <card number="1" name="Woebearer"/>
+        <card number="1" name="Clockwork Vorrac"/>
+        <card number="1" name="Goblin Dirigible"/>
+        <card number="1" name="Leaden Myr"/>
+        <card number="1" name="Needlebug"/>
+        <card number="1" name="Nim Replica"/>
+        <card number="2" name="Consume Spirit"/>
+        <card number="2" name="Annul"/>
+        <card number="1" name="Betrayal of Flesh"/>
+        <card number="1" name="Irradiate"/>
+        <card number="1" name="Crystal Shard"/>
+        <card number="1" name="Scale of Chiss-Goria"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="2" name="Arrest"/>
+        <card number="5" name="Island"/>
+        <card number="3" name="Plains"/>
+        <card number="8" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Irradiate"/>
+        <card number="1" name="Scale of Chiss-Goria"/>
+        <card number="2" name="Great Furnace"/>
+        <card number="1" name="Auriok Transfixer"/>
+        <card number="1" name="Loxodon Mender"/>
+        <card number="2" name="Razor Barrier"/>
+        <card number="1" name="Roar of the Kha"/>
+        <card number="1" name="Soul Nova"/>
+        <card number="1" name="Taj-Nar Swordsmith"/>
+        <card number="1" name="Disarm"/>
+        <card number="1" name="Lumengrid Warden"/>
+        <card number="1" name="Temporal Cascade"/>
+        <card number="2" name="Wrench Mind"/>
+        <card number="1" name="Wurmskin Forger"/>
+        <card number="1" name="Dross Scorpion"/>
+        <card number="1" name="Malachite Golem"/>
+        <card number="1" name="Scrabbling Claws"/>
+        <card number="1" name="Welding Jar"/>
+    </zone>
+</cockatrice_deck>

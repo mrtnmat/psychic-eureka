@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RG_AntonioDerosa</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Vulshok Berserker"/>
+        <card number="1" name="Glissa Sunseeker"/>
+        <card number="1" name="Tel-Jilad Exile"/>
+        <card number="1" name="Viridian Joiner"/>
+        <card number="1" name="Wurmskin Forger"/>
+        <card number="1" name="Elf Replica"/>
+        <card number="2" name="Frogmite"/>
+        <card number="1" name="Goblin Replica"/>
+        <card number="1" name="Leaden Myr"/>
+        <card number="2" name="Mirror Golem"/>
+        <card number="1" name="Myr Retriever"/>
+        <card number="1" name="Silver Myr"/>
+        <card number="1" name="Triskelion"/>
+        <card number="2" name="Shatter"/>
+        <card number="1" name="Icy Manipulator"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Pyrite Spellbomb"/>
+        <card number="8" name="Forest"/>
+        <card number="8" name="Mountain"/>
+        <card number="1" name="Tree of Tales"/>
+        <card number="1" name="Cathodion"/>
+        <card number="1" name="Liar's Pendulum"/>
+        <card number="1" name="Vulshok Gauntlets"/>
+    </zone>
+</cockatrice_deck>

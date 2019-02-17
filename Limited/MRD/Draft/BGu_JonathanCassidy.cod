@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BGu_JonathanCassidy</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Dross Prowler"/>
+        <card number="1" name="Nim Shambler"/>
+        <card number="2" name="Nim Shrieker"/>
+        <card number="1" name="Fangren Hunter"/>
+        <card number="1" name="Tel-Jilad Exile"/>
+        <card number="1" name="Alpha Myr"/>
+        <card number="1" name="Iron Myr"/>
+        <card number="1" name="Pewter Golem"/>
+        <card number="1" name="Wizard Replica"/>
+        <card number="1" name="Annul"/>
+        <card number="1" name="Irradiate"/>
+        <card number="1" name="Terror"/>
+        <card number="1" name="Wail of the Nim"/>
+        <card number="1" name="Battlegrowth"/>
+        <card number="2" name="Bonesplitter"/>
+        <card number="1" name="Chromatic Sphere"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Isochron Scepter"/>
+        <card number="7" name="Forest"/>
+        <card number="7" name="Swamp"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Tel-Jilad Chosen"/>
+        <card number="2" name="Predator's Strike"/>
+    </zone>
+</cockatrice_deck>

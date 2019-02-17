@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>4C_YannHamon</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Dross Prowler"/>
+        <card number="1" name="Woebearer"/>
+        <card number="1" name="Rustmouth Ogre"/>
+        <card number="1" name="Spikeshot Goblin"/>
+        <card number="1" name="Slith Predator"/>
+        <card number="1" name="Tel-Jilad Chosen"/>
+        <card number="1" name="Copper Myr"/>
+        <card number="1" name="Goblin Replica"/>
+        <card number="1" name="Iron Myr"/>
+        <card number="1" name="Mirror Golem"/>
+        <card number="1" name="Deconstruct"/>
+        <card number="1" name="Journey of Discovery"/>
+        <card number="1" name="Sylvan Scrying"/>
+        <card number="1" name="Irradiate"/>
+        <card number="1" name="Electrostatic Bolt"/>
+        <card number="1" name="Shatter"/>
+        <card number="1" name="Battlegrowth"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="1" name="Pyrite Spellbomb"/>
+        <card number="1" name="Vulshok Gauntlets"/>
+        <card number="7" name="Forest"/>
+        <card number="6" name="Mountain"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Tree of Tales"/>
+        <card number="1" name="Vault of Whispers"/>
+        <card number="1" name="Krark-Clan Grunt"/>
+        <card number="1" name="Fangren Hunter"/>
+        <card number="2" name="Predator's Strike"/>
+    </zone>
+</cockatrice_deck>
