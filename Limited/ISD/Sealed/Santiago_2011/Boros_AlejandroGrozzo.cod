@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Boros_AlejandroGrozzo</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Crossway Vampire"/>
+        <card number="1" name="Ashmouth Hound"/>
+        <card number="1" name="Tormented Pariah"/>
+        <card number="1" name="Bloodcrazed Neonate"/>
+        <card number="1" name="Village Ironsmith"/>
+        <card number="1" name="Kruin Outlaw"/>
+        <card number="1" name="Skirsdag Cultist"/>
+        <card number="1" name="Silverchase Fox"/>
+        <card number="1" name="Doomed Traveler"/>
+        <card number="1" name="Unruly Mob"/>
+        <card number="1" name="Avacynian Priest"/>
+        <card number="1" name="Geist-Honored Monk"/>
+        <card number="1" name="Voiceless Spirit"/>
+        <card number="1" name="Thraben Sentry"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Geistcatcher's Rig"/>
+        <card number="1" name="Devil's Play"/>
+        <card number="2" name="Into the Maw of Hell"/>
+        <card number="1" name="Harvest Pyre"/>
+        <card number="1" name="Geistflame"/>
+        <card number="1" name="Midnight Haunting"/>
+        <card number="1" name="Sharpened Pitchfork"/>
+        <card number="1" name="Silver-Inlaid Dagger"/>
+        <card number="10" name="Mountain"/>
+        <card number="7" name="Plains"/>
+    </zone>
+</cockatrice_deck>
