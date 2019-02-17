@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UBg_QuentinMartin</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Snapping Drake"/>
+        <card number="1" name="Surveilling Sprite"/>
+        <card number="1" name="Terraformer"/>
+        <card number="1" name="Vedalken Dismisser"/>
+        <card number="1" name="Mortipede"/>
+        <card number="1" name="Thoughtpicker Witch"/>
+        <card number="1" name="Greater Mossdog"/>
+        <card number="1" name="Dimir Infiltrator"/>
+        <card number="1" name="Mindleech Mass"/>
+        <card number="1" name="Vulturous Zombie"/>
+        <card number="1" name="Dimir Guildmage"/>
+        <card number="1" name="Gleancrawler"/>
+        <card number="1" name="Lurking Informant"/>
+        <card number="1" name="Brainspoil"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Bloodletter Quill"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Terrarion"/>
+        <card number="2" name="Mark of Eviction"/>
+        <card number="2" name="Clinging Darkness"/>
+        <card number="2" name="Strands of Undeath"/>
+        <card number="2" name="Forest"/>
+        <card number="5" name="Island"/>
+        <card number="7" name="Swamp"/>
+        <card number="1" name="Dimir Aqueduct"/>
+    </zone>
+</cockatrice_deck>

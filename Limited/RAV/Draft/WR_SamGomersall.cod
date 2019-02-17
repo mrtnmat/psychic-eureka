@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>WR_SamGomersall</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Veteran Armorer"/>
+        <card number="2" name="Sell-Sword Brute"/>
+        <card number="1" name="Sparkmage Apprentice"/>
+        <card number="3" name="Viashino Fangtail"/>
+        <card number="1" name="War-Torch Goblin"/>
+        <card number="1" name="Wojek Embermage"/>
+        <card number="1" name="Boros Swiftblade"/>
+        <card number="1" name="Firemane Angel"/>
+        <card number="1" name="Flame-Kin Zealot"/>
+        <card number="2" name="Skyknight Legionnaire"/>
+        <card number="1" name="Thundersong Trumpeter"/>
+        <card number="1" name="Centaur Safeguard"/>
+        <card number="1" name="Flame Fusillade"/>
+        <card number="1" name="Bathe in Light"/>
+        <card number="1" name="Flash Conscription"/>
+        <card number="1" name="Rally the Righteous"/>
+        <card number="1" name="Boros Signet"/>
+        <card number="1" name="Terrarion"/>
+        <card number="1" name="Galvanic Arc"/>
+        <card number="1" name="Mindmoil"/>
+        <card number="8" name="Mountain"/>
+        <card number="6" name="Plains"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="1" name="Sunhome, Fortress of the Legion"/>
+    </zone>
+</cockatrice_deck>

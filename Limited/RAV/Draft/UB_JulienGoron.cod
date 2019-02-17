@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UB_JulienGoron</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Drift of Phantasms"/>
+        <card number="1" name="Snapping Drake"/>
+        <card number="1" name="Tattered Drake"/>
+        <card number="2" name="Tidewater Minion"/>
+        <card number="2" name="Vedalken Dismisser"/>
+        <card number="3" name="Vedalken Entrancer"/>
+        <card number="1" name="Stinkweed Imp"/>
+        <card number="1" name="Psychic Drain"/>
+        <card number="3" name="Induce Paranoia"/>
+        <card number="1" name="Peel from Reality"/>
+        <card number="1" name="Darkblast"/>
+        <card number="1" name="Disembowel"/>
+        <card number="1" name="Flight of Fancy"/>
+        <card number="1" name="Stasis Cell"/>
+        <card number="1" name="Clinging Darkness"/>
+        <card number="10" name="Island"/>
+        <card number="7" name="Swamp"/>
+    </zone>
+</cockatrice_deck>
