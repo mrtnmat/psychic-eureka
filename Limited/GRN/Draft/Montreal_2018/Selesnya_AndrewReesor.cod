@@ -18,7 +18,6 @@
         <card number="2" name="Rosemane Centaur"/>
         <card number="1" name="Sumala Woodshaper"/>
         <card number="2" name="Pitiless Gorgon"/>
-        <card number="1" name="flower // flourish"/>
         <card number="1" name="Collar the Culprit"/>
         <card number="1" name="Righteous Blow"/>
         <card number="1" name="Price of Fame"/>
@@ -30,6 +29,7 @@
         <card number="1" name="Gateway Plaza"/>
         <card number="1" name="Golgari Guildgate"/>
         <card number="2" name="Selesnya Guildgate"/>
+        <card number="1" name="Flower // Flourish"/>
     </zone>
     <zone name="side">
         <card number="1" name="Hunted Witness"/>

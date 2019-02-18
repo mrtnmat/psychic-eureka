@@ -18,8 +18,6 @@
         <card number="1" name="Ritual of Soot"/>
         <card number="1" name="Notion Rain"/>
         <card number="1" name="Thought Erasure"/>
-        <card number="1" name="discovery // dispersal"/>
-        <card number="1" name="expansion // explosion"/>
         <card number="1" name="Artful Takedown"/>
         <card number="1" name="Devious Cover-Up"/>
         <card number="1" name="Disdainful Stroke"/>
@@ -30,6 +28,8 @@
         <card number="7" name="Swamp"/>
         <card number="1" name="Dimir Guildgate"/>
         <card number="2" name="Izzet Guildgate"/>
+        <card number="1" name="Discovery // Dispersal"/>
+        <card number="1" name="Expansion // Explosion"/>
     </zone>
     <zone name="side">
         <card number="1" name="Selesnya Guildgate"/>

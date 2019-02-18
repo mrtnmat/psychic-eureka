@@ -22,12 +22,12 @@
         <card number="1" name="Prey Upon"/>
         <card number="1" name="Circuitous Route"/>
         <card number="1" name="Camaraderie"/>
-        <card number="1" name="assure // assemble"/>
-        <card number="1" name="status // statue"/>
         <card number="7" name="Plains"/>
         <card number="5" name="Swamp"/>
         <card number="2" name="Golgari Guildgate"/>
         <card number="2" name="Selesnya Guildgate"/>
         <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Assure // Assemble"/>
+        <card number="1" name="Status // Statue"/>
     </zone>
 </cockatrice_deck>

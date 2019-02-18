@@ -9,12 +9,10 @@
         <card number="1" name="Barrier of Bones"/>
         <card number="1" name="Kraul Swarm"/>
         <card number="3" name="Hired Poisoner"/>
-        <card number="1" name="find // finality"/>
         <card number="1" name="Thought Erasure"/>
         <card number="1" name="Notion Rain"/>
         <card number="1" name="Undercity Uprising"/>
         <card number="3" name="Deadly Visit"/>
-        <card number="1" name="status // statue"/>
         <card number="1" name="Artful Takedown"/>
         <card number="1" name="Unexplained Disappearance"/>
         <card number="1" name="Radical Idea"/>
@@ -25,5 +23,7 @@
         <card number="6" name="Swamp"/>
         <card number="1" name="Dimir Guildgate"/>
         <card number="3" name="Golgari Guildgate"/>
+        <card number="1" name="Find // Finality"/>
+        <card number="1" name="Status // Statue"/>
     </zone>
 </cockatrice_deck>

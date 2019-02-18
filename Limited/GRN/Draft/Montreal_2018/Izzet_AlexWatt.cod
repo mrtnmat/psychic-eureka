@@ -14,7 +14,6 @@
         <card number="1" name="Fresh-Faced Recruit"/>
         <card number="1" name="Beacon Bolt"/>
         <card number="1" name="Direct Current"/>
-        <card number="1" name="discovery // dispersal"/>
         <card number="1" name="Devious Cover-Up"/>
         <card number="1" name="Sinister Sabotage"/>
         <card number="1" name="Unexplained Disappearance"/>
@@ -26,6 +25,7 @@
         <card number="8" name="Island"/>
         <card number="7" name="Mountain"/>
         <card number="2" name="Izzet Guildgate"/>
+        <card number="1" name="Discovery // Dispersal"/>
     </zone>
     <zone name="side">
         <card number="1" name="Barging Sergeant"/>

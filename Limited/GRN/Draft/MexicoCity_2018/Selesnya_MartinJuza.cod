@@ -18,8 +18,6 @@
         <card number="4" name="Ironshell Beetle"/>
         <card number="1" name="Wary Okapi"/>
         <card number="1" name="Siege Wurm"/>
-        <card number="1" name="assure // assemble"/>
-        <card number="1" name="response // resurgence"/>
         <card number="1" name="Pack's Favor"/>
         <card number="1" name="Might of the Masses"/>
         <card number="8" name="Forest"/>
@@ -28,5 +26,7 @@
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Boros Guildgate"/>
         <card number="1" name="Selesnya Guildgate"/>
+        <card number="1" name="Assure // Assemble"/>
+        <card number="1" name="Response // Resurgence"/>
     </zone>
 </cockatrice_deck>

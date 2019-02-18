@@ -17,7 +17,6 @@
         <card number="1" name="Maximize Altitude"/>
         <card number="1" name="Direct Current"/>
         <card number="1" name="Gravitic Punch"/>
-        <card number="1" name="invert // invent"/>
         <card number="2" name="Radical Idea"/>
         <card number="1" name="Unexplained Disappearance"/>
         <card number="1" name="Sure Strike"/>
@@ -25,6 +24,7 @@
         <card number="9" name="Island"/>
         <card number="7" name="Mountain"/>
         <card number="1" name="Steam Vents"/>
+        <card number="1" name="Invert // Invent"/>
     </zone>
     <zone name="side">
         <card number="1" name="Temple Garden"/>

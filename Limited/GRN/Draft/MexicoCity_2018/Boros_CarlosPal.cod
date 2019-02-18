@@ -21,7 +21,6 @@
         <card number="1" name="Gird for Battle"/>
         <card number="1" name="Cosmotronic Wave"/>
         <card number="1" name="Gravitic Punch"/>
-        <card number="1" name="integrity // intervention"/>
         <card number="1" name="Take Heart"/>
         <card number="1" name="Glaive of the Guildpact"/>
         <card number="2" name="Maniacal Rage"/>
@@ -29,5 +28,6 @@
         <card number="8" name="Mountain"/>
         <card number="2" name="Boros Guildgate"/>
         <card number="2" name="Selesnya Guildgate"/>
+        <card number="1" name="Integrity // Intervention"/>
     </zone>
 </cockatrice_deck>
