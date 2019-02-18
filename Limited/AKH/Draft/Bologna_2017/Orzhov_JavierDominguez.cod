@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Orzhov_JavierDominguez</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Those Who Serve"/>
+        <card number="1" name="Aven Mindcensor"/>
+        <card number="1" name="Unwavering Initiate"/>
+        <card number="1" name="Baleful Ammit"/>
+        <card number="1" name="Blighted Bat"/>
+        <card number="1" name="Bontu the Glorified"/>
+        <card number="1" name="Doomed Dissenter"/>
+        <card number="1" name="Dune Beetle"/>
+        <card number="1" name="Grim Strider"/>
+        <card number="1" name="Lord of the Accursed"/>
+        <card number="1" name="Watchers of the Dead"/>
+        <card number="2" name="Wander in Death"/>
+        <card number="1" name="Unburden"/>
+        <card number="3" name="Final Reward"/>
+        <card number="1" name="Time to Reflect"/>
+        <card number="1" name="Splendid Agony"/>
+        <card number="1" name="Cartouche of Solidarity"/>
+        <card number="1" name="Cast Out"/>
+        <card number="1" name="Trial of Solidarity"/>
+        <card number="8" name="Swamp"/>
+        <card number="7" name="Plains"/>
+        <card number="1" name="Irrigated Farmland"/>
+    </zone>
+</cockatrice_deck>

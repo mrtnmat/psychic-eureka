@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Azorius_CorradoDeSio</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Aven Wind Guide"/>
+        <card number="1" name="Binding Mummy"/>
+        <card number="1" name="Devoted Crop-Mate"/>
+        <card number="1" name="Gust Walker"/>
+        <card number="1" name="Sacred Cat"/>
+        <card number="1" name="Supply Caravan"/>
+        <card number="1" name="Those Who Serve"/>
+        <card number="1" name="Vizier of Remedies"/>
+        <card number="1" name="Aven Initiate"/>
+        <card number="1" name="Curator of Mysteries"/>
+        <card number="1" name="Naga Oracle"/>
+        <card number="1" name="River Serpent"/>
+        <card number="1" name="Shimmerscale Drake"/>
+        <card number="1" name="Tah-Crop Skirmisher"/>
+        <card number="1" name="Open into Wonder"/>
+        <card number="2" name="Impeccable Timing"/>
+        <card number="1" name="Djeru's Resolve"/>
+        <card number="1" name="Mighty Leap"/>
+        <card number="1" name="Galestrike"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Compulsory Rest"/>
+        <card number="1" name="Cartouche of Knowledge"/>
+        <card number="8" name="Plains"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="Evolving Wilds"/>
+    </zone>
+</cockatrice_deck>

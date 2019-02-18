@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Boros_DarioVeneri</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Rhet-Crop Spearmaster"/>
+        <card number="1" name="Honored Crop-Captain"/>
+        <card number="1" name="Binding Mummy"/>
+        <card number="1" name="Gust Walker"/>
+        <card number="1" name="Sparring Mummy"/>
+        <card number="1" name="Unwavering Initiate"/>
+        <card number="1" name="Ahn-Crop Crasher"/>
+        <card number="1" name="Bloodlust Inciter"/>
+        <card number="1" name="Bloodrage Brawler"/>
+        <card number="1" name="Emberhorn Minotaur"/>
+        <card number="1" name="Harsh Mentor"/>
+        <card number="1" name="Manticore of the Gauntlet"/>
+        <card number="1" name="Pathmaker Initiate"/>
+        <card number="1" name="Thresher Lizard"/>
+        <card number="1" name="Trueheart Twins"/>
+        <card number="1" name="Djeru's Resolve"/>
+        <card number="1" name="Brute Strength"/>
+        <card number="1" name="Electrify"/>
+        <card number="1" name="Fling"/>
+        <card number="2" name="Compulsory Rest"/>
+        <card number="1" name="Cartouche of Solidarity"/>
+        <card number="1" name="Gideon's Intervention"/>
+        <card number="8" name="Mountain"/>
+        <card number="8" name="Plains"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gruul_FrancescoGiorgio</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Naga Vitalist"/>
+        <card number="1" name="Khenra Charioteer"/>
+        <card number="1" name="Samut, Voice of Dissent"/>
+        <card number="1" name="Battlefield Scavenger"/>
+        <card number="1" name="Emberhorn Minotaur"/>
+        <card number="1" name="Hyena Pack"/>
+        <card number="1" name="Manticore of the Gauntlet"/>
+        <card number="1" name="Minotaur Sureshot"/>
+        <card number="1" name="Nimble-Blade Khenra"/>
+        <card number="1" name="Trueheart Twins"/>
+        <card number="1" name="Bitterblade Warrior"/>
+        <card number="1" name="Exemplar of Strength"/>
+        <card number="1" name="Greater Sandwurm"/>
+        <card number="1" name="Shefet Monitor"/>
+        <card number="2" name="Magma Spray"/>
+        <card number="1" name="Brute Strength"/>
+        <card number="1" name="Shed Weakness"/>
+        <card number="1" name="Spidery Grasp"/>
+        <card number="1" name="Synchronized Strike"/>
+        <card number="1" name="Cartouche of Zeal"/>
+        <card number="1" name="Trial of Strength"/>
+        <card number="8" name="Forest"/>
+        <card number="7" name="Mountain"/>
+        <card number="1" name="Grasping Dunes"/>
+        <card number="1" name="Sheltered Thicket"/>
+    </zone>
+</cockatrice_deck>

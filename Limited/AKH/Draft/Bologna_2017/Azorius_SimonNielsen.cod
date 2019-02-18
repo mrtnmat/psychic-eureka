@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Azorius_SimonNielsen</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Slither Blade"/>
+        <card number="1" name="Temmet, Vizier of Naktamun"/>
+        <card number="1" name="Fan Bearer"/>
+        <card number="1" name="Gust Walker"/>
+        <card number="1" name="Sacred Cat"/>
+        <card number="1" name="Tah-Crop Elite"/>
+        <card number="1" name="Unwavering Initiate"/>
+        <card number="1" name="Winged Shepherd"/>
+        <card number="1" name="Hekma Sentinels"/>
+        <card number="1" name="Seeker of Insight"/>
+        <card number="1" name="Tah-Crop Skirmisher"/>
+        <card number="2" name="Winds of Rebuke"/>
+        <card number="1" name="In Oketra's Name"/>
+        <card number="1" name="Mighty Leap"/>
+        <card number="1" name="Decision Paralysis"/>
+        <card number="1" name="Hieroglyphic Illumination"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Oketra's Monument"/>
+        <card number="1" name="Throne of the God-Pharaoh"/>
+        <card number="1" name="Cartouche of Solidarity"/>
+        <card number="1" name="Cartouche of Knowledge"/>
+        <card number="9" name="Island"/>
+        <card number="7" name="Plains"/>
+    </zone>
+</cockatrice_deck>
