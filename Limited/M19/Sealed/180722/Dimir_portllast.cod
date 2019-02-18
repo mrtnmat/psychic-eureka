@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Dimir_portllast</deckname>
+    <comments>name : ub
+creator : portllast
+format : limited
+</comments>
+    <zone name="main">
+        <card number="2" name="Divination"/>
+        <card number="1" name="Macabre Waltz"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Disperse"/>
+        <card number="1" name="Essence Scatter"/>
+        <card number="1" name="Murder"/>
+        <card number="2" name="Strangling Spores"/>
+        <card number="1" name="Totally Lost"/>
+        <card number="2" name="Dragon's Hoard"/>
+        <card number="8" name="Island"/>
+        <card number="2" name="Plains"/>
+        <card number="7" name="Swamp"/>
+        <card number="1" name="Tezzeret, Artifice Master"/>
+        <card number="2" name="Aerial Engineer"/>
+        <card number="1" name="Aven Wind Mage"/>
+        <card number="1" name="Suspicious Bookcase"/>
+        <card number="1" name="Skyscanner"/>
+        <card number="1" name="Skymarch Bloodletter"/>
+        <card number="1" name="Scholar of Stars"/>
+        <card number="1" name="Reassembling Skeleton"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Departed Deckhand"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Totally Lost"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Abnormal Endurance"/>
+        <card number="1" name="Act of Treason"/>
+        <card number="2" name="Aegis of the Heavens"/>
+        <card number="1" name="Ajani's Pridemate"/>
+        <card number="2" name="Angel of the Dawn"/>
+        <card number="1" name="Anticipate"/>
+        <card number="1" name="Bristling Boar"/>
+        <card number="1" name="Cavalry Drillmaster"/>
+        <card number="1" name="Centaur Courser"/>
+        <card number="1" name="Colossal Majesty"/>
+        <card number="1" name="Crash Through"/>
+        <card number="1" name="Druid of Horns"/>
+        <card number="1" name="Druid of the Cowl"/>
+        <card number="1" name="Electrify"/>
+        <card number="1" name="Elvish Clancaller"/>
+        <card number="1" name="Enigma Drake"/>
+        <card number="1" name="Epicure of Blood"/>
+        <card number="1" name="Explosive Apparatus"/>
+        <card number="1" name="Foul Orchard"/>
+        <card number="2" name="Gallant Cavalry"/>
+        <card number="1" name="Gearsmith Prodigy"/>
+        <card number="1" name="Ghastbark Twins"/>
+        <card number="1" name="Giant Spider"/>
+        <card number="1" name="Goblin Motivator"/>
+        <card number="1" name="Greenwood Sentinel"/>
+        <card number="1" name="Havoc Devils"/>
+        <card number="1" name="Hired Blade"/>
+        <card number="1" name="Hostile Minotaur"/>
+        <card number="1" name="Tolarian Scholar"/>
+        <card number="1" name="Tormenting Voice"/>
+        <card number="2" name="Trusty Packbeast"/>
+        <card number="1" name="Uncomfortable Chill"/>
+        <card number="1" name="Vine Mare"/>
+        <card number="1" name="Walking Corpse"/>
+        <card number="1" name="Wall of Mist"/>
+        <card number="1" name="Wall of Vines"/>
+        <card number="1" name="Woodland Stream"/>
+        <card number="1" name="Timber Gorge"/>
+        <card number="1" name="Thornhide Wolves"/>
+        <card number="1" name="Sure Strike"/>
+        <card number="1" name="Smelt"/>
+        <card number="1" name="Sigiled Sword of Valeron"/>
+        <card number="1" name="Rustwing Falcon"/>
+        <card number="1" name="Rhox Oracle"/>
+        <card number="1" name="Rabid Bite"/>
+        <card number="1" name="Open the Graves"/>
+        <card number="1" name="Novice Knight"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Mind Rot"/>
+        <card number="1" name="Millstone"/>
+        <card number="2" name="Mighty Leap"/>
+        <card number="1" name="Loxodon Line Breaker"/>
+        <card number="1" name="Knight's Pledge"/>
+        <card number="1" name="Knight of the Tusk"/>
+        <card number="2" name="Inspired Charge"/>
+        <card number="1" name="Inferno Hellion"/>
+        <card number="1" name="Infernal Scarring"/>
+    </zone>
+</cockatrice_deck>

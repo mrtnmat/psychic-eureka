@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Izzet_eken</deckname>
+    <comments>name : ru
+creator : eken.
+format : limited
+</comments>
+    <zone name="main">
+        <card number="8" name="Mountain"/>
+        <card number="8" name="Island"/>
+        <card number="1" name="Highland Lake"/>
+        <card number="1" name="Electrify"/>
+        <card number="1" name="Totally Lost"/>
+        <card number="1" name="Disperse"/>
+        <card number="2" name="Sleep"/>
+        <card number="2" name="Divination"/>
+        <card number="1" name="Volley Veteran"/>
+        <card number="2" name="Viashino Pyromancer"/>
+        <card number="1" name="Snapping Drake"/>
+        <card number="1" name="Hostile Minotaur"/>
+        <card number="1" name="Horizon Scholar"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Goblin Motivator"/>
+        <card number="2" name="Goblin Instigator"/>
+        <card number="2" name="Fire Elemental"/>
+        <card number="2" name="Boggart Brute"/>
+        <card number="1" name="Aviation Pioneer"/>
+        <card number="1" name="Aven Wind Mage"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Strangling Spores"/>
+        <card number="1" name="Stitcher's Supplier"/>
+        <card number="1" name="Skyrider Patrol"/>
+        <card number="1" name="Skymarch Bloodletter"/>
+        <card number="1" name="Skilled Animator"/>
+        <card number="1" name="Skeleton Archer"/>
+        <card number="1" name="Shield Mare"/>
+        <card number="1" name="Scholar of Stars"/>
+        <card number="1" name="Satyr Enchanter"/>
+        <card number="1" name="Sai, Master Thopterist"/>
+        <card number="1" name="Regal Bloodlord"/>
+        <card number="1" name="One with the Machine"/>
+        <card number="1" name="Hired Blade"/>
+        <card number="2" name="Highland Game"/>
+        <card number="1" name="Hieromancer's Cage"/>
+        <card number="1" name="Ghastbark Twins"/>
+        <card number="1" name="Gearsmith Prodigy"/>
+        <card number="2" name="Gallant Cavalry"/>
+        <card number="1" name="Frilled Sea Serpent"/>
+        <card number="1" name="Fountain of Renewal"/>
+        <card number="2" name="Epicure of Blood"/>
+        <card number="2" name="Elvish Rejuvenator"/>
+        <card number="1" name="Elvish Clancaller"/>
+        <card number="1" name="Dwarven Priest"/>
+        <card number="1" name="Diregraf Ghoul"/>
+        <card number="1" name="Detection Tower"/>
+        <card number="1" name="Daybreak Chaplain"/>
+        <card number="1" name="Daggerback Basilisk"/>
+        <card number="1" name="Crash Through"/>
+        <card number="1" name="Centaur Courser"/>
+        <card number="1" name="Catalyst Elemental"/>
+        <card number="1" name="Bristling Boar"/>
+        <card number="1" name="Arcane Encyclopedia"/>
+        <card number="1" name="Alpine Moon"/>
+        <card number="1" name="Omniscience"/>
+        <card number="1" name="Oakenform"/>
+        <card number="1" name="Naturalize"/>
+        <card number="3" name="Mighty Leap"/>
+        <card number="1" name="Macabre Waltz"/>
+        <card number="1" name="Loxodon Line Breaker"/>
+        <card number="1" name="Knight's Pledge"/>
+        <card number="1" name="Knight of the Tusk"/>
+        <card number="1" name="Invoke the Divine"/>
+        <card number="1" name="Inspired Charge"/>
+        <card number="1" name="Infectious Horror"/>
+        <card number="1" name="Aegis of the Heavens"/>
+        <card number="2" name="Act of Treason"/>
+        <card number="1" name="Mountain"/>
+        <card number="3" name="Island"/>
+        <card number="1" name="Totally Lost"/>
+        <card number="1" name="Wall of Vines"/>
+        <card number="1" name="Wall of Mist"/>
+        <card number="1" name="Vampire Neonate"/>
+        <card number="1" name="Thornhide Wolves"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Suspicious Bookcase"/>
+        <card number="1" name="Supreme Phantom"/>
+    </zone>
+</cockatrice_deck>

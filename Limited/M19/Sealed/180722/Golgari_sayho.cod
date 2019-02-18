@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Golgari_sayho</deckname>
+    <comments>name : bg
+creator : sayho
+format : limited
+</comments>
+    <zone name="main">
+        <card number="1" name="Elvish Rejuvenator"/>
+        <card number="1" name="Fell Specter"/>
+        <card number="1" name="Giant Spider"/>
+        <card number="1" name="Gravedigger"/>
+        <card number="1" name="Hired Blade"/>
+        <card number="2" name="Poison-Tip Archer"/>
+        <card number="1" name="Rhox Oracle"/>
+        <card number="1" name="Vivien Reid"/>
+        <card number="9" name="Swamp"/>
+        <card number="9" name="Forest"/>
+        <card number="1" name="Liliana's Contract"/>
+        <card number="1" name="Nightmare's Thirst"/>
+        <card number="1" name="Abnormal Endurance"/>
+        <card number="2" name="Rise from the Grave"/>
+        <card number="1" name="Rabid Bite"/>
+        <card number="1" name="Vampire Sovereign"/>
+        <card number="1" name="Skyscanner"/>
+        <card number="2" name="Skeleton Archer"/>
+        <card number="1" name="Daggerback Basilisk"/>
+        <card number="2" name="Druid of the Cowl"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Omenspeaker"/>
+        <card number="1" name="Onakke Ogre"/>
+        <card number="2" name="One with the Machine"/>
+        <card number="1" name="Plains"/>
+        <card number="2" name="Plummet"/>
+        <card number="1" name="Revitalize"/>
+        <card number="2" name="Root Snare"/>
+        <card number="1" name="Rupture Spire"/>
+        <card number="1" name="Salvager of Secrets"/>
+        <card number="1" name="Scapeshift"/>
+        <card number="1" name="Scholar of Stars"/>
+        <card number="1" name="Smelt"/>
+        <card number="1" name="Snapping Drake"/>
+        <card number="2" name="Sovereign's Bite"/>
+        <card number="1" name="Star-Crowned Stag"/>
+        <card number="1" name="Stitcher's Supplier"/>
+        <card number="1" name="Tectonic Rift"/>
+        <card number="1" name="Tolarian Scholar"/>
+        <card number="1" name="Trumpet Blast"/>
+        <card number="2" name="Two-Headed Zombie"/>
+        <card number="1" name="Uncomfortable Chill"/>
+        <card number="1" name="Volley Veteran"/>
+        <card number="1" name="Aviation Pioneer"/>
+        <card number="2" name="Angel of the Dawn"/>
+        <card number="1" name="Alpine Moon"/>
+        <card number="1" name="Goblin Instigator"/>
+        <card number="1" name="Havoc Devils"/>
+        <card number="1" name="Heroic Reinforcements"/>
+        <card number="1" name="Inspired Charge"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Knight of the Tusk"/>
+        <card number="2" name="Knight's Pledge"/>
+        <card number="1" name="Meandering River"/>
+        <card number="1" name="Lava Axe"/>
+        <card number="1" name="Mighty Leap"/>
+        <card number="1" name="Mirror Image"/>
+        <card number="2" name="Mountain"/>
+        <card number="4" name="Boggart Brute"/>
+        <card number="1" name="Wall of Mist"/>
+        <card number="1" name="Bone to Ash"/>
+        <card number="1" name="Catalyst Elemental"/>
+        <card number="2" name="Cavalry Drillmaster"/>
+        <card number="1" name="Crash Through"/>
+        <card number="1" name="Disperse"/>
+        <card number="1" name="Doublecast"/>
+        <card number="1" name="Druid of Horns"/>
+        <card number="2" name="Dwarven Priest"/>
+        <card number="1" name="Dwindle"/>
+        <card number="1" name="Electrify"/>
+        <card number="1" name="Enigma Drake"/>
+        <card number="2" name="Field Creeper"/>
+        <card number="1" name="Gearsmith Guardian"/>
+        <card number="1" name="Gearsmith Prodigy"/>
+        <card number="1" name="Woodland Stream"/>
+    </zone>
+</cockatrice_deck>

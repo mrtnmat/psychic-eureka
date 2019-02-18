@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Simic_generalkale</deckname>
+    <comments>name : gu
+creator : general_kale
+format : limited
+</comments>
+    <zone name="main">
+        <card number="1" name="Woodland Stream"/>
+        <card number="1" name="Rupture Spire"/>
+        <card number="1" name="Mountain"/>
+        <card number="6" name="Island"/>
+        <card number="8" name="Forest"/>
+        <card number="1" name="Electrify"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Bone to Ash"/>
+        <card number="1" name="Rabid Bite"/>
+        <card number="1" name="Divination"/>
+        <card number="1" name="Declare Dominance"/>
+        <card number="1" name="Banefire"/>
+        <card number="1" name="Thornhide Wolves"/>
+        <card number="1" name="Skyrider Patrol"/>
+        <card number="1" name="Salvager of Secrets"/>
+        <card number="1" name="Runic Armasaur"/>
+        <card number="1" name="Rhox Oracle"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Aven Wind Mage"/>
+        <card number="2" name="Bristling Boar"/>
+        <card number="1" name="Centaur Courser"/>
+        <card number="1" name="Colossal Dreadmaw"/>
+        <card number="1" name="Daggerback Basilisk"/>
+        <card number="1" name="Departed Deckhand"/>
+        <card number="1" name="Elvish Rejuvenator"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Omenspeaker"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Boggart Brute"/>
+        <card number="1" name="Apex of Power"/>
+        <card number="1" name="Abnormal Endurance"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Volley Veteran"/>
+        <card number="1" name="Vampire Neonate"/>
+        <card number="1" name="Uncomfortable Chill"/>
+        <card number="1" name="Two-Headed Zombie"/>
+        <card number="1" name="Trusty Packbeast"/>
+        <card number="1" name="Trumpet Blast"/>
+        <card number="1" name="Titanic Growth"/>
+        <card number="1" name="Thud"/>
+        <card number="1" name="Strangling Spores"/>
+        <card number="1" name="Sparktongue Dragon"/>
+        <card number="1" name="Smelt"/>
+        <card number="1" name="Skymarch Bloodletter"/>
+        <card number="1" name="Siegebreaker Giant"/>
+        <card number="2" name="Shock"/>
+        <card number="1" name="Plummet"/>
+        <card number="2" name="Plains"/>
+        <card number="2" name="Oreskos Swiftclaw"/>
+        <card number="1" name="Novice Knight"/>
+        <card number="1" name="Mind Rot"/>
+        <card number="1" name="Millstone"/>
+        <card number="1" name="Meandering River"/>
+        <card number="1" name="Manalith"/>
+        <card number="1" name="Macabre Waltz"/>
+        <card number="1" name="Luminous Bonds"/>
+        <card number="1" name="Loxodon Line Breaker"/>
+        <card number="2" name="Knight of the Tusk"/>
+        <card number="1" name="Invoke the Divine"/>
+        <card number="1" name="Inspired Charge"/>
+        <card number="1" name="Infernal Scarring"/>
+        <card number="1" name="Infectious Horror"/>
+        <card number="1" name="Hired Blade"/>
+        <card number="2" name="Elvish Clancaller"/>
+        <card number="1" name="Forsaken Sanctuary"/>
+        <card number="2" name="Gearsmith Guardian"/>
+        <card number="2" name="Greenwood Sentinel"/>
+        <card number="1" name="Havoc Devils"/>
+        <card number="2" name="Herald of Faith"/>
+        <card number="1" name="Highland Game"/>
+        <card number="2" name="Druid of Horns"/>
+        <card number="1" name="Doublecast"/>
+        <card number="1" name="Doomed Dissenter"/>
+        <card number="2" name="Disperse"/>
+        <card number="1" name="Diregraf Ghoul"/>
+        <card number="1" name="Detection Tower"/>
+        <card number="2" name="Daybreak Chaplain"/>
+        <card number="1" name="Crash Through"/>
+        <card number="2" name="Child of Night"/>
+        <card number="1" name="Cavalry Drillmaster"/>
+        <card number="1" name="Catalyst Elemental"/>
+    </zone>
+</cockatrice_deck>

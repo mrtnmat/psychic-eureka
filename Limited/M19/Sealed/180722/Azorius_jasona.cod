@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Azorius_jasona</deckname>
+    <comments>name : wu
+creator : jasona
+format : limited
+</comments>
+    <zone name="main">
+        <card number="1" name="Knightly Valor"/>
+        <card number="1" name="Knight's Pledge"/>
+        <card number="7" name="Island"/>
+        <card number="10" name="Plains"/>
+        <card number="1" name="Dwindle"/>
+        <card number="1" name="Ajani's Last Stand"/>
+        <card number="1" name="Sigiled Sword of Valeron"/>
+        <card number="1" name="Marauder's Axe"/>
+        <card number="1" name="Explosive Apparatus"/>
+        <card number="1" name="Mighty Leap"/>
+        <card number="1" name="Switcheroo"/>
+        <card number="1" name="Sift"/>
+        <card number="1" name="Snapping Drake"/>
+        <card number="1" name="Pegasus Courser"/>
+        <card number="1" name="Oreskos Swiftclaw"/>
+        <card number="1" name="Mirror Image"/>
+        <card number="2" name="Loxodon Line Breaker"/>
+        <card number="1" name="Horizon Scholar"/>
+        <card number="2" name="Gallant Cavalry"/>
+        <card number="1" name="Departed Deckhand"/>
+        <card number="1" name="Daybreak Chaplain"/>
+        <card number="2" name="Cavalry Drillmaster"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Stitcher's Supplier"/>
+        <card number="2" name="Strangling Spores"/>
+        <card number="1" name="Suspicious Bookcase"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Talons of Wildwood"/>
+        <card number="1" name="Timber Gorge"/>
+        <card number="2" name="Titanic Growth"/>
+        <card number="2" name="Tormenting Voice"/>
+        <card number="1" name="Vampire Neonate"/>
+        <card number="1" name="Vampire Sovereign"/>
+        <card number="1" name="Volley Veteran"/>
+        <card number="2" name="Sparktongue Dragon"/>
+        <card number="1" name="Skyscanner"/>
+        <card number="2" name="Skeleton Archer"/>
+        <card number="1" name="Shock"/>
+        <card number="1" name="Rustwing Falcon"/>
+        <card number="1" name="Root Snare"/>
+        <card number="1" name="Rise from the Grave"/>
+        <card number="1" name="Rhox Oracle"/>
+        <card number="1" name="Rabid Bite"/>
+        <card number="2" name="Poison-Tip Archer"/>
+        <card number="1" name="Plague Mare"/>
+        <card number="1" name="One with the Machine"/>
+        <card number="1" name="Omenspeaker"/>
+        <card number="2" name="Novice Knight"/>
+        <card number="1" name="Mind Rot"/>
+        <card number="1" name="Macabre Waltz"/>
+        <card number="2" name="Knight of the Tusk"/>
+        <card number="1" name="Infernal Scarring"/>
+        <card number="1" name="Infernal Reckoning"/>
+        <card number="1" name="Hostile Minotaur"/>
+        <card number="1" name="Hired Blade"/>
+        <card number="1" name="Highland Lake"/>
+        <card number="1" name="Highland Game"/>
+        <card number="1" name="Goblin Motivator"/>
+        <card number="1" name="Gearsmith Prodigy"/>
+        <card number="1" name="Gearsmith Guardian"/>
+        <card number="1" name="Foul Orchard"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Knight's Pledge"/>
+        <card number="1" name="Island"/>
+        <card number="2" name="Act of Treason"/>
+        <card number="2" name="Aether Tunnel"/>
+        <card number="1" name="Amulet of Safekeeping"/>
+        <card number="4" name="Anticipate"/>
+        <card number="1" name="Boggart Brute"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Catalyst Elemental"/>
+        <card number="1" name="Child of Night"/>
+        <card number="1" name="Daggerback Basilisk"/>
+        <card number="2" name="Druid of the Cowl"/>
+        <card number="1" name="Elvish Clancaller"/>
+        <card number="1" name="Fire Elemental"/>
+    </zone>
+</cockatrice_deck>

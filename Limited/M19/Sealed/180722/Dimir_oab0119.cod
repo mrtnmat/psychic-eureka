@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Dimir_oab0119</deckname>
+    <comments>name : ub
+creator : oab0119
+format : limited
+</comments>
+    <zone name="main">
+        <card number="1" name="Sleep"/>
+        <card number="3" name="Lich's Caress"/>
+        <card number="2" name="Skyscanner"/>
+        <card number="1" name="Scholar of Stars"/>
+        <card number="1" name="Sai, Master Thopterist"/>
+        <card number="1" name="Plague Mare"/>
+        <card number="2" name="Omenspeaker"/>
+        <card number="1" name="Mirror Image"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Gravedigger"/>
+        <card number="1" name="Gearsmith Guardian"/>
+        <card number="1" name="Frilled Sea Serpent"/>
+        <card number="1" name="Fell Specter"/>
+        <card number="1" name="Exclusion Mage"/>
+        <card number="1" name="Aviation Pioneer"/>
+        <card number="8" name="Swamp"/>
+        <card number="1" name="Submerged Boneyard"/>
+        <card number="8" name="Island"/>
+        <card number="1" name="Metamorphic Alteration"/>
+        <card number="2" name="Marauder's Axe"/>
+        <card number="1" name="Abnormal Endurance"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Goblin Instigator"/>
+        <card number="1" name="Gift of Paradise"/>
+        <card number="1" name="Ghostform"/>
+        <card number="2" name="Gearsmith Prodigy"/>
+        <card number="1" name="Foul Orchard"/>
+        <card number="1" name="Forest"/>
+        <card number="2" name="Epicure of Blood"/>
+        <card number="1" name="Elvish Rejuvenator"/>
+        <card number="1" name="Dwarven Priest"/>
+        <card number="1" name="Druid of the Cowl"/>
+        <card number="1" name="Draconic Disciple"/>
+        <card number="1" name="Doublecast"/>
+        <card number="1" name="Disperse"/>
+        <card number="1" name="Dark-Dweller Oracle"/>
+        <card number="1" name="Colossal Dreadmaw"/>
+        <card number="1" name="Cleansing Nova"/>
+        <card number="1" name="Cavalry Drillmaster"/>
+        <card number="1" name="Catalyst Elemental"/>
+        <card number="1" name="Bristling Boar"/>
+        <card number="1" name="Boggart Brute"/>
+        <card number="2" name="Wall of Mist"/>
+        <card number="1" name="Walking Corpse"/>
+        <card number="1" name="Volley Veteran"/>
+        <card number="1" name="Vine Mare"/>
+        <card number="1" name="Vampire Neonate"/>
+        <card number="1" name="Two-Headed Zombie"/>
+        <card number="1" name="Tormenting Voice"/>
+        <card number="2" name="Titanic Growth"/>
+        <card number="1" name="Talons of Wildwood"/>
+        <card number="1" name="Take Vengeance"/>
+        <card number="1" name="Star-Crowned Stag"/>
+        <card number="1" name="Sparktongue Dragon"/>
+        <card number="1" name="Sovereign's Bite"/>
+        <card number="1" name="Aerial Engineer"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Island"/>
+        <card number="2" name="Smelt"/>
+        <card number="2" name="Rustwing Falcon"/>
+        <card number="1" name="Ravenous Harpy"/>
+        <card number="1" name="Rabid Bite"/>
+        <card number="1" name="Psychic Corrosion"/>
+        <card number="2" name="Plummet"/>
+        <card number="1" name="Novice Knight"/>
+        <card number="1" name="Naturalize"/>
+        <card number="1" name="Mistcaller"/>
+        <card number="1" name="Militia Bugler"/>
+        <card number="1" name="Manalith"/>
+        <card number="1" name="Lightning Strike"/>
+        <card number="2" name="Lava Axe"/>
+        <card number="1" name="Invoke the Divine"/>
+        <card number="1" name="Infernal Scarring"/>
+        <card number="1" name="Infectious Horror"/>
+        <card number="1" name="Hungering Hydra"/>
+        <card number="1" name="Hired Blade"/>
+        <card number="1" name="Havoc Devils"/>
+        <card number="1" name="Greenwood Sentinel"/>
+    </zone>
+</cockatrice_deck>
